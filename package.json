@@ -14,7 +14,8 @@
     "data:validate": "node scripts/validate-events.mjs",
     "data:chapters": "node scripts/validate-chapters.mjs",
     "postinstall": "node scripts/copy-cesium.mjs",
-    "data:points": "node scripts/reconstruct-event-points.mjs"
+    "data:points": "node scripts/reconstruct-event-points.mjs",
+    "deploy": "node scripts/deploy-pages.mjs"
   },
   "dependencies": {
     "@turf/helpers": "^7.4.0",
