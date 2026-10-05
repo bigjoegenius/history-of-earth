@@ -24,8 +24,9 @@ writeFileSync(join(dist, '.nojekyll'), '');
 
 const work = mkdtempSync(join(tmpdir(), 'gh-pages-'));
 try {
-  sh(`git init -q -b gh-pages "${work}"`);
+  // Sync first, then init: rsync --delete would otherwise remove the fresh .git folder.
   sh(`rsync -a --delete "${dist}/" "${work}/"`);
+  sh(`git init -q -b gh-pages "${work}"`);
   const sha = out('git rev-parse --short HEAD');
   sh(`git -C "${work}" add -A`);
   sh(`git -C "${work}" -c user.name="deploy" -c user.email="deploy@localhost" commit -q -m "Deploy ${sha} to GitHub Pages"`);
