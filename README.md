@@ -10,6 +10,8 @@ Built with CesiumJS, Vite and TypeScript. No API keys are needed: imagery comes 
 GPlates Web Service (Merdith et al. 2021), and historical borders from the historical-basemaps
 project plus Natural Earth.
 
+**Live site:** https://bigjoegenius.github.io/history-of-earth/
+
 ## Run locally
 
 ```bash
@@ -59,8 +61,15 @@ npm run build
 ```
 
 `dist/` is a static site. Deploy it to any static host (Netlify, Vercel, GitHub Pages,
-Cloudflare Pages, S3). The app uses absolute paths (`/cesium/…`, `/data/…`), so serve it from
-the domain root or set Vite's `base` option if it lives under a sub-path.
+Cloudflare Pages, S3). When the site lives under a sub-path, build with `BASE=/sub-path/ npm run build`
+so the app, its data and Cesium's assets resolve correctly.
+
+To publish to GitHub Pages (builds with the repo name as the base path and force-pushes `dist/`
+to the `gh-pages` branch, which Pages serves):
+
+```bash
+npm run deploy
+```
 
 ## Content principles
 
