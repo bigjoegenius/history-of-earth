@@ -1,0 +1,80 @@
+/* App shell: full-viewport globe under the UI overlay, plus the start-up error screen. */
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #000;
+  /* Pull-to-refresh and rubber-banding would fight the globe's own touch gestures. */
+  overscroll-behavior: none;
+}
+#app { position: fixed; inset: 0; }
+/* Below the .hoe-ui overlay (z-index 10). */
+.hoe-globe { position: absolute; inset: 0; z-index: 0; }
+/*
+ * Map attribution (src/globe/viewer.ts): Cesium's credit display lists the imagery layers in use
+ * (NASA GIBS, and Esri while its layer is on). Esri's terms require that credit to stay visible
+ * on the map, so it sits in a lane kept free below the playback controls (above the bottom sheet
+ * on phones; see --hoe-credits-h). The CesiumJS logo is dropped (!important beats the inline style
+ * Cesium sets): no Cesium ion services are used, and CesiumJS is credited in "Credits & sources".
+ */
+.hoe-map-credits {
+  position: absolute;
+  z-index: 1; /* above the Cesium canvas, which comes later in the globe container */
+  left: 12px;
+  right: calc(var(--hoe-panel-w) + 24px);
+  bottom: 4px;
+  text-align: right;
+  font: 10px/13px system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color: rgba(255, 255, 255, 0.82);
+  text-shadow: 0 0 2px #000, 0 0 4px #000;
+}
+.hoe-map-credits .cesium-credit-logoContainer { display: none !important; }
+.hoe-map-credits .cesium-credit-textContainer .cesium-credit-wrapper:first-of-type { padding-left: 0; }
+.hoe-map-credits .cesium-credit-delimiter { padding: 0 4px; }
+@media (min-width: 1024px) {
+  :root.hoe-toc-open .hoe-map-credits { left: calc(var(--hoe-toc-w) + 12px); }
+}
+@media (max-width: 799px) {
+  .hoe-map-credits { left: 8px; right: 8px; bottom: calc(var(--sheet-h) + 4px); text-align: center; }
+}
+
+.hoe-fatal {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: radial-gradient(circle at 50% 40%, #13202e, #000 70%);
+  color: var(--hoe-text, #e9eef5);
+  font: 14px/1.5 var(--hoe-font, system-ui, sans-serif);
+}
+.hoe-fatal__card {
+  max-width: 520px;
+  padding: 24px;
+  border: 1px solid var(--hoe-hairline-strong, rgba(255, 255, 255, 0.16));
+  border-radius: var(--hoe-radius, 12px);
+  background: var(--hoe-glass-strong, rgba(10, 14, 22, 0.9));
+}
+.hoe-fatal h1 { margin: 0 0 8px; font-size: 20px; }
+.hoe-fatal p { margin: 0 0 12px; color: var(--hoe-text-dim, #a7b2c1); }
+.hoe-fatal pre {
+  margin: 0 0 16px;
+  padding: 8px 10px;
+  max-height: 160px;
+  overflow: auto;
+  white-space: pre-wrap;
+  border-radius: var(--hoe-radius-sm, 8px);
+  background: rgba(255, 255, 255, 0.06);
+  font-size: 12px;
+}
+.hoe-fatal button {
+  padding: 8px 16px;
+  border: 0;
+  border-radius: var(--hoe-radius-sm, 8px);
+  background: var(--hoe-accent, #4fc3f7);
+  color: var(--hoe-accent-ink, #03141c);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Globe test harness</title>
+    <style>
+      html, body { margin: 0; height: 100%; overflow: hidden; background: #000; color: #e8eef5;
+        font: 12px/1.4 system-ui, -apple-system, sans-serif; }
+      #globe { position: absolute; inset: 0; }
+      #panel { position: absolute; top: 12px; left: 12px; width: 300px; max-height: calc(100% - 24px);
+        overflow: auto; padding: 10px 12px; border-radius: 10px; background: rgba(12, 18, 28, 0.82);
+        border: 1px solid rgba(255, 255, 255, 0.12); backdrop-filter: blur(8px); }
+      #panel h2 { margin: 10px 0 6px; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: #8fa3b8; }
+      #panel h2:first-child { margin-top: 0; }
+      .row { display: flex; flex-wrap: wrap; gap: 4px; }
+      button { padding: 4px 7px; border-radius: 5px; border: 1px solid rgba(255, 255, 255, 0.18);
+        background: rgba(255, 255, 255, 0.06); color: inherit; font: inherit; cursor: pointer; }
+      button:hover { background: rgba(255, 255, 255, 0.14); }
+      button.active { background: #2c6bb0; border-color: #4d8fd6; }
+      label { display: inline-flex; align-items: center; gap: 4px; margin-right: 8px; }
+      input[type='range'] { width: 100%; }
+      pre { margin: 6px 0 0; padding: 6px; border-radius: 6px; background: rgba(0, 0, 0, 0.35);
+        white-space: pre-wrap; word-break: break-word; font-size: 11px; }
+    </style>
+  </head>
+  <body>
+    <div id="globe"></div>
+    <div id="panel"></div>
+    <script type="module" src="/src/dev/globe-test.ts"></script>
+  </body>
+</html>

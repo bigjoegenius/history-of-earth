@@ -1,0 +1,27 @@
+{
+  "name": "history-of-earth",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "data:paleo": "node scripts/fetch-paleo.mjs",
+    "data:borders": "node scripts/fetch-borders.mjs",
+    "data:validate": "node scripts/validate-events.mjs",
+    "data:chapters": "node scripts/validate-chapters.mjs",
+    "postinstall": "node scripts/copy-cesium.mjs",
+    "data:points": "node scripts/reconstruct-event-points.mjs"
+  },
+  "dependencies": {
+    "@turf/helpers": "^7.4.0",
+    "@turf/simplify": "^7.4.0",
+    "cesium": "^1.146.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.2",
+    "vitest": "^5.0.3"
+  }
+}

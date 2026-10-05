@@ -1,0 +1,1821 @@
+[
+  {
+    "id": "modern1-louisiana-purchase",
+    "title": "Louisiana Purchase",
+    "year": 1803.33,
+    "dateLabel": "30 April 1803 (transferred 20 December 1803)",
+    "lat": 29.96,
+    "lon": -90.06,
+    "category": "politics",
+    "importance": 4,
+    "summary": "The United States bought France's claim to the vast Louisiana territory for $15 million, roughly doubling the size of the young republic.",
+    "description": "After Spain secretly returned Louisiana to France in 1800, President Thomas Jefferson sent envoys to buy New Orleans and secure American shipping on the Mississippi. Napoleon, whose army had been destroyed in Saint-Domingue by the Haitian Revolution and yellow fever and who expected renewed war with Britain, instead offered the whole territory, and Robert Livingston and James Monroe signed the treaty in Paris dated 30 April 1803. The roughly 2.1 million square kilometres of the Mississippi basin west of the river cost $15 million, under three cents an acre, and were formally handed over at New Orleans on 20 December 1803. The purchase, whose constitutionality Jefferson himself doubted, opened the way for the Lewis and Clark expedition and westward expansion. Most of the land was in fact held by Native American nations, who were not consulted; what the United States acquired was France's claim to it.",
+    "wikipedia": "Louisiana Purchase",
+    "consensus": "established",
+    "tags": [
+      "United States",
+      "France",
+      "territory",
+      "Napoleon"
+    ]
+  },
+  {
+    "id": "modern1-napoleonic-wars",
+    "title": "Napoleonic Wars",
+    "year": 1803.38,
+    "endYear": 1815.89,
+    "dateLabel": "18 May 1803 – 20 November 1815",
+    "lat": 48.86,
+    "lon": 2.35,
+    "category": "war",
+    "importance": 5,
+    "summary": "Napoleon's France fought shifting coalitions across Europe for twelve years, redrawing borders from Spain to Russia.",
+    "description": "After the brief Peace of Amiens collapsed in May 1803, Britain and a series of coalitions fought Napoleonic France, which crowned Napoleon emperor in December 1804. Victories such as Austerlitz (2 December 1805) and Jena (1806) gave France dominance over most of continental Europe, while Britain kept control of the seas and blockaded French trade. The Peninsular War, the disastrous invasion of Russia in 1812 and defeat at Leipzig in 1813 broke French power, and Napoleon's return in 1815 ended at Waterloo. Several million soldiers and civilians died, and the wars spread the Napoleonic Code, dissolved the Holy Roman Empire and stirred nationalism across Europe and Latin America.",
+    "wikipedia": "Napoleonic Wars",
+    "consensus": "established",
+    "tags": [
+      "Napoleon",
+      "Europe",
+      "coalition wars"
+    ]
+  },
+  {
+    "id": "modern1-haitian-independence",
+    "title": "Haiti declares independence",
+    "year": 1804,
+    "dateLabel": "1 January 1804",
+    "lat": 19.45,
+    "lon": -72.69,
+    "category": "politics",
+    "importance": 4,
+    "summary": "At Gonaïves, Jean-Jacques Dessalines proclaimed Haiti the first independent state founded by formerly enslaved people.",
+    "description": "The Haitian Revolution began with a mass uprising of enslaved people in the French colony of Saint-Domingue in 1791 and, after the defeat of Napoleon's expedition at the Battle of Vertières in November 1803, ended French rule. The Act of Independence created the State of Haiti with Dessalines as governor-general for life, and he proclaimed himself Emperor Jacques I later in 1804. Haiti became the second independent nation in the Americas, after the United States, and the first in the region to abolish slavery permanently. The revolution alarmed slaveholding powers, which refused diplomatic recognition for decades. In 1825 France demanded an indemnity of 150 million francs, later reduced to 90 million, in exchange for recognition, a debt that burdened Haiti's economy into the 20th century.",
+    "wikipedia": "Haitian Declaration of Independence",
+    "consensus": "established",
+    "tags": [
+      "Caribbean",
+      "abolition",
+      "revolution"
+    ]
+  },
+  {
+    "id": "modern1-sokoto-caliphate",
+    "title": "Usman dan Fodio founds the Sokoto Caliphate",
+    "year": 1804.14,
+    "endYear": 1809,
+    "dateLabel": "1804–1809",
+    "lat": 13.06,
+    "lon": 5.24,
+    "category": "empire",
+    "importance": 3,
+    "summary": "A Fulani-led Islamic reform movement overthrew the Hausa kingdoms and created one of 19th-century Africa's largest states.",
+    "description": "In February 1804 the scholar and preacher Usman dan Fodio launched a jihad against the Hausa ruler of Gobir, accusing the Hausa kings of corruption and lax Islam. By 1809 his followers had conquered most of the Hausa city-states, and his son Muhammad Bello founded Sokoto as the capital. The caliphate, a federation of emirates spanning much of today's northern Nigeria and parts of Niger, Cameroon and Burkina Faso, became a major centre of Islamic scholarship, literacy and trade. It endured until British forces conquered it in 1903.",
+    "wikipedia": "Sokoto Caliphate",
+    "consensus": "established",
+    "tags": [
+      "West Africa",
+      "Islam",
+      "Fulani"
+    ]
+  },
+  {
+    "id": "modern1-trafalgar",
+    "title": "Battle of Trafalgar",
+    "year": 1805.8,
+    "dateLabel": "21 October 1805",
+    "lat": 36.17,
+    "lon": -6.1,
+    "category": "war",
+    "importance": 3,
+    "summary": "Nelson's British fleet destroyed a combined French and Spanish fleet off Cape Trafalgar, securing British naval supremacy.",
+    "description": "Off Cape Trafalgar in south-western Spain, 27 British ships of the line under Vice-Admiral Horatio Nelson attacked 33 French and Spanish ships under Admiral Villeneuve. Nelson's unconventional tactic of breaking the enemy line in two columns led to the capture or destruction of about 22 allied ships without the loss of a single British ship. Nelson himself was killed by a musket ball during the battle. Trafalgar ended any realistic prospect of a French invasion of Britain and underpinned British dominance at sea for the rest of the century.",
+    "wikipedia": "Battle of Trafalgar",
+    "consensus": "established",
+    "tags": [
+      "naval",
+      "Napoleonic Wars",
+      "Nelson"
+    ]
+  },
+  {
+    "id": "modern1-slave-trade-act",
+    "title": "Britain abolishes the slave trade",
+    "year": 1807.23,
+    "dateLabel": "25 March 1807",
+    "lat": 51.5,
+    "lon": -0.13,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Parliament's Slave Trade Act banned British participation in the Atlantic slave trade, followed by a US ban in 1808.",
+    "description": "After two decades of campaigning by abolitionists such as Thomas Clarkson, William Wilberforce and Olaudah Equiano, and amid repeated revolts by enslaved people, the British Parliament outlawed the slave trade in the British Empire. The United States prohibited the importation of enslaved people from 1 January 1808, and Britain's Royal Navy formed the West Africa Squadron to intercept slave ships. The act did not free those already enslaved: slavery in most of the British Empire was abolished only by the Slavery Abolition Act of 1833, which paid £20 million in compensation to slave owners, not to the enslaved. The illegal trade continued, especially to Brazil and Cuba, until the 1860s.",
+    "wikipedia": "Slave Trade Act 1807",
+    "consensus": "established",
+    "tags": [
+      "abolition",
+      "Atlantic slave trade",
+      "Britain"
+    ]
+  },
+  {
+    "id": "modern1-spanish-american-independence",
+    "title": "Spanish American wars of independence",
+    "year": 1810.3,
+    "endYear": 1826.04,
+    "dateLabel": "1810–1826",
+    "lat": 10.5,
+    "lon": -66.92,
+    "category": "war",
+    "importance": 4,
+    "summary": "Led by figures such as Simón Bolívar and José de San Martín, Spain's mainland American colonies won independence.",
+    "description": "Napoleon's occupation of Spain in 1808 created a crisis of legitimacy, and in 1810 juntas in Caracas, Buenos Aires, Bogotá and Santiago took power, while Miguel Hidalgo's Grito de Dolores began Mexico's war of independence. Simón Bolívar led campaigns in the north, winning at Boyacá (1819) and Carabobo (1821), while José de San Martín crossed the Andes in 1817 to liberate Chile and then Peru. Mexico became independent in 1821, and the royalist defeat at Ayacucho in December 1824 effectively ended Spanish rule in South America, with the last garrison at Callao surrendering in January 1826. Spain kept only Cuba and Puerto Rico, and the new republics faced decades of instability and civil conflict.",
+    "wikipedia": "Spanish American wars of independence",
+    "consensus": "established",
+    "tags": [
+      "Latin America",
+      "Bolívar",
+      "San Martín",
+      "independence"
+    ]
+  },
+  {
+    "id": "modern1-invasion-of-russia",
+    "title": "Napoleon's invasion of Russia",
+    "year": 1812.48,
+    "endYear": 1812.95,
+    "dateLabel": "24 June – 14 December 1812",
+    "lat": 55.52,
+    "lon": 35.82,
+    "category": "war",
+    "importance": 3,
+    "summary": "The Grande Armée of roughly half a million men reached a burning Moscow, then disintegrated in the winter retreat.",
+    "description": "Napoleon crossed the Niemen River in June 1812 with an army usually estimated at 450,000–600,000 men to force Tsar Alexander I back into the Continental System. Russian forces retreated, fought the bloody but indecisive Battle of Borodino on 7 September, and abandoned Moscow, which burned shortly after the French arrived. With no peace offer and supplies failing, Napoleon retreated in October; hunger, cold, disease and Cossack attacks destroyed most of his army, and only a small fraction recrossed the frontier in December. The catastrophe encouraged Prussia and Austria to rejoin the coalition against France.",
+    "wikipedia": "French invasion of Russia",
+    "consensus": "established",
+    "tags": [
+      "Napoleonic Wars",
+      "Russia",
+      "Borodino"
+    ]
+  },
+  {
+    "id": "modern1-congress-of-vienna",
+    "title": "Congress of Vienna",
+    "year": 1814.84,
+    "endYear": 1815.44,
+    "dateLabel": "November 1814 – 9 June 1815",
+    "lat": 48.21,
+    "lon": 16.37,
+    "category": "politics",
+    "importance": 4,
+    "summary": "European powers redrew the continent's map after Napoleon, creating a balance of power that limited general war for decades.",
+    "description": "Hosted by Austria's foreign minister Klemens von Metternich, the congress brought together Austria, Britain, Prussia, Russia and a defeated but influential France represented by Talleyrand. Its Final Act created the German Confederation, an enlarged Kingdom of the Netherlands and a Russian-ruled Kingdom of Poland, restored many monarchies and condemned the slave trade. The settlement favoured dynastic legitimacy over nationalism and liberalism, which fuelled later revolutions. The resulting Concert of Europe helped avoid a general European war until 1914, though major wars such as the Crimean and Franco-Prussian wars still occurred.",
+    "wikipedia": "Congress of Vienna",
+    "consensus": "established",
+    "tags": [
+      "diplomacy",
+      "Concert of Europe",
+      "Metternich"
+    ]
+  },
+  {
+    "id": "modern1-tambora",
+    "title": "Eruption of Mount Tambora",
+    "year": 1815.27,
+    "dateLabel": "10–11 April 1815",
+    "lat": -8.25,
+    "lon": 118,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "The largest volcanic eruption in recorded history blew apart Tambora on Sumbawa, Indonesia, killing tens of thousands.",
+    "description": "After rumbling from 5 April, Tambora's climactic VEI-7 eruption on 10–11 April 1815 ejected well over 100 cubic kilometres of rock and ash, lowered the mountain by more than 1,000 m and left a caldera about 6 km wide. Pyroclastic flows and tsunamis killed around 10,000 people directly, and subsequent famine and disease on Sumbawa and Lombok raised the toll to at least 71,000 by commonly cited estimates. The small kingdom of Tambora was buried, and excavations have since uncovered its remains. Sulphate aerosols injected into the stratosphere cooled the Northern Hemisphere the following year.",
+    "wikipedia": "1815 eruption of Mount Tambora",
+    "consensus": "established",
+    "tags": [
+      "volcano",
+      "Indonesia",
+      "VEI 7"
+    ]
+  },
+  {
+    "id": "modern1-waterloo",
+    "title": "Battle of Waterloo",
+    "year": 1815.46,
+    "dateLabel": "18 June 1815",
+    "lat": 50.68,
+    "lon": 4.41,
+    "category": "war",
+    "importance": 4,
+    "summary": "Wellington's Anglo-allied army and Blücher's Prussians defeated Napoleon near Waterloo, ending his Hundred Days.",
+    "description": "Napoleon escaped exile on Elba in February 1815 and retook power in France, then marched into what is now Belgium to defeat the allied armies separately. At Waterloo, the Duke of Wellington's army held the ridge of Mont-Saint-Jean through repeated French attacks until Field Marshal Blücher's Prussian army arrived on the French flank in the evening, and the French army collapsed. Napoleon abdicated on 22 June and was exiled to the South Atlantic island of Saint Helena, where he died in 1821. The battle closed more than two decades of near-continuous war between France and the rest of Europe.",
+    "wikipedia": "Battle of Waterloo",
+    "consensus": "established",
+    "tags": [
+      "Napoleonic Wars",
+      "Belgium",
+      "Wellington"
+    ]
+  },
+  {
+    "id": "modern1-year-without-a-summer",
+    "title": "The Year Without a Summer",
+    "year": 1816.3,
+    "endYear": 1817,
+    "dateLabel": "1816",
+    "lat": 46.2,
+    "lon": 6.15,
+    "global": true,
+    "category": "climate",
+    "importance": 3,
+    "summary": "Volcanic haze from Tambora brought June snow to New England, ruined harvests in Europe and caused famine and unrest.",
+    "description": "Sulphate aerosols from the 1815 Tambora eruption lowered average Northern Hemisphere temperatures by roughly 0.4–0.7 °C in 1816, with much larger regional anomalies. Snow fell in New England and Quebec in June, frosts struck through the summer, and cold, persistent rain caused harvest failures across western and central Europe, leading to food riots, typhus epidemics and emigration. Disrupted monsoons in Asia have also been linked to the event. An unidentified eruption around 1809 had already cooled the decade, and low solar activity may have contributed. At Lake Geneva the gloomy weather kept Mary Shelley indoors, where she began writing Frankenstein.",
+    "wikipedia": "Year Without a Summer",
+    "consensus": "established",
+    "tags": [
+      "volcanic winter",
+      "famine",
+      "Tambora"
+    ]
+  },
+  {
+    "id": "modern1-first-cholera-pandemic",
+    "title": "First cholera pandemic",
+    "year": 1817.6,
+    "endYear": 1824,
+    "dateLabel": "1817–1824",
+    "lat": 23.17,
+    "lon": 89.21,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "Cholera spread from the Ganges delta near Jessore, Bengal, across Asia, the first of seven global cholera pandemics.",
+    "description": "Cholera had long been endemic in the Ganges delta, but in 1817 an outbreak near Jessore (Jashore, now in Bangladesh) spread along trade and military routes through India, then to Southeast Asia, China, Japan, the Persian Gulf and the edge of Russia. Deaths numbered in the hundreds of thousands, though records are incomplete. Later pandemics reached Europe and the Americas from 1830 onward, and repeated outbreaks drove 19th-century reforms in sanitation and water supply. The bacterial cause, Vibrio cholerae, was described by Filippo Pacini in 1854 and identified by Robert Koch in 1883–1884.",
+    "wikipedia": "1817–1824 cholera pandemic",
+    "consensus": "established",
+    "tags": [
+      "pandemic",
+      "disease",
+      "India"
+    ]
+  },
+  {
+    "id": "modern1-symmes-hollow-earth",
+    "title": "Symmes's hollow Earth with polar openings",
+    "year": 1818.28,
+    "dateLabel": "10 April 1818 (Symmes's Circular No. 1)",
+    "lat": 38.63,
+    "lon": -90.2,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Former US Army captain John Cleves Symmes Jr. declared Earth hollow and habitable within, with vast openings at both poles.",
+    "description": "In a circular issued from St. Louis in April 1818, John Cleves Symmes Jr. claimed that Earth consisted of concentric hollow spheres open at the poles, and asked for '100 brave companions' to sail through the northern opening. He lectured widely and petitioned Congress for a polar expedition; his follower Jeremiah N. Reynolds later lobbied for the voyage that became the US Exploring Expedition of 1838–1842, which did not pursue the theory. The idea inspired fiction such as Edgar Allan Poe's work and later hollow-Earth literature, and variants still circulate today.",
+    "wikipedia": "John Cleves Symmes Jr.",
+    "consensus": "fringe",
+    "mainstreamView": "Earth is not hollow. Henry Cavendish's 1798 experiment showed Earth's mean density is about 5.5 g/cm³, roughly twice that of surface rocks, which requires a dense interior rather than a shell. Seismology from the early 20th century mapped a solid crust and mantle, a liquid outer core and a solid inner core, and explorers and later aircraft and satellites found no polar openings.",
+    "tags": [
+      "fringe",
+      "hollow Earth",
+      "pseudoscience"
+    ]
+  },
+  {
+    "id": "modern1-phrenology",
+    "title": "Phrenology spreads from Edinburgh",
+    "year": 1820.14,
+    "dateLabel": "1820 (Edinburgh Phrenological Society founded)",
+    "lat": 55.95,
+    "lon": -3.19,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Phrenologists claimed that bumps on the skull reveal a person's character and abilities; the idea became a popular craze.",
+    "description": "Franz Joseph Gall developed the doctrine around 1800 in Vienna, arguing that the brain consisted of separate organs for traits such as cautiousness or benevolence and that their size shaped the skull. Johann Spurzheim popularised it as 'phrenology', and George Combe co-founded the Edinburgh Phrenological Society in 1820; his book The Constitution of Man (1828) became a bestseller. Phrenological 'readings' were used in hiring, marriage advice and criminology, and were invoked to justify racist hierarchies and colonial rule. Its popularity faded in the second half of the century, though it lingered in popular culture.",
+    "wikipedia": "Phrenology",
+    "consensus": "fringe",
+    "mainstreamView": "Phrenology is a pseudoscience. Pierre Flourens's experiments in the 1820s found no evidence for Gall's organs, the outer shape of the skull does not mirror the brain's surface, and a 2018 study of about 6,000 MRI scans found no link between scalp shape and the traits phrenologists claimed. Gall's broader intuition that brain functions are localised was partly vindicated by later neuroscience, but not his specific claims.",
+    "tags": [
+      "fringe",
+      "pseudoscience",
+      "phrenology"
+    ]
+  },
+  {
+    "id": "modern1-greek-independence",
+    "title": "Greek War of Independence",
+    "year": 1821.2,
+    "endYear": 1829.7,
+    "dateLabel": "1821–1829 (independence recognised 1830)",
+    "lat": 37.57,
+    "lon": 22.8,
+    "category": "war",
+    "importance": 3,
+    "summary": "Greek revolutionaries, aided from 1827 by Britain, France and Russia, won independence from the Ottoman Empire.",
+    "description": "Revolts broke out in the Danubian principalities and the Peloponnese in early 1821, traditionally dated to 25 March. The war saw massacres on both sides, including at Tripolitsa in 1821 and Chios in 1822, and attracted European philhellenes such as Lord Byron, who died at Missolonghi in 1824. After Egyptian forces under Ibrahim Pasha nearly crushed the revolt, a British, French and Russian fleet destroyed the Ottoman–Egyptian fleet at Navarino in October 1827. The London Protocol of 1830 recognised an independent Greece, the first new nation-state carved from the Ottoman Empire, with Nafplio as its early capital.",
+    "wikipedia": "Greek War of Independence",
+    "consensus": "established",
+    "tags": [
+      "Ottoman Empire",
+      "nationalism",
+      "Navarino"
+    ]
+  },
+  {
+    "id": "modern1-brazil-independence",
+    "title": "Independence of Brazil",
+    "year": 1822.68,
+    "dateLabel": "7 September 1822",
+    "lat": -23.59,
+    "lon": -46.61,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Prince Regent Pedro declared Brazil independent of Portugal beside the Ipiranga brook, later becoming Emperor Pedro I.",
+    "description": "The Portuguese royal court had fled Napoleon's invasion to Rio de Janeiro in 1808, and in 1815 Brazil was raised to a kingdom within the United Kingdom of Portugal, Brazil and the Algarves. When the Lisbon parliament tried to reduce Brazil to a colony again, Prince Pedro, left behind as regent, declared independence near São Paulo on 7 September 1822 and was crowned emperor that December. Portugal recognised independence in 1825. Unlike Spanish America, Brazil remained a large, unified monarchy, and it preserved slavery until 1888; the empire was replaced by a republic in 1889.",
+    "wikipedia": "Independence of Brazil",
+    "consensus": "established",
+    "tags": [
+      "Brazil",
+      "independence",
+      "monarchy"
+    ]
+  },
+  {
+    "id": "modern1-monroe-doctrine",
+    "title": "Monroe Doctrine",
+    "year": 1823.92,
+    "dateLabel": "2 December 1823",
+    "lat": 38.9,
+    "lon": -77.04,
+    "category": "politics",
+    "importance": 2,
+    "summary": "President James Monroe warned European powers against new colonisation or intervention anywhere in the Americas.",
+    "description": "In his annual message to Congress, drafted largely by Secretary of State John Quincy Adams, Monroe declared that the Americas were closed to further European colonisation and that the United States would regard intervention in the newly independent Latin American republics as hostile, while staying out of European affairs. At the time the US lacked the power to enforce the policy, which in practice relied on the British navy. The doctrine became a cornerstone of US foreign policy, and the 1904 Roosevelt Corollary used it to justify US intervention in Latin American countries.",
+    "wikipedia": "Monroe Doctrine",
+    "consensus": "established",
+    "tags": [
+      "United States",
+      "foreign policy",
+      "Latin America"
+    ]
+  },
+  {
+    "id": "modern1-trail-of-tears",
+    "title": "Indian removal and the Trail of Tears",
+    "year": 1830.41,
+    "endYear": 1850,
+    "dateLabel": "1830–1850 (Cherokee removal 1838–1839)",
+    "lat": 34.54,
+    "lon": -84.91,
+    "category": "politics",
+    "importance": 3,
+    "summary": "The US forcibly removed about 60,000 Cherokee, Muscogee, Seminole, Chickasaw and Choctaw people west of the Mississippi.",
+    "description": "President Andrew Jackson signed the Indian Removal Act on 28 May 1830, authorising treaties to exchange southeastern Native lands for territory in present-day Oklahoma. Although the Supreme Court in Worcester v. Georgia (1832) upheld Cherokee sovereignty, the federal government proceeded, and in 1838–1839 the army forced the Cherokee from their homeland, centred on their capital New Echota in Georgia, on overland marches. Thousands died of exposure, disease and starvation; estimates for the Cherokee alone range from about 2,000 to 8,000, with 4,000 often cited. The removals opened millions of acres to white settlement and cotton plantations worked by enslaved people.",
+    "wikipedia": "Trail of Tears",
+    "consensus": "established",
+    "tags": [
+      "Native Americans",
+      "forced migration",
+      "United States"
+    ]
+  },
+  {
+    "id": "modern1-liverpool-manchester-railway",
+    "title": "The railway age: Liverpool and Manchester Railway",
+    "year": 1830.71,
+    "dateLabel": "15 September 1830",
+    "lat": 53.43,
+    "lon": -2.6,
+    "category": "technology",
+    "importance": 5,
+    "summary": "The first intercity railway worked entirely by steam locomotives opened, launching a global railway boom.",
+    "description": "The Stockton and Darlington Railway of 1825 had used steam locomotives for some traffic, but the Liverpool and Manchester Railway was the first intercity line to run scheduled passenger and freight trains entirely by steam. Its engineers chose locomotives after the 1829 Rainhill Trials, won by George and Robert Stephenson's Rocket; on opening day the politician William Huskisson was fatally struck by a train. Railways spread rapidly through Britain, Europe, North America and colonial India, and by 1914 the world had more than a million kilometres of track. They cut travel times dramatically, created national markets and standardised time, and became the backbone of industrialisation and imperial expansion.",
+    "wikipedia": "Liverpool and Manchester Railway",
+    "consensus": "established",
+    "tags": [
+      "railways",
+      "steam",
+      "Industrial Revolution"
+    ]
+  },
+  {
+    "id": "modern1-first-opium-war",
+    "title": "First Opium War",
+    "year": 1839.68,
+    "endYear": 1842.66,
+    "dateLabel": "1839 – 29 August 1842",
+    "lat": 23.13,
+    "lon": 113.26,
+    "category": "war",
+    "importance": 4,
+    "summary": "Britain went to war after China destroyed seized opium, forcing open treaty ports and taking Hong Kong.",
+    "description": "British merchants had built a huge, illegal trade selling Indian opium into China to pay for tea. In 1839 the Qing commissioner Lin Zexu confiscated and destroyed more than 1,000 tonnes of opium at Humen near Canton (Guangzhou), and Britain responded with a naval expedition whose steam warships easily defeated Qing forces. The Treaty of Nanking (1842) ceded Hong Kong Island, opened five treaty ports including Shanghai and imposed a large indemnity. It was the first of the 'unequal treaties' that Chinese historiography places at the start of a 'century of humiliation'; a second Opium War followed in 1856–1860.",
+    "wikipedia": "First Opium War",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qing",
+      "British Empire",
+      "opium"
+    ]
+  },
+  {
+    "id": "modern1-tanzimat",
+    "title": "Tanzimat reforms in the Ottoman Empire",
+    "year": 1839.84,
+    "endYear": 1876.97,
+    "dateLabel": "1839–1876",
+    "lat": 41.01,
+    "lon": 28.98,
+    "category": "politics",
+    "importance": 2,
+    "summary": "The Edict of Gülhane launched decades of Ottoman reforms in law, taxation, the army and the status of non-Muslims.",
+    "description": "Proclaimed on 3 November 1839 under Sultan Abdülmecid I and drafted by Mustafa Reşid Pasha, the Edict of Gülhane promised security of life and property, regular taxation and fair conscription. The 1856 Reform Edict declared Muslims and non-Muslims equal before the law, and new courts, schools, codes and a modernised bureaucracy followed. The reforms aimed to strengthen the empire against European pressure and separatist nationalism, with mixed results. The era culminated in the first Ottoman constitution of December 1876, which Sultan Abdülhamid II suspended in 1878.",
+    "wikipedia": "Tanzimat",
+    "consensus": "established",
+    "tags": [
+      "Ottoman Empire",
+      "reform",
+      "modernisation"
+    ]
+  },
+  {
+    "id": "modern1-treaty-of-waitangi",
+    "title": "Treaty of Waitangi",
+    "year": 1840.1,
+    "dateLabel": "6 February 1840",
+    "lat": -35.27,
+    "lon": 174.08,
+    "category": "politics",
+    "importance": 2,
+    "summary": "British officials and Māori chiefs signed a treaty at Waitangi that became New Zealand's founding document.",
+    "description": "Lieutenant-Governor William Hobson and about 40 Māori rangatira (chiefs) signed the treaty at Waitangi in the Bay of Islands, and copies circulated around the country gathered more than 500 signatures. The English text ceded sovereignty to the British Crown, while the Māori text used 'kāwanatanga' (governorship) and guaranteed chiefs' 'tino rangatiratanga' (full authority) over their lands and treasures, a difference that remains contested. Land disputes led to the New Zealand Wars of 1845–1872 and large-scale confiscation of Māori land. Since 1975 the Waitangi Tribunal has investigated breaches of the treaty.",
+    "wikipedia": "Treaty of Waitangi",
+    "consensus": "established",
+    "tags": [
+      "New Zealand",
+      "Māori",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "modern1-bab-declaration",
+    "title": "The Báb declares his mission in Shiraz",
+    "year": 1844.39,
+    "dateLabel": "23 May 1844",
+    "lat": 29.61,
+    "lon": 52.53,
+    "category": "religion",
+    "importance": 2,
+    "summary": "A Shiraz merchant, Siyyid ʻAlí Muhammad, proclaimed himself the Báb ('Gate'), founding the Bábí movement that led to the Baháʼí Faith.",
+    "description": "In Shiraz, Persia, Siyyid ʻAlí Muhammad Shírází declared to his first follower that he was the Báb, a messianic figure in Shia Islamic expectation. His movement spread rapidly and was violently suppressed by the Qajar state and clergy; thousands of Bábís were killed, and the Báb was executed by firing squad in Tabriz in 1850. One of his followers, Baháʼu'lláh, declared in 1863 that he was the messenger foretold by the Báb, founding the Baháʼí Faith, which today has several million adherents worldwide and still faces persecution in Iran.",
+    "wikipedia": "Báb",
+    "consensus": "established",
+    "tags": [
+      "religion",
+      "Persia",
+      "Baháʼí"
+    ]
+  },
+  {
+    "id": "modern1-morse-telegraph",
+    "title": "\"What hath God wrought\": the electric telegraph",
+    "year": 1844.4,
+    "dateLabel": "24 May 1844",
+    "lat": 38.89,
+    "lon": -77.01,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Samuel Morse sent a message by wire from the US Capitol to Baltimore, launching long-distance electric communication in America.",
+    "description": "Electric telegraphs had been developed by several inventors, and William Cooke and Charles Wheatstone's system was operating on British railways from 1839. Samuel Morse and Alfred Vail's simple single-wire system and code proved cheap and robust, and the 1844 Washington–Baltimore demonstration line attracted wide attention. Within two decades telegraph networks spanned continents, and after a short-lived attempt in 1858 a durable transatlantic cable began operating in 1866. Near-instant communication transformed journalism, financial markets, railway operation, diplomacy and imperial administration.",
+    "wikipedia": "Electrical telegraph",
+    "consensus": "established",
+    "tags": [
+      "telegraph",
+      "communication",
+      "Morse code"
+    ]
+  },
+  {
+    "id": "modern1-great-irish-famine",
+    "title": "Great Famine in Ireland",
+    "year": 1845.7,
+    "endYear": 1852,
+    "dateLabel": "1845–1852",
+    "lat": 53.85,
+    "lon": -9.3,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "Potato blight caused mass starvation in Ireland: about a million people died and over a million emigrated.",
+    "description": "The water mould Phytophthora infestans destroyed much of the potato crop on which about a third of Ireland's population depended, starting in September 1845 and recurring for several years. Roughly one million people died of starvation and famine-related disease, especially in the west, and more than a million emigrated, chiefly to Britain and North America; Ireland's population fell by 20–25%. Food exports continued during the famine, and the British government's relief measures were limited by laissez-faire policy, a record that historians still debate in terms of neglect and culpability. The famine reshaped Irish society, accelerated emigration for decades and became central to Irish nationalism.",
+    "wikipedia": "Great Famine (Ireland)",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "Ireland",
+      "emigration"
+    ]
+  },
+  {
+    "id": "modern1-mexican-american-war",
+    "title": "Mexican–American War",
+    "year": 1846.32,
+    "endYear": 1848.09,
+    "dateLabel": "25 April 1846 – 2 February 1848",
+    "lat": 19.43,
+    "lon": -99.13,
+    "category": "war",
+    "importance": 3,
+    "summary": "The United States defeated Mexico and annexed about half of its territory, including California and New Mexico.",
+    "description": "Tensions followed the US annexation of Texas in 1845 and a border dispute, and fighting began in April 1846. US forces occupied New Mexico and California and, after landing at Veracruz, captured Mexico City in September 1847. Under the Treaty of Guadalupe Hidalgo, Mexico ceded roughly 55% of its territory, including present-day California, Nevada, Utah and most of Arizona and New Mexico, for $15 million. The war intensified the US debate over extending slavery into new territories, one of the roads to the Civil War.",
+    "wikipedia": "Mexican–American War",
+    "consensus": "established",
+    "tags": [
+      "Mexico",
+      "United States",
+      "territorial expansion"
+    ]
+  },
+  {
+    "id": "modern1-revolutions-of-1848",
+    "title": "Revolutions of 1848",
+    "year": 1848.03,
+    "endYear": 1849.62,
+    "dateLabel": "January 1848 – August 1849",
+    "lat": 48.86,
+    "lon": 2.35,
+    "category": "politics",
+    "importance": 4,
+    "summary": "A wave of liberal and nationalist uprisings swept Europe from Palermo and Paris to Vienna, Berlin and Budapest.",
+    "description": "Bad harvests, economic crisis and demands for constitutions and national unity fuelled revolts that began in Palermo in January 1848. In February a Paris uprising toppled King Louis-Philippe and created the Second Republic with universal male suffrage, and in March revolts in Vienna drove out Metternich while risings spread through the German and Italian states and Hungary. A Frankfurt Parliament tried to draft a constitution for a united Germany. By the end of 1849 conservative forces, with Russian help in Hungary, had restored control, but serfdom was abolished in the Austrian Empire and the ideas of the 'Springtime of Peoples' shaped later unification movements.",
+    "wikipedia": "Revolutions of 1848",
+    "consensus": "established",
+    "tags": [
+      "revolution",
+      "Europe",
+      "nationalism",
+      "liberalism"
+    ]
+  },
+  {
+    "id": "modern1-california-gold-rush",
+    "title": "California gold rush",
+    "year": 1848.06,
+    "endYear": 1855,
+    "dateLabel": "1848–1855",
+    "lat": 38.8,
+    "lon": -120.89,
+    "category": "economy",
+    "importance": 2,
+    "summary": "Gold found at Sutter's Mill drew some 300,000 people to California from around the world.",
+    "description": "James W. Marshall found gold at Sutter's Mill in Coloma on 24 January 1848, days before Mexico ceded California to the United States. News spread in 1848–1849, bringing migrants from the eastern US, Latin America, Europe, Australia and China, and San Francisco grew from a small town into a city; California became a state in 1850. The rush was catastrophic for Native Californians, whose population fell from about 150,000 to about 30,000 by 1870 through disease, displacement and massacres. Similar rushes followed in Australia from 1851 and later in South Africa and the Klondike.",
+    "wikipedia": "California gold rush",
+    "consensus": "established",
+    "tags": [
+      "gold",
+      "migration",
+      "California"
+    ]
+  },
+  {
+    "id": "modern1-communist-manifesto",
+    "title": "The Communist Manifesto is published",
+    "year": 1848.14,
+    "dateLabel": "21 February 1848",
+    "lat": 51.52,
+    "lon": -0.13,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Karl Marx and Friedrich Engels published a pamphlet in London calling on workers of the world to unite.",
+    "description": "Commissioned by the Communist League and published in German in London, the Manifesto presented history as a series of class struggles and predicted that capitalism would be overthrown by the industrial working class. It appeared on the eve of the 1848 revolutions but had little influence on them. Its reputation grew with the socialist movements of the later 19th century, and Marx expanded his economic analysis in Das Kapital (1867). Through 20th-century communist parties and states it became one of the most widely read political texts in history.",
+    "wikipedia": "The Communist Manifesto",
+    "consensus": "established",
+    "tags": [
+      "Marx",
+      "socialism",
+      "political philosophy"
+    ]
+  },
+  {
+    "id": "modern1-fox-sisters-spiritualism",
+    "title": "Fox sisters' 'spirit rappings' launch Spiritualism",
+    "year": 1848.25,
+    "dateLabel": "31 March 1848",
+    "lat": 43.1,
+    "lon": -77.2,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Two girls in Hydesville, New York, claimed to communicate with a spirit through knocking sounds, sparking a séance craze.",
+    "description": "Kate and Margaret Fox said that rapping noises in their family's house answered their questions and came from the spirit of a murdered peddler. Promoted by their elder sister Leah, they became celebrated mediums, and Spiritualism, the belief that the dead communicate with the living through mediums, spread through the United States and Britain, attracting figures from reformers to Arthur Conan Doyle. Séances with table-turning, spirit writing and later 'materialisations' became widespread. In 1888 Margaret publicly confessed that the raps had been produced by cracking their toe joints, though she later retracted the confession.",
+    "wikipedia": "Fox sisters",
+    "consensus": "fringe",
+    "mainstreamView": "No controlled investigation has shown that mediums communicate with the dead. Michael Faraday's 1853 experiments showed that table-turning came from sitters' unconscious muscle movements (the ideomotor effect), the 1887 Seybert Commission found fraud or self-deception in every séance it examined, and many prominent mediums were exposed using conjuring tricks. Spiritualism continues as a religious movement, but its claims of verifiable spirit contact are rejected by science.",
+    "tags": [
+      "fringe",
+      "spiritualism",
+      "pseudoscience"
+    ]
+  },
+  {
+    "id": "modern1-rowbotham-flat-earth",
+    "title": "Rowbotham's 'Zetetic Astronomy' flat-Earth claims",
+    "year": 1849,
+    "dateLabel": "1849 (Bedford Level observation 1838; book 1865)",
+    "lat": 52.52,
+    "lon": 0.25,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Writing as 'Parallax', Samuel Rowbotham claimed a Fenland canal showed no curvature, founding the modern flat-Earth movement.",
+    "description": "In 1838 Samuel Birley Rowbotham watched a boat recede along a straight six-mile stretch of the Old Bedford River in the Cambridgeshire Fens, his eye just above the water, and concluded that the surface was flat. Under the pseudonym 'Parallax' he published a pamphlet in 1849, expanded in 1865 into the book 'Zetetic Astronomy: Earth Not a Globe', which described a disc-shaped Earth centred on the North Pole and ringed by Antarctic ice, and he promoted it in public lectures for decades. In 1870 the naturalist Alfred Russel Wallace accepted a £500 wager from the flat-Earther John Hampden and repeated the Bedford Level test with markers at equal heights above the water; the referee awarded Wallace the stakes, but Hampden refused to accept the result and harassed him for years. Followers such as Lady Elizabeth Blount kept the movement alive into the 20th century, and Rowbotham's ideas are the direct ancestor of later flat-Earth societies and today's online flat-Earth movement.",
+    "wikipedia": "Samuel Rowbotham",
+    "consensus": "fringe",
+    "mainstreamView": "Earth's roughly spherical shape has been established since antiquity and is confirmed by geodetic measurement, circumnavigation and observation from space. Rowbotham's result is explained by atmospheric refraction: air just above cool water bends light downward along the curve, so a sightline a few centimetres above the surface can see objects that would otherwise be hidden. When the Bedford Level test was repeated with sightlines well above the water, as in Wallace's 1870 version and later photographic surveys, the middle marker appeared higher than the distant ones, as expected on a curved surface.",
+    "tags": [
+      "fringe",
+      "flat Earth",
+      "pseudoscience"
+    ]
+  },
+  {
+    "id": "modern1-taiping-rebellion",
+    "title": "Taiping Rebellion",
+    "year": 1850.95,
+    "endYear": 1864.55,
+    "dateLabel": "December 1850 – July 1864",
+    "lat": 32.06,
+    "lon": 118.78,
+    "category": "war",
+    "importance": 4,
+    "summary": "A millenarian movement led by Hong Xiuquan fought the Qing dynasty in a civil war that killed perhaps 20–30 million people.",
+    "description": "Hong Xiuquan, who believed he was the younger brother of Jesus, led a movement in Guangxi that rose against the Qing dynasty and in 1853 captured Nanjing, which became the capital of his Taiping Heavenly Kingdom. The Taiping proclaimed radical programmes, including land redistribution and the separation of the sexes, and controlled much of the rich Yangtze valley for over a decade. Regional armies raised by Qing officials such as Zeng Guofan, aided late in the war by Western-officered forces, recaptured Nanjing in July 1864. Death estimates, mostly from famine and disease, are uncertain but commonly put at 20–30 million, making it one of the deadliest conflicts in history.",
+    "wikipedia": "Taiping Rebellion",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qing",
+      "civil war"
+    ]
+  },
+  {
+    "id": "modern1-perry-expedition",
+    "title": "Perry's 'black ships' force Japan open",
+    "year": 1853.52,
+    "endYear": 1854.24,
+    "dateLabel": "8 July 1853 – 31 March 1854",
+    "lat": 35.24,
+    "lon": 139.72,
+    "category": "politics",
+    "importance": 3,
+    "summary": "A US naval squadron under Commodore Matthew Perry pressured Tokugawa Japan into ending two centuries of restricted foreign contact.",
+    "description": "Since the 1630s the Tokugawa shogunate had restricted foreign trade largely to the Dutch and Chinese at Nagasaki. In July 1853 Perry's squadron of four warships, two of them steam frigates, anchored at Uraga at the entrance of Edo Bay and delivered a letter from President Fillmore demanding trade and the treatment of shipwrecked sailors. Perry returned with a larger fleet in 1854, and the Convention of Kanagawa opened the ports of Shimoda and Hakodate. Further 'unequal treaties' in 1858 deepened a political crisis that led to the fall of the shogunate and the Meiji Restoration.",
+    "wikipedia": "Perry Expedition",
+    "consensus": "established",
+    "tags": [
+      "Japan",
+      "United States",
+      "sakoku"
+    ]
+  },
+  {
+    "id": "modern1-crimean-war",
+    "title": "Crimean War",
+    "year": 1853.79,
+    "endYear": 1856.24,
+    "dateLabel": "October 1853 – 30 March 1856",
+    "lat": 44.6,
+    "lon": 33.52,
+    "category": "war",
+    "importance": 3,
+    "summary": "Britain, France, Sardinia and the Ottoman Empire fought Russia, besieging Sevastopol for almost a year.",
+    "description": "Disputes over Russian influence in the declining Ottoman Empire and over holy places in Palestine led to war between Russia and the Ottomans in 1853, which Britain and France joined in 1854. The allied siege of the naval base at Sevastopol lasted from October 1854 to September 1855 and included the battles of Balaclava, with its ill-fated Charge of the Light Brigade, and Inkerman. Disease killed far more soldiers than combat, and Florence Nightingale's work at Scutari helped establish modern nursing. Covered by telegraph, newspaper correspondents and early war photographers, the war ended with the Treaty of Paris and spurred reforms in Russia, including the emancipation of the serfs.",
+    "wikipedia": "Crimean War",
+    "consensus": "established",
+    "tags": [
+      "Russia",
+      "Ottoman Empire",
+      "Sevastopol",
+      "nursing"
+    ]
+  },
+  {
+    "id": "modern1-indian-rebellion-1857",
+    "title": "Indian Rebellion of 1857",
+    "year": 1857.36,
+    "endYear": 1858.83,
+    "dateLabel": "10 May 1857 – 1 November 1858",
+    "lat": 28.66,
+    "lon": 77.23,
+    "category": "war",
+    "importance": 4,
+    "summary": "A sepoy mutiny at Meerut grew into a widespread uprising against East India Company rule, ending with direct British Crown rule.",
+    "description": "Indian soldiers (sepoys) of the Bengal Army mutinied at Meerut on 10 May 1857, angered among other grievances by rumours that new rifle cartridges were greased with cow and pig fat, and marched to Delhi, where they proclaimed the elderly Mughal emperor Bahadur Shah Zafar their leader. The revolt spread across northern and central India, drawing in dispossessed rulers such as the Rani of Jhansi as well as peasants, and saw sieges and massacres at Cawnpore and Lucknow. British forces retook Delhi in September 1857 and suppressed the rising with harsh reprisals. In 1858 the Crown took over from the East India Company and the Mughal dynasty ended; historians debate whether to describe the events as a mutiny, a rebellion or a first war of independence.",
+    "wikipedia": "Indian Rebellion of 1857",
+    "consensus": "established",
+    "tags": [
+      "India",
+      "British Raj",
+      "East India Company"
+    ]
+  },
+  {
+    "id": "modern1-origin-of-species",
+    "title": "Darwin publishes On the Origin of Species",
+    "year": 1859.9,
+    "dateLabel": "24 November 1859",
+    "lat": 51.33,
+    "lon": 0.05,
+    "category": "science",
+    "importance": 5,
+    "summary": "Charles Darwin set out evolution by natural selection, explaining the diversity of life as descent with modification.",
+    "description": "Darwin developed his theory over two decades after the 1831–1836 voyage of HMS Beagle, including its visit to the Galápagos Islands, working largely at Down House in Kent. Prompted by Alfred Russel Wallace's independent discovery of the same mechanism, their joint papers were read at the Linnean Society in 1858, and the book followed in 1859. It argued that species change over immense spans of time as individuals with heritable advantageous variations leave more offspring. Common descent was widely accepted within a few decades, while natural selection as its main mechanism won broad acceptance only after its synthesis with Mendelian genetics in the 1930s–1940s.",
+    "wikipedia": "On the Origin of Species",
+    "consensus": "established",
+    "tags": [
+      "evolution",
+      "Darwin",
+      "biology"
+    ]
+  },
+  {
+    "id": "modern1-russian-serf-emancipation",
+    "title": "Emancipation of the Russian serfs",
+    "year": 1861.17,
+    "dateLabel": "3 March 1861 (19 February Old Style)",
+    "lat": 59.94,
+    "lon": 30.31,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Tsar Alexander II's manifesto freed some 23 million privately owned serfs, the largest single emancipation of the century.",
+    "description": "Defeat in the Crimean War convinced Alexander II that serfdom held back Russia's economy and military, and he declared that it was better to abolish it from above than wait for it to be abolished from below. The reform gave serfs personal freedom and allotments of land, but peasants generally received less land than they had farmed and had to pay redemption payments to the state over 49 years. Land was usually held collectively by village communes (the mir). The reform was followed by changes to local government, the courts and the army, but lingering peasant grievances fed later unrest, including the revolution of 1905.",
+    "wikipedia": "Emancipation reform of 1861",
+    "consensus": "established",
+    "tags": [
+      "Russia",
+      "serfdom",
+      "reform"
+    ]
+  },
+  {
+    "id": "modern1-kingdom-of-italy",
+    "title": "Italian unification: Kingdom of Italy proclaimed",
+    "year": 1861.21,
+    "dateLabel": "17 March 1861",
+    "lat": 45.07,
+    "lon": 7.69,
+    "category": "politics",
+    "importance": 3,
+    "summary": "A parliament in Turin proclaimed Victor Emmanuel II king of a united Italy after wars and Garibaldi's conquest of the south.",
+    "description": "The Risorgimento's decisive phase began in 1859, when Piedmont-Sardinia, led by prime minister Camillo Cavour and allied with France, defeated Austria and gained Lombardy. In 1860 Giuseppe Garibaldi's 'Expedition of the Thousand' conquered Sicily and Naples, and plebiscites joined central and southern states to Piedmont, allowing the Kingdom of Italy to be proclaimed in 1861. Venetia was added in 1866, and Italian troops took Rome in September 1870, which became the capital in 1871. Unification left deep economic and social differences between north and south.",
+    "wikipedia": "Italian unification",
+    "consensus": "established",
+    "tags": [
+      "Italy",
+      "Risorgimento",
+      "Garibaldi",
+      "nationalism"
+    ]
+  },
+  {
+    "id": "modern1-american-civil-war",
+    "title": "American Civil War",
+    "year": 1861.28,
+    "endYear": 1865.27,
+    "dateLabel": "12 April 1861 – 9 April 1865",
+    "lat": 39.81,
+    "lon": -77.23,
+    "category": "war",
+    "importance": 5,
+    "summary": "The Union defeated eleven seceded slave states in a war that killed some 620,000–750,000 soldiers and ended US slavery.",
+    "description": "After Abraham Lincoln's election in 1860 on a platform opposing the spread of slavery, eleven Southern states formed the Confederate States of America, and war began with the attack on Fort Sumter in April 1861. The Union's larger population, industry and naval blockade gradually told, with turning points at Gettysburg and Vicksburg in July 1863, followed by Sherman's campaigns through Georgia. Robert E. Lee surrendered at Appomattox on 9 April 1865, and Lincoln was assassinated days later. Military deaths were long put at about 620,000, but a 2011 census-based study raised the estimate to about 750,000; the Thirteenth Amendment abolished slavery in December 1865, opening the contested era of Reconstruction.",
+    "wikipedia": "American Civil War",
+    "consensus": "established",
+    "tags": [
+      "United States",
+      "slavery",
+      "Lincoln"
+    ]
+  },
+  {
+    "id": "modern1-emancipation-proclamation",
+    "title": "Emancipation Proclamation",
+    "year": 1863,
+    "dateLabel": "1 January 1863",
+    "lat": 38.9,
+    "lon": -77.04,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Lincoln declared enslaved people in rebel-held areas free, turning the Civil War into a war against slavery.",
+    "description": "Issued as a war measure, the proclamation declared free about 3.5 million people enslaved in areas then in rebellion, though it could be enforced only as Union armies advanced and it did not apply to loyal border states. It authorised the enlistment of Black soldiers, and roughly 180,000 served in the Union Army. On 19 June 1865 Union General Gordon Granger announced emancipation in Galveston, Texas, an event now commemorated as Juneteenth, although slavery remained legal in loyal Kentucky and Delaware. Slavery was abolished nationwide by the Thirteenth Amendment, ratified in December 1865.",
+    "wikipedia": "Emancipation Proclamation",
+    "consensus": "established",
+    "tags": [
+      "abolition",
+      "United States",
+      "Lincoln"
+    ]
+  },
+  {
+    "id": "modern1-maxwell-electromagnetism",
+    "title": "Maxwell unifies electricity, magnetism and light",
+    "year": 1864.93,
+    "dateLabel": "8 December 1864 (published 1865)",
+    "lat": 51.51,
+    "lon": -0.12,
+    "category": "science",
+    "importance": 4,
+    "summary": "James Clerk Maxwell's field equations showed light is an electromagnetic wave and predicted waves later called radio.",
+    "description": "Building on Michael Faraday's discovery of electromagnetic induction in 1831 and his concept of lines of force, Maxwell, then at King's College London, presented 'A Dynamical Theory of the Electromagnetic Field' to the Royal Society in December 1864. His equations described electric and magnetic fields as one phenomenon and showed that disturbances in the field travel at the measured speed of light, implying that light itself is electromagnetic. Heinrich Hertz confirmed the existence of electromagnetic waves experimentally in 1886–1889. The theory underlies radio, radar and modern electrical engineering, and its conflict with Newtonian mechanics led to Einstein's special relativity.",
+    "wikipedia": "A Dynamical Theory of the Electromagnetic Field",
+    "consensus": "established",
+    "tags": [
+      "physics",
+      "electromagnetism",
+      "Maxwell",
+      "Faraday"
+    ]
+  },
+  {
+    "id": "modern1-paraguayan-war",
+    "title": "Paraguayan War",
+    "year": 1864.95,
+    "endYear": 1870.16,
+    "dateLabel": "December 1864 – 1 March 1870",
+    "lat": -25.28,
+    "lon": -57.63,
+    "category": "war",
+    "importance": 2,
+    "summary": "Paraguay fought Brazil, Argentina and Uruguay in South America's deadliest war, losing a large share of its population.",
+    "description": "Also called the War of the Triple Alliance, the conflict began after Brazil intervened militarily in a Uruguayan civil war in 1864; Paraguay's ruler Francisco Solano López, allied with Uruguay's ousted Blanco government, responded by seizing a Brazilian ship and invading Brazil's Mato Grosso province in December 1864 and Argentina's Corrientes province in April 1865. The allies, led by Brazil, besieged Paraguay's river fortress of Humaitá, took Asunción in 1869 and pursued López until he was killed at Cerro Corá in March 1870. Paraguay suffered catastrophic losses from combat, disease and famine; estimates of the population decline range very widely, from under a fifth in one revisionist study to 60–69% in others, with adult men especially affected. The country also lost territory to Argentina and Brazil.",
+    "wikipedia": "Paraguayan War",
+    "consensus": "established",
+    "tags": [
+      "South America",
+      "Paraguay",
+      "Brazil"
+    ]
+  },
+  {
+    "id": "modern1-alaska-purchase",
+    "title": "Alaska Purchase",
+    "year": 1867.24,
+    "dateLabel": "30 March 1867 (transferred 18 October 1867)",
+    "lat": 57.05,
+    "lon": -135.33,
+    "category": "politics",
+    "importance": 2,
+    "summary": "The United States bought Alaska from Russia for $7.2 million, about two cents an acre.",
+    "description": "Russia, which found its North American colony costly and hard to defend after the Crimean War, agreed to sell it to the United States in a treaty negotiated by Secretary of State William H. Seward. The territory of about 1.5 million square kilometres was formally transferred at Sitka on 18 October 1867. Critics mocked the deal as 'Seward's Folly', although historians note that it was approved by a large Senate majority. The Indigenous peoples of Alaska were not consulted; gold discoveries in the 1890s and later oil made the purchase valuable, and Alaska became a state in 1959.",
+    "wikipedia": "Alaska Purchase",
+    "consensus": "established",
+    "tags": [
+      "United States",
+      "Russia",
+      "territory"
+    ]
+  },
+  {
+    "id": "modern1-canadian-confederation",
+    "title": "Canadian Confederation",
+    "year": 1867.5,
+    "dateLabel": "1 July 1867",
+    "lat": 45.42,
+    "lon": -75.7,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Three British North American colonies united as the self-governing Dominion of Canada, with Ottawa as capital.",
+    "description": "The British North America Act united the Province of Canada, divided into Ontario and Quebec, with Nova Scotia and New Brunswick, partly in response to fears of US expansion after the American Civil War. John A. Macdonald became the first prime minister. Manitoba joined in 1870 after the Red River Resistance led by the Métis leader Louis Riel, British Columbia in 1871 on the promise of a transcontinental railway, completed in 1885, and Prince Edward Island in 1873. Canada's westward expansion came at heavy cost to Indigenous nations through treaties, the destruction of the bison and residential schools.",
+    "wikipedia": "Canadian Confederation",
+    "consensus": "established",
+    "tags": [
+      "Canada",
+      "British Empire",
+      "federation"
+    ]
+  },
+  {
+    "id": "modern1-meiji-restoration",
+    "title": "Meiji Restoration",
+    "year": 1868.01,
+    "dateLabel": "3 January 1868",
+    "lat": 35.02,
+    "lon": 135.76,
+    "category": "politics",
+    "importance": 5,
+    "summary": "Imperial rule was restored in Kyoto, ending the Tokugawa shogunate and launching Japan's rapid modernisation.",
+    "description": "Samurai from the Satsuma and Chōshū domains, frustrated by the shogunate's weakness before Western powers, engineered a proclamation restoring power to the young Emperor Meiji, and the brief Boshin War of 1868–1869 defeated Tokugawa loyalists. The new government moved the capital to Edo, renamed Tokyo, replaced feudal domains with prefectures in 1871, abolished samurai privileges, introduced conscription and built railways, factories and a modern education system using Western models. A constitution followed in 1889. Within a generation Japan became an industrial and imperial power, defeating China in 1894–1895 (gaining Taiwan) and Russia in 1904–1905, and annexing Korea in 1910.",
+    "wikipedia": "Meiji Restoration",
+    "consensus": "established",
+    "tags": [
+      "Japan",
+      "modernisation",
+      "imperialism"
+    ]
+  },
+  {
+    "id": "modern1-periodic-table",
+    "title": "Mendeleev's periodic table",
+    "year": 1869.17,
+    "dateLabel": "1 March 1869 (17 February Old Style)",
+    "lat": 59.94,
+    "lon": 30.3,
+    "category": "science",
+    "importance": 4,
+    "summary": "Dmitri Mendeleev arranged the 63 known elements by atomic weight and properties, leaving gaps for undiscovered elements.",
+    "description": "Working in St Petersburg on a chemistry textbook, Mendeleev noticed that when elements were ordered by atomic weight their chemical properties recurred periodically. Unlike earlier schemes, his table left gaps and boldly predicted the properties of missing elements such as 'eka-aluminium', 'eka-boron' and 'eka-silicon', identified as gallium (1875), scandium (1879) and germanium (1886). Lothar Meyer published a similar table independently. In 1913 Henry Moseley showed that the table is properly ordered by atomic number, and the periodic table remains the organising framework of chemistry.",
+    "wikipedia": "Periodic table",
+    "consensus": "established",
+    "tags": [
+      "chemistry",
+      "elements",
+      "Mendeleev"
+    ]
+  },
+  {
+    "id": "modern1-transcontinental-railroad",
+    "title": "First transcontinental railroad completed",
+    "year": 1869.36,
+    "dateLabel": "10 May 1869",
+    "lat": 41.62,
+    "lon": -112.55,
+    "category": "technology",
+    "importance": 2,
+    "summary": "A golden spike at Promontory Summit, Utah, joined the Central Pacific and Union Pacific lines across the United States.",
+    "description": "The Central Pacific built east from Sacramento across the Sierra Nevada, relying heavily on Chinese workers, while the Union Pacific built west from Iowa and Nebraska with many Irish immigrants and Civil War veterans. The lines met at Promontory Summit after six years of construction, creating a continuous rail route of about 3,000 km to the Pacific coast. A coast-to-coast journey shrank from months to about a week. The railroad accelerated settlement of the West and the near-extermination of the bison, with devastating consequences for the Plains nations.",
+    "wikipedia": "First transcontinental railroad",
+    "consensus": "established",
+    "tags": [
+      "railways",
+      "United States",
+      "Chinese workers"
+    ]
+  },
+  {
+    "id": "modern1-suez-canal",
+    "title": "Suez Canal opens",
+    "year": 1869.88,
+    "dateLabel": "17 November 1869",
+    "lat": 30.59,
+    "lon": 32.27,
+    "category": "technology",
+    "importance": 4,
+    "summary": "A canal of about 164 km linked the Mediterranean and Red Sea, cutting thousands of kilometres off Europe–Asia voyages.",
+    "description": "Built from 1859 by Ferdinand de Lesseps' Suez Canal Company under a concession from Egypt's rulers, the sea-level canal required the forced labour of tens of thousands of Egyptian peasants in its early years, many of whom died. It shortened the sea route from London to Bombay by roughly 40%, favouring steamships and tightening Europe's commercial and imperial links with Asia and East Africa. Egypt's heavy debts led it to sell its shares to Britain in 1875, and Britain occupied Egypt in 1882. The canal remained a strategic flashpoint, notably in the 1956 Suez Crisis.",
+    "wikipedia": "Suez Canal",
+    "consensus": "established",
+    "tags": [
+      "Egypt",
+      "canal",
+      "trade",
+      "imperialism"
+    ]
+  },
+  {
+    "id": "modern1-franco-prussian-war",
+    "title": "Franco-Prussian War",
+    "year": 1870.55,
+    "endYear": 1871.36,
+    "dateLabel": "19 July 1870 – 10 May 1871",
+    "lat": 49.7,
+    "lon": 4.94,
+    "category": "war",
+    "importance": 3,
+    "summary": "Prussia and its German allies crushed France, capturing Napoleon III at Sedan and besieging Paris.",
+    "description": "Provoked by a dispute over the Spanish succession and Bismarck's edited Ems Dispatch, France declared war on Prussia in July 1870. German armies, mobilised by railway, besieged one French army in Metz and surrounded another at Sedan on 1–2 September, capturing Emperor Napoleon III, after which the Third Republic was proclaimed in Paris. Paris endured a four-month siege until an armistice in January 1871; in March radicals set up the Paris Commune, which the French army crushed in May with thousands killed. The Treaty of Frankfurt transferred Alsace and part of Lorraine to Germany and imposed a 5-billion-franc indemnity, fuelling French resentment that lasted until 1914.",
+    "wikipedia": "Franco-Prussian War",
+    "consensus": "established",
+    "tags": [
+      "France",
+      "Prussia",
+      "Sedan",
+      "Paris Commune"
+    ]
+  },
+  {
+    "id": "modern1-german-unification",
+    "title": "German Empire proclaimed at Versailles",
+    "year": 1871.05,
+    "dateLabel": "18 January 1871",
+    "lat": 48.8,
+    "lon": 2.12,
+    "category": "empire",
+    "importance": 4,
+    "summary": "In the Hall of Mirrors, Prussia's King Wilhelm I was proclaimed German Emperor, uniting Germany under Prussian leadership.",
+    "description": "Prussian minister-president Otto von Bismarck unified Germany through three short wars: against Denmark (1864), Austria (1866), which was excluded from the new Germany, and France (1870–1871). With the southern German states joining during the war against France, the empire was proclaimed in occupied Versailles. The new Germany, with Bismarck as chancellor, quickly became continental Europe's leading industrial and military power. Its rise altered the European balance of power and set the stage for rivalries leading to the First World War.",
+    "wikipedia": "Unification of Germany",
+    "consensus": "established",
+    "tags": [
+      "Germany",
+      "Bismarck",
+      "nationalism"
+    ]
+  },
+  {
+    "id": "modern1-telephone",
+    "title": "Bell patents the telephone",
+    "year": 1876.18,
+    "dateLabel": "7 March 1876",
+    "lat": 42.36,
+    "lon": -71.06,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Alexander Graham Bell received a US patent for the telephone and three days later spoke to his assistant over a wire.",
+    "description": "Bell, a teacher of the deaf in Boston, filed his patent application on 14 February 1876, the same day Elisha Gray filed a caveat for a similar device, and on 10 March he transmitted the words 'Mr. Watson, come here, I want to see you.' Earlier work by inventors including Antonio Meucci and Philipp Reis led to long priority disputes and lawsuits, which Bell's company won. The first commercial exchange opened in New Haven, Connecticut, in 1878, and telephone networks spread through cities worldwide in the following decades, transforming business and personal communication.",
+    "wikipedia": "Invention of the telephone",
+    "consensus": "established",
+    "tags": [
+      "telephone",
+      "invention",
+      "communication"
+    ]
+  },
+  {
+    "id": "modern1-great-famine-1876",
+    "title": "Great Famine of 1876–1878 in India",
+    "year": 1876.5,
+    "endYear": 1878.9,
+    "dateLabel": "1876–1878",
+    "lat": 13.08,
+    "lon": 80.27,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "Drought linked to a strong El Niño caused famine across southern India, killing an estimated 5.5 million or more.",
+    "description": "Monsoon failure in 1876 brought crop failure to the Madras and Bombay presidencies, Mysore and Hyderabad. Death estimates range from about 5.5 million to nearly 10 million. The colonial government, prioritising fiscal economy and free trade, kept relief limited and grain continued to be exported, policies sharply criticised then and since. The same El Niño-linked droughts caused the Northern Chinese Famine of 1876–1879, which killed perhaps 9–13 million, and severe drought in Brazil. The disaster led to the Indian Famine Commission of 1880 and the first Famine Codes.",
+    "wikipedia": "Great Famine of 1876–1878",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "India",
+      "El Niño",
+      "British Raj"
+    ]
+  },
+  {
+    "id": "modern1-anglo-zulu-war",
+    "title": "Anglo-Zulu War and the Battle of Isandlwana",
+    "year": 1879.03,
+    "endYear": 1879.51,
+    "dateLabel": "11 January – 4 July 1879 (Isandlwana 22 January)",
+    "lat": -28.36,
+    "lon": 30.65,
+    "category": "war",
+    "importance": 2,
+    "summary": "A Zulu army inflicted a crushing defeat on invading British forces at Isandlwana before Britain won the war at Ulundi.",
+    "description": "The Zulu Kingdom, built up by Shaka from about 1816, was invaded by Britain in January 1879 after an ultimatum to King Cetshwayo that he could not accept. At Isandlwana on 22 January a Zulu force of about 20,000 overran a British camp, killing some 1,300 soldiers and auxiliaries, one of the worst defeats of a colonial army by an African force; the defence of Rorke's Drift followed that night. Reinforced British troops defeated the Zulu at Ulundi on 4 July. The kingdom was broken into thirteen chiefdoms and later annexed to Natal.",
+    "wikipedia": "Anglo-Zulu War",
+    "consensus": "established",
+    "tags": [
+      "South Africa",
+      "Zulu Kingdom",
+      "colonial war"
+    ]
+  },
+  {
+    "id": "modern1-electric-light",
+    "title": "Practical electric lighting",
+    "year": 1879.81,
+    "dateLabel": "October 1879 (Pearl Street Station 1882)",
+    "lat": 40.56,
+    "lon": -74.34,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Thomas Edison's team at Menlo Park produced a long-lasting carbon-filament light bulb, alongside Joseph Swan in England.",
+    "description": "Many inventors had made incandescent lamps, but Joseph Swan in Newcastle and Thomas Edison's laboratory in Menlo Park, New Jersey, independently produced practical carbon-filament bulbs in 1878–1880; Edison's team gave a public demonstration on 31 December 1879. Edison's major contribution was a complete system of generators, wiring and meters, and his Pearl Street Station in New York began supplying customers in September 1882. Competition between Edison's direct current and the alternating current championed by Nikola Tesla and George Westinghouse ended largely in AC's favour. Electric light extended working and social hours and drove the electrification of cities.",
+    "wikipedia": "Incandescent light bulb",
+    "consensus": "established",
+    "tags": [
+      "electricity",
+      "Edison",
+      "Swan",
+      "invention"
+    ]
+  },
+  {
+    "id": "modern1-scramble-for-africa",
+    "title": "Scramble for Africa",
+    "year": 1881,
+    "endYear": 1914,
+    "dateLabel": "c. 1881–1914",
+    "lat": 2,
+    "lon": 17,
+    "category": "empire",
+    "importance": 5,
+    "summary": "European powers conquered and partitioned almost all of Africa; by 1914 only Ethiopia and Liberia remained independent.",
+    "description": "Around 1870 European states controlled roughly a tenth of Africa, mostly coastal enclaves plus Algeria and the Cape. From the French occupation of Tunisia in 1881 and the British occupation of Egypt in 1882, Britain, France, Germany, Belgium's King Leopold II, Portugal, Italy and Spain raced to claim territory, aided by quinine, steamboats, railways and machine guns. African states and peoples resisted, from Samori Touré's empire in West Africa to the Asante, the Mahdist Sudan, the Herero and Maji Maji risings and Ethiopia's victory at Adwa. Colonial borders drawn with little regard to African societies largely became the borders of independent states in the 20th century.",
+    "wikipedia": "Scramble for Africa",
+    "consensus": "established",
+    "tags": [
+      "colonialism",
+      "Africa",
+      "imperialism"
+    ]
+  },
+  {
+    "id": "modern1-mahdist-war",
+    "title": "Mahdist War and the fall of Khartoum",
+    "year": 1881.45,
+    "endYear": 1899.9,
+    "dateLabel": "1881–1899 (Khartoum falls 26 January 1885)",
+    "lat": 15.6,
+    "lon": 32.53,
+    "category": "war",
+    "importance": 2,
+    "summary": "Sudanese followers of the Mahdi overthrew Egyptian rule and took Khartoum, until an Anglo-Egyptian army reconquered Sudan.",
+    "description": "In 1881 Muhammad Ahmad proclaimed himself the Mahdi, the redeemer of Islamic tradition, and led a revolt against the Egyptian-run administration of Sudan, destroying an Egyptian army under William Hicks in 1883. His forces besieged Khartoum and stormed it on 26 January 1885, killing the British general Charles Gordon. The Mahdi died months later, and his successor, the Khalifa Abdallahi, ruled a Mahdist state for over a decade. An Anglo-Egyptian army under Herbert Kitchener, armed with machine guns and artillery, killed about 12,000 Mahdist soldiers at Omdurman in September 1898, and Sudan became an Anglo-Egyptian condominium.",
+    "wikipedia": "Mahdist War",
+    "consensus": "established",
+    "tags": [
+      "Sudan",
+      "Egypt",
+      "British Empire"
+    ]
+  },
+  {
+    "id": "modern1-germ-theory",
+    "title": "Germ theory: Koch identifies the tuberculosis bacterium",
+    "year": 1882.23,
+    "dateLabel": "24 March 1882",
+    "lat": 52.52,
+    "lon": 13.38,
+    "category": "science",
+    "importance": 4,
+    "summary": "Robert Koch announced in Berlin that a bacterium causes tuberculosis, a milestone in proving that microbes cause disease.",
+    "description": "In the 1860s Louis Pasteur showed that microorganisms cause fermentation and spoilage and do not arise by spontaneous generation, and Joseph Lister applied these ideas to antiseptic surgery from 1867. Koch demonstrated the life cycle of the anthrax bacillus in 1876, and his identification of Mycobacterium tuberculosis, then the leading cause of death in Europe, provided compelling evidence for a specific germ behind a specific disease; he identified the cholera bacterium in 1883–1884. Pasteur's rabies vaccine was first used on a boy in 1885. Germ theory displaced the older miasma theory and transformed medicine, public health, sanitation and food safety.",
+    "wikipedia": "Germ theory of disease",
+    "consensus": "established",
+    "tags": [
+      "medicine",
+      "microbiology",
+      "Koch",
+      "Pasteur"
+    ]
+  },
+  {
+    "id": "modern1-krakatoa",
+    "title": "Eruption of Krakatoa",
+    "year": 1883.65,
+    "dateLabel": "26–27 August 1883",
+    "lat": -6.1,
+    "lon": 105.42,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "Krakatoa's explosive eruption in the Sunda Strait killed over 36,000 people, mostly by tsunami, and was heard thousands of km away.",
+    "description": "After months of activity, a series of enormous explosions on 27 August 1883 destroyed most of the island of Krakatoa between Java and Sumatra. The loudest blast was heard about 4,800 km away on the island of Rodrigues, and its pressure wave was recorded on barographs around the world several times over. Tsunamis up to 30 m high devastated coastal towns, with an official death toll of 36,417, though some estimates are higher. Ash and aerosols produced vivid sunsets worldwide and cooled global temperatures slightly the following year, and the eruption was among the first global news events carried by telegraph. A new volcano, Anak Krakatau, emerged from the caldera in 1927.",
+    "wikipedia": "1883 eruption of Krakatoa",
+    "consensus": "established",
+    "tags": [
+      "volcano",
+      "Indonesia",
+      "tsunami"
+    ]
+  },
+  {
+    "id": "modern1-berlin-conference",
+    "title": "Berlin Conference",
+    "year": 1884.87,
+    "endYear": 1885.15,
+    "dateLabel": "15 November 1884 – 26 February 1885",
+    "lat": 52.51,
+    "lon": 13.38,
+    "category": "empire",
+    "importance": 3,
+    "summary": "Fourteen states met in Berlin to set rules for European claims in Africa, with no Africans present.",
+    "description": "Convened by Otto von Bismarck, the conference brought together European powers, the United States and the Ottoman Empire to manage competing claims in Africa, especially in the Congo basin. Its General Act declared free trade and navigation in the Congo and Niger basins, required 'effective occupation' and notification for new coastal claims, and recognised the territory that became King Leopold II's Congo Free State. The conference did not itself divide Africa as is often said; most borders were settled by later bilateral treaties. It nonetheless symbolises the colonial partition carried out without African consent.",
+    "wikipedia": "Berlin Conference",
+    "consensus": "established",
+    "tags": [
+      "colonialism",
+      "Africa",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "modern1-congo-free-state",
+    "title": "Congo Free State",
+    "year": 1885.5,
+    "endYear": 1908.87,
+    "dateLabel": "1885–1908",
+    "lat": -5.85,
+    "lon": 13.05,
+    "category": "empire",
+    "importance": 4,
+    "summary": "King Leopold II ruled the Congo as a personal possession, imposing a brutal forced-labour regime to extract rubber and ivory.",
+    "description": "Recognised by the powers at the Berlin Conference, the Congo Free State was owned by Leopold II rather than by Belgium, and was run from Boma. From the 1890s, demand for rubber for bicycle and car tyres led to a system of quotas enforced by the Force Publique through hostage-taking, flogging, killings and the severing of hands. Death toll estimates are deeply uncertain because no census existed and epidemic disease also caused huge losses; figures of several million to about ten million have been proposed. Exposés by missionaries, Edmund Dene Morel and Roger Casement's 1904 report prompted an international reform campaign, and Belgium annexed the colony in November 1908.",
+    "wikipedia": "Congo Free State",
+    "consensus": "established",
+    "tags": [
+      "colonialism",
+      "Congo",
+      "forced labour",
+      "rubber"
+    ]
+  },
+  {
+    "id": "modern1-benz-motorwagen",
+    "title": "Benz Patent-Motorwagen: the first practical car",
+    "year": 1886.08,
+    "dateLabel": "29 January 1886",
+    "lat": 49.49,
+    "lon": 8.47,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Karl Benz patented a three-wheeled vehicle powered by a petrol engine, generally regarded as the first modern automobile.",
+    "description": "Benz designed the vehicle around his own single-cylinder four-stroke engine in Mannheim, Germany, while Gottlieb Daimler and Wilhelm Maybach developed engines and vehicles independently in nearby Cannstatt. In August 1888 Bertha Benz drove a Motorwagen about 100 km from Mannheim to Pforzheim with her two sons, the first long-distance automobile journey, demonstrating its practicality. Cars remained luxury items until mass production methods, notably Henry Ford's, made them affordable. The internal-combustion automobile went on to reshape cities, economies and the global demand for oil.",
+    "wikipedia": "Benz Patent-Motorwagen",
+    "consensus": "established",
+    "tags": [
+      "automobile",
+      "Germany",
+      "internal combustion engine"
+    ]
+  },
+  {
+    "id": "modern1-african-rinderpest",
+    "title": "Rinderpest sweeps through Africa",
+    "year": 1887,
+    "endYear": 1897,
+    "dateLabel": "c. 1887–1897",
+    "uncertainty": 1,
+    "lat": 15.61,
+    "lon": 39.45,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "A cattle plague introduced via the Horn of Africa killed most cattle across eastern and southern Africa, causing famine.",
+    "description": "Rinderpest, a viral disease of cattle and other hoofed animals, is thought to have arrived around 1887 with infected cattle imported to Massawa in Eritrea, probably for Italian military forces. Over the following decade it spread south to the Cape, killing an estimated 80–90% of cattle in many regions along with buffalo, giraffe and antelope. Pastoral societies such as the Maasai were devastated, and the epizootic contributed to Ethiopia's great famine of 1888–1892 and weakened resistance to colonial conquest. Rinderpest was declared eradicated worldwide in 2011, only the second disease, after smallpox, ever eliminated.",
+    "wikipedia": "1890s African rinderpest epizootic",
+    "consensus": "established",
+    "tags": [
+      "epizootic",
+      "Africa",
+      "famine",
+      "livestock"
+    ]
+  },
+  {
+    "id": "modern1-lei-aurea",
+    "title": "Brazil abolishes slavery: the Golden Law",
+    "year": 1888.37,
+    "dateLabel": "13 May 1888",
+    "lat": -22.9,
+    "lon": -43.17,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Princess Isabel signed the Lei Áurea, making Brazil the last country in the Americas to abolish slavery.",
+    "description": "Brazil had received about 4–5 million enslaved Africans, more than any other country in the Americas, and slavery underpinned its sugar and coffee economies. The slave trade was ended in 1850, the 1871 Law of Free Birth freed newborn children and an 1885 law freed elderly slaves, while mass flight by enslaved people and abolitionist campaigns increased pressure. The two-article Golden Law, signed by Princess Isabel as regent, freed the remaining several hundred thousand enslaved people without compensating owners or providing land or support to the freed. Resentment among planters contributed to the overthrow of the monarchy in November 1889.",
+    "wikipedia": "Lei Áurea",
+    "consensus": "established",
+    "tags": [
+      "abolition",
+      "Brazil",
+      "slavery"
+    ]
+  },
+  {
+    "id": "modern1-nz-womens-suffrage",
+    "title": "New Zealand women win the vote",
+    "year": 1893.72,
+    "dateLabel": "19 September 1893",
+    "lat": -41.29,
+    "lon": 174.78,
+    "category": "politics",
+    "importance": 2,
+    "summary": "New Zealand became the first self-governing country to grant all adult women the right to vote in national elections.",
+    "description": "Campaigners led by Kate Sheppard and the Women's Christian Temperance Union presented a series of petitions to Parliament, the last in 1893 with nearly 32,000 signatures. The Electoral Act was signed into law on 19 September 1893, and women, including Māori women, voted in the general election that November. Women could not stand for Parliament until 1919. Earlier, more limited women's voting rights had existed in places such as Wyoming Territory (1869), and South Australia (1894) and Finland (1906) soon followed with the right to stand for office as well.",
+    "wikipedia": "Women's suffrage in New Zealand",
+    "consensus": "established",
+    "tags": [
+      "women's suffrage",
+      "New Zealand",
+      "democracy"
+    ]
+  },
+  {
+    "id": "modern1-third-plague-pandemic",
+    "title": "Plague reaches Hong Kong; Yersin finds its cause",
+    "year": 1894.47,
+    "dateLabel": "May–June 1894 (pandemic from c. 1855)",
+    "lat": 22.28,
+    "lon": 114.15,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "Bubonic plague from southern China struck Hong Kong, where Alexandre Yersin identified its bacterium, then spread worldwide by steamship.",
+    "description": "The third plague pandemic began in Yunnan in south-western China around 1855 and spread along trade routes to Guangzhou and then Hong Kong, where an outbreak from May 1894 killed thousands in the crowded Tai Ping Shan district. There, in June 1894, the Swiss-born French bacteriologist Alexandre Yersin isolated the bacterium now called Yersinia pestis; the Japanese bacteriologist Kitasato Shibasaburō reported a find at almost the same time, though his description was less accurate. From Hong Kong's busy port the disease spread by ship to every inhabited continent, reaching Bombay in 1896, Honolulu and San Francisco in 1899–1900, and ports in Africa, South America and Australia. It killed at least 15 million people, including some 10–12 million in British India, where harsh colonial plague measures provoked resistance. In 1898 Paul-Louis Simond showed that rat fleas transmit the disease, and the World Health Organization considered the pandemic active until about 1960.",
+    "wikipedia": "Third plague pandemic",
+    "consensus": "established",
+    "tags": [
+      "pandemic",
+      "plague",
+      "Hong Kong",
+      "bacteriology"
+    ]
+  },
+  {
+    "id": "modern1-first-sino-japanese-war",
+    "title": "First Sino-Japanese War",
+    "year": 1894.56,
+    "endYear": 1895.29,
+    "dateLabel": "25 July 1894 – 17 April 1895",
+    "lat": 39.02,
+    "lon": 125.75,
+    "category": "war",
+    "importance": 3,
+    "summary": "Japan's modernised army and navy defeated Qing China in a war over Korea, revealing Japan as East Asia's rising power.",
+    "description": "Rivalry over Korea, a Qing tributary state, came to a head when both China and Japan sent troops during the Donghak Peasant Revolution in 1894. Fighting began with a Japanese attack on Chinese ships off Asan on 25 July, and war was formally declared on 1 August. Japanese forces won at Pyongyang and in the naval Battle of the Yalu River in September, advanced into Manchuria, and captured the fortified ports of Lüshun (Port Arthur) and Weihaiwei. Under the Treaty of Shimonoseki, signed on 17 April 1895, China recognised Korea's independence, ceded Taiwan, the Penghu Islands and the Liaodong Peninsula and agreed to pay a large indemnity, although the Triple Intervention of Russia, Germany and France soon forced Japan to give up Liaodong. The defeat discredited the Qing self-strengthening reforms and set off a scramble for concessions in China, while Japan gained Taiwan as its first major colony.",
+    "wikipedia": "First Sino-Japanese War",
+    "consensus": "established",
+    "tags": [
+      "Japan",
+      "China",
+      "Korea",
+      "Qing"
+    ]
+  },
+  {
+    "id": "modern1-x-rays",
+    "title": "Röntgen discovers X-rays",
+    "year": 1895.85,
+    "dateLabel": "8 November 1895",
+    "lat": 49.79,
+    "lon": 9.93,
+    "category": "science",
+    "importance": 3,
+    "summary": "Wilhelm Röntgen found a penetrating radiation that could image bones inside the living body.",
+    "description": "Experimenting with cathode-ray tubes at the University of Würzburg, Röntgen noticed a fluorescent screen glowing even when the tube was covered, and named the unknown rays 'X'. His radiograph of his wife Anna Bertha's hand, showing bones and a ring, caused a sensation after his paper appeared in late December 1895. Within months X-rays were being used to locate bullets and diagnose fractures. Röntgen received the first Nobel Prize in Physics in 1901, and the dangers of radiation exposure became apparent only gradually.",
+    "wikipedia": "X-ray",
+    "consensus": "established",
+    "tags": [
+      "physics",
+      "medicine",
+      "radiation"
+    ]
+  },
+  {
+    "id": "modern1-lumiere-cinema",
+    "title": "The Lumière brothers' first public film screening",
+    "year": 1895.99,
+    "dateLabel": "28 December 1895",
+    "lat": 48.87,
+    "lon": 2.33,
+    "category": "culture",
+    "importance": 2,
+    "summary": "Auguste and Louis Lumière showed ten short films to a paying audience at the Grand Café in Paris, a birth date of cinema.",
+    "description": "The Lumières' Cinématographe served as camera, printer and projector, allowing films to be projected for a group rather than viewed individually as with Thomas Edison's Kinetoscope of the early 1890s. The programme of short scenes, each under a minute, included Workers Leaving the Lumière Factory. Max and Emil Skladanowsky had projected films in Berlin a few weeks earlier, so the claim to the 'first' screening depends on definitions. The popular story that audiences fled from the oncoming train in the Lumières' Arrival of a Train is probably exaggerated. Within a few years cinema had spread around the world as a mass entertainment.",
+    "wikipedia": "Auguste and Louis Lumière",
+    "consensus": "established",
+    "tags": [
+      "cinema",
+      "film",
+      "France"
+    ]
+  },
+  {
+    "id": "modern1-battle-of-adwa",
+    "title": "Battle of Adwa",
+    "year": 1896.16,
+    "dateLabel": "1 March 1896",
+    "lat": 14.17,
+    "lon": 38.9,
+    "category": "war",
+    "importance": 4,
+    "summary": "Emperor Menelik II's Ethiopian army decisively defeated an Italian invasion force, preserving Ethiopia's independence.",
+    "description": "Italy claimed a protectorate over Ethiopia based on a disputed article of the 1889 Treaty of Wuchale, whose Italian and Amharic texts differed. Near the town of Adwa, an Ethiopian army of roughly 100,000, commanded by Menelik II with Empress Taytu Betul and regional leaders, routed about 17,000 Italian and Eritrean troops under General Oreste Baratieri, killing several thousand. The Treaty of Addis Ababa in October 1896 recognised Ethiopian independence. Adwa became a lasting symbol of African resistance to colonialism and of pan-African pride, although Italy later occupied Ethiopia from 1936 to 1941.",
+    "wikipedia": "Battle of Adwa",
+    "consensus": "established",
+    "tags": [
+      "Ethiopia",
+      "Italy",
+      "anti-colonial resistance"
+    ]
+  },
+  {
+    "id": "modern1-radioactivity",
+    "title": "Discovery of radioactivity",
+    "year": 1896.17,
+    "endYear": 1898.97,
+    "dateLabel": "1896–1898",
+    "lat": 48.84,
+    "lon": 2.36,
+    "category": "science",
+    "importance": 3,
+    "summary": "Henri Becquerel found that uranium emits radiation; Marie and Pierre Curie then discovered polonium and radium.",
+    "description": "In early 1896 Becquerel discovered that uranium salts fogged photographic plates even in darkness, without any external energy source. Marie Curie, investigating this 'uranic radiation', coined the term radioactivity and with Pierre Curie discovered polonium and radium in 1898; the three shared the 1903 Nobel Prize in Physics, and Marie Curie won a second Nobel in Chemistry in 1911. Ernest Rutherford and Frederick Soddy showed in 1902 that radioactivity involves the transmutation of elements. Radioactive decay also provided a natural clock: radiometric dating, begun by Bertram Boltwood in 1907, revealed that Earth is billions of years old.",
+    "wikipedia": "Radioactive decay",
+    "consensus": "established",
+    "tags": [
+      "physics",
+      "Curie",
+      "radiometric dating"
+    ]
+  },
+  {
+    "id": "modern1-spanish-american-war",
+    "title": "Spanish–American War",
+    "year": 1898.31,
+    "endYear": 1898.62,
+    "dateLabel": "21 April – 12 August 1898",
+    "lat": 23.14,
+    "lon": -82.35,
+    "category": "war",
+    "importance": 2,
+    "summary": "After the USS Maine exploded in Havana, the US defeated Spain and took Puerto Rico, Guam and the Philippines.",
+    "description": "US intervention in Cuba's war of independence followed the unexplained explosion of the battleship USS Maine in Havana harbour in February 1898; later investigations suggest an internal coal-bunker fire rather than a mine, though this remains debated. US forces destroyed Spanish fleets at Manila Bay and Santiago de Cuba and won on land in Cuba within four months. In the Treaty of Paris (December 1898) Spain ceded Puerto Rico, Guam and the Philippines, and Cuba became nominally independent under US influence; the US also annexed Hawaii in 1898. Filipino revolutionaries who had fought Spain then fought the United States in the Philippine–American War of 1899–1902, in which hundreds of thousands of Filipino civilians died, mostly from famine and disease.",
+    "wikipedia": "Spanish–American War",
+    "consensus": "established",
+    "tags": [
+      "United States",
+      "Spain",
+      "Cuba",
+      "Philippines"
+    ]
+  },
+  {
+    "id": "modern1-second-boer-war",
+    "title": "Second Boer War",
+    "year": 1899.78,
+    "endYear": 1902.42,
+    "dateLabel": "11 October 1899 – 31 May 1902",
+    "lat": -25.75,
+    "lon": 28.19,
+    "category": "war",
+    "importance": 3,
+    "summary": "Britain fought the Transvaal and Orange Free State for supremacy in gold-rich South Africa, using scorched-earth tactics and concentration camps.",
+    "description": "Tension between Britain and the Afrikaner-led South African Republic (Transvaal) and Orange Free State grew after gold was discovered on the Witwatersrand in 1886. Boer forces besieged Ladysmith, Kimberley and Mafeking early in the war, but British reinforcements took Pretoria in June 1900, after which the Boers fought a long guerrilla campaign. The British burned farms and interned civilians in camps where about 26,000 Boer women and children and at least 14,000–20,000 Black Africans died, mainly from disease. The Treaty of Vereeniging ended the war, and in 1910 the colonies were joined in the Union of South Africa, whose white-minority rule excluded the Black majority.",
+    "wikipedia": "Second Boer War",
+    "consensus": "established",
+    "tags": [
+      "South Africa",
+      "British Empire",
+      "concentration camps"
+    ]
+  },
+  {
+    "id": "modern1-boxer-rebellion",
+    "title": "Boxer Rebellion",
+    "year": 1899.84,
+    "endYear": 1901.68,
+    "dateLabel": "1899 – 7 September 1901",
+    "lat": 39.9,
+    "lon": 116.4,
+    "category": "war",
+    "importance": 3,
+    "summary": "An anti-foreign movement in north China besieged Beijing's foreign legations until an eight-nation force captured the city.",
+    "description": "The Boxers, or Society of Righteous and Harmonious Fists, arose in drought-stricken Shandong and attacked foreign missionaries and Chinese Christians, killing some 200 missionaries and tens of thousands of Chinese Christians. In June 1900 the Qing court under Empress Dowager Cixi backed the movement and declared war on the foreign powers, and Boxers and imperial troops besieged the Legation Quarter in Beijing for 55 days. An eight-nation alliance of Japan, Russia, Britain, France, the United States, Germany, Italy and Austria-Hungary relieved Beijing in August 1900, looted the city and carried out punitive expeditions that killed many Chinese civilians. The Boxer Protocol of 1901 imposed an indemnity of 450 million taels of silver, further weakening the Qing dynasty.",
+    "wikipedia": "Boxer Rebellion",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qing",
+      "imperialism"
+    ]
+  },
+  {
+    "id": "modern1-australian-federation",
+    "title": "Federation of Australia",
+    "year": 1901,
+    "dateLabel": "1 January 1901",
+    "lat": -33.9,
+    "lon": 151.23,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Six British colonies united as the Commonwealth of Australia, proclaimed in Sydney's Centennial Park.",
+    "description": "After conventions in the 1890s and referendums in each colony, the British Parliament passed the Commonwealth of Australia Constitution Act in 1900, and the federation was proclaimed on the first day of the new century, with Edmund Barton as the first prime minister. Melbourne served as the seat of government until Canberra was ready in 1927. One of the new parliament's first laws, the Immigration Restriction Act 1901, began the 'White Australia' policy. The constitution excluded Aboriginal people from being counted in the national population until a 1967 referendum changed it.",
+    "wikipedia": "Federation of Australia",
+    "consensus": "established",
+    "tags": [
+      "Australia",
+      "federation",
+      "British Empire"
+    ]
+  },
+  {
+    "id": "modern1-marconi-transatlantic-radio",
+    "title": "Marconi's transatlantic radio signal",
+    "year": 1901.95,
+    "dateLabel": "12 December 1901",
+    "lat": 47.57,
+    "lon": -52.68,
+    "category": "technology",
+    "importance": 2,
+    "summary": "Guglielmo Marconi reported receiving the Morse letter 'S' at St John's, Newfoundland, sent by radio from Cornwall.",
+    "description": "Building on Heinrich Hertz's demonstration of electromagnetic waves, Marconi began experimenting with wireless telegraphy in Italy in 1894–1895 and developed it commercially in Britain. In December 1901 he and an assistant reported hearing faint signals at Signal Hill, St John's, transmitted from Poldhu in Cornwall about 3,500 km away; some historians doubt that the signals were genuinely received, but reliable transatlantic radio followed within a few years. Ship-to-shore radio proved its value in rescues, notably during the Titanic disaster of 1912. Many others contributed to radio, including Jagadish Chandra Bose, Alexander Popov, Nikola Tesla and Reginald Fessenden, whose 1906 broadcast carried voice and music.",
+    "wikipedia": "Guglielmo Marconi",
+    "consensus": "established",
+    "tags": [
+      "radio",
+      "wireless",
+      "communication"
+    ]
+  },
+  {
+    "id": "modern1-wright-flyer",
+    "title": "The Wright brothers' first powered flight",
+    "year": 1903.96,
+    "dateLabel": "17 December 1903",
+    "lat": 36.02,
+    "lon": -75.67,
+    "category": "technology",
+    "importance": 5,
+    "summary": "At Kitty Hawk, North Carolina, the Wright Flyer made the first sustained, controlled, powered flights of a heavier-than-air aircraft.",
+    "description": "Orville Wright piloted the first flight at Kill Devil Hills near Kitty Hawk, lasting 12 seconds and covering 37 m; on the fourth flight that day Wilbur flew 260 m in 59 seconds. The brothers' key innovation was a system of three-axis control, developed through glider experiments from 1900, combined with efficient propellers and a light petrol engine of their own design. They built a practical aircraft by 1905 and astonished European audiences with demonstration flights in 1908. Aviation advanced quickly: Louis Blériot crossed the English Channel in 1909, and aircraft were used in war by 1911.",
+    "wikipedia": "Wright Flyer",
+    "consensus": "established",
+    "tags": [
+      "aviation",
+      "invention",
+      "United States"
+    ]
+  },
+  {
+    "id": "modern1-herero-nama-genocide",
+    "title": "Herero and Nama genocide",
+    "year": 1904.03,
+    "endYear": 1908,
+    "dateLabel": "1904–1908",
+    "lat": -20.5,
+    "lon": 17.24,
+    "category": "war",
+    "importance": 3,
+    "summary": "German colonial forces in South West Africa killed tens of thousands of Herero and Nama people after an uprising.",
+    "description": "In January 1904 the Herero of German South West Africa (now Namibia) rose against land seizures and abuse by settlers. After the Battle of Waterberg in August 1904, General Lothar von Trotha drove the Herero into the Omaheke desert and issued an order to kill or expel all Herero, and survivors, along with the Nama who rose in late 1904, were held in concentration camps such as Shark Island, where many died of forced labour and disease. Estimates suggest that around 24,000–100,000 Herero, often described as most of the people, and about 10,000 Nama, roughly half, died. It is widely regarded as the first genocide of the 20th century, and Germany officially acknowledged it as genocide in 2021.",
+    "wikipedia": "Herero and Nama genocide",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "Namibia",
+      "German colonialism"
+    ]
+  },
+  {
+    "id": "modern1-russo-japanese-war",
+    "title": "Russo-Japanese War",
+    "year": 1904.1,
+    "endYear": 1905.68,
+    "dateLabel": "8 February 1904 – 5 September 1905",
+    "lat": 38.81,
+    "lon": 121.26,
+    "category": "war",
+    "importance": 3,
+    "summary": "Japan defeated Russia in a war over Manchuria and Korea, the first modern victory of an Asian power over a European one.",
+    "description": "Rivalry over Manchuria and Korea led Japan to launch a surprise attack on the Russian fleet at Port Arthur (Lüshun) in February 1904. Japanese forces captured Port Arthur after a costly siege in January 1905, won the huge land battle of Mukden, and at Tsushima in May 1905 Admiral Tōgō Heihachirō's fleet destroyed Russia's Baltic Fleet after its voyage halfway around the world. The Treaty of Portsmouth, mediated by US President Theodore Roosevelt, gave Japan the Port Arthur lease, southern Sakhalin and control over Korea, which Japan annexed in 1910. Defeat helped trigger revolution in Russia and inspired anti-colonial nationalists across Asia.",
+    "wikipedia": "Russo-Japanese War",
+    "consensus": "established",
+    "tags": [
+      "Japan",
+      "Russia",
+      "Manchuria",
+      "Tsushima"
+    ]
+  },
+  {
+    "id": "modern1-russian-revolution-1905",
+    "title": "Russian Revolution of 1905",
+    "year": 1905.06,
+    "endYear": 1907.45,
+    "dateLabel": "22 January 1905 – June 1907",
+    "lat": 59.94,
+    "lon": 30.31,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Troops fired on peaceful petitioners in St Petersburg on 'Bloody Sunday', setting off strikes, mutinies and peasant revolts.",
+    "description": "On 22 January 1905 (9 January Old Style) soldiers fired on a peaceful march led by the priest Georgy Gapon to the Winter Palace, killing well over a hundred people. Strikes, peasant uprisings, national movements in the borderlands and mutinies, including on the battleship Potemkin, spread through the empire amid defeat in the war with Japan, and workers formed the first soviets. Nicholas II's October Manifesto promised civil liberties and an elected Duma, splitting the opposition. The government restored control by 1907, but the revolution was a rehearsal for 1917.",
+    "wikipedia": "Russian Revolution of 1905",
+    "consensus": "established",
+    "tags": [
+      "Russia",
+      "revolution",
+      "Bloody Sunday"
+    ]
+  },
+  {
+    "id": "modern1-einstein-annus-mirabilis",
+    "title": "Einstein's miracle year",
+    "year": 1905.45,
+    "dateLabel": "March–September 1905",
+    "lat": 46.95,
+    "lon": 7.45,
+    "category": "science",
+    "importance": 5,
+    "summary": "A Bern patent clerk, Albert Einstein, published four papers that introduced light quanta, special relativity and E = mc².",
+    "description": "While working at the Swiss patent office in Bern, Einstein published four landmark papers in Annalen der Physik. One explained the photoelectric effect by treating light as quanta, a foundation of quantum theory; another showed that Brownian motion offers evidence for atoms; a third, 'On the Electrodynamics of Moving Bodies', set out special relativity; and a fourth derived the equivalence of mass and energy. He extended relativity to gravity in the general theory of 1915. Einstein received the 1921 Nobel Prize in Physics for the photoelectric effect.",
+    "wikipedia": "Annus mirabilis papers",
+    "consensus": "established",
+    "tags": [
+      "physics",
+      "relativity",
+      "quantum",
+      "Einstein"
+    ]
+  },
+  {
+    "id": "modern1-tunguska-event",
+    "title": "Tunguska event",
+    "year": 1908.5,
+    "dateLabel": "30 June 1908",
+    "lat": 60.89,
+    "lon": 101.89,
+    "category": "cosmic",
+    "importance": 3,
+    "summary": "A cosmic body exploded in the air over Siberia, flattening some 80 million trees across about 2,000 km² of forest.",
+    "description": "Early on the morning of 30 June 1908, an object several tens of metres across exploded about 5–10 km above the Podkamennaya Tunguska River in a remote region of Siberia, with an energy commonly estimated at roughly 3–15 megatons of TNT. The blast flattened forest in a radial pattern, was registered by seismographs and barographs as far away as Britain, and brightened night skies over Europe and Asia for several days. Because the area was so sparsely populated, few if any people died. The first scientific expedition, led by Leonid Kulik, reached the site only in 1927 and found no impact crater; most researchers attribute the event to the airburst of a stony asteroid or a comet fragment, and it is the largest impact event in recorded history.",
+    "wikipedia": "Tunguska event",
+    "consensus": "established",
+    "tags": [
+      "impact",
+      "airburst",
+      "Siberia"
+    ]
+  },
+  {
+    "id": "modern1-tunguska-alien-spacecraft",
+    "title": "Tunguska 'alien spaceship' claims",
+    "year": 1908.5,
+    "dateLabel": "30 June 1908 (claims from 1946 onward)",
+    "lat": 60.9,
+    "lon": 101.95,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Popular claims hold that the Tunguska explosion was a nuclear-powered alien spacecraft that blew up or crashed over Siberia.",
+    "description": "The idea began with Alexander Kazantsev's 1946 science-fiction story 'Explosion', which imagined a nuclear-powered spaceship exploding over Tunguska, inspired by the recent atomic bombings of Japan. The story was soon repeated as fact, and later writers and television documentaries added claims of radiation sickness, anomalous metals and even an alien craft deliberately shooting down a comet. In 2004 a Siberian group announced it had found pieces of an alien 'technical device' at the site, a claim never substantiated. The event also attracted speculative proposals from scientists, such as antimatter or a small black hole, which were examined and rejected.",
+    "wikipedia": "Tunguska event",
+    "consensus": "fringe",
+    "mainstreamView": "The evidence fits a natural airburst. Models of an asteroid or comet fragment exploding several kilometres up reproduce the butterfly-shaped pattern of flattened trees and the absence of a crater, and the 2013 Chelyabinsk meteor provided a smaller, well-observed example of such an explosion. Soil and peat at the site contain microscopic silicate and magnetite spherules with elevated nickel and iridium, consistent with extraterrestrial rock, and no anomalous radioactivity or artificial materials have been found.",
+    "tags": [
+      "fringe",
+      "aliens",
+      "Tunguska"
+    ]
+  },
+  {
+    "id": "modern1-ford-model-t",
+    "title": "Ford Model T and the moving assembly line",
+    "year": 1908.75,
+    "dateLabel": "1 October 1908 (assembly line 1913)",
+    "lat": 42.37,
+    "lon": -83.07,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Henry Ford launched the Model T in Detroit; his 1913 moving assembly line made cars affordable to ordinary families.",
+    "description": "The Model T, built at Ford's Piquette Avenue plant in Detroit and later at Highland Park, was simple, durable and suited to rough rural roads. In late 1913 Ford introduced a moving assembly line at Highland Park that cut the time to assemble a chassis from about 12 hours to roughly 90 minutes. Prices fell from $825 at launch to under $300 by the mid-1920s, and over 15 million were built by 1927. Ford's methods of mass production, together with the high '$5 day' wage of 1914, spread to other industries and helped create a consumer economy built around the automobile.",
+    "wikipedia": "Ford Model T",
+    "consensus": "established",
+    "tags": [
+      "automobile",
+      "mass production",
+      "United States"
+    ]
+  },
+  {
+    "id": "modern1-haber-bosch",
+    "title": "Haber–Bosch process: fixing nitrogen from the air",
+    "year": 1909.51,
+    "endYear": 1913.7,
+    "dateLabel": "1909–1913",
+    "lat": 49.52,
+    "lon": 8.4,
+    "category": "technology",
+    "importance": 4,
+    "summary": "Fritz Haber synthesised ammonia from air and hydrogen, and Carl Bosch scaled it up, enabling mass-produced fertiliser.",
+    "description": "In July 1909 Fritz Haber demonstrated at Karlsruhe a laboratory apparatus that combined atmospheric nitrogen and hydrogen into ammonia under high pressure and temperature over a catalyst. Carl Bosch and Alwin Mittasch at the chemical company BASF developed the engineering and an iron-based catalyst, and the first industrial plant opened at Oppau, Ludwigshafen, in September 1913. Synthetic nitrogen fertiliser is estimated to sustain food production for around half of today's world population. The process also supplied nitrates for German explosives in the First World War, and its large-scale use is linked to nitrogen pollution and roughly 1–2% of global energy use.",
+    "wikipedia": "Haber process",
+    "consensus": "established",
+    "tags": [
+      "chemistry",
+      "fertiliser",
+      "agriculture",
+      "Germany"
+    ]
+  },
+  {
+    "id": "modern1-mexican-revolution",
+    "title": "Mexican Revolution",
+    "year": 1910.89,
+    "endYear": 1920,
+    "dateLabel": "20 November 1910 – c. 1920",
+    "lat": 19.43,
+    "lon": -99.13,
+    "category": "war",
+    "importance": 3,
+    "summary": "A revolt against the long rule of Porfirio Díaz became a decade of civil war involving Madero, Villa, Zapata and Carranza.",
+    "description": "Francisco Madero called for an uprising on 20 November 1910 against Porfirio Díaz, who had dominated Mexico since 1876, and Díaz resigned in May 1911. Madero was overthrown and murdered in 1913 by General Victoriano Huerta, whose regime was in turn defeated by forces under Venustiano Carranza, Pancho Villa in the north and Emiliano Zapata's agrarian movement in the south, who then fought one another. The 1917 Constitution enshrined land reform, labour rights and national ownership of subsoil resources such as oil. Estimates of deaths during the decade vary widely, from around one million to two million or more, most of them non-combatants who died of violence, disease and famine, and many Mexicans emigrated to the United States.",
+    "wikipedia": "Mexican Revolution",
+    "consensus": "established",
+    "tags": [
+      "Mexico",
+      "revolution",
+      "land reform"
+    ]
+  },
+  {
+    "id": "modern1-1911-revolution",
+    "title": "Xinhai Revolution ends imperial China",
+    "year": 1911.78,
+    "endYear": 1912.12,
+    "dateLabel": "10 October 1911 – 12 February 1912",
+    "lat": 30.55,
+    "lon": 114.3,
+    "category": "politics",
+    "importance": 4,
+    "summary": "An uprising in Wuchang toppled the Qing dynasty, ending over 2,000 years of imperial rule and founding the Republic of China.",
+    "description": "Revolutionary soldiers linked to groups including Sun Yat-sen's Tongmenghui rose in Wuchang (now part of Wuhan) on 10 October 1911, and within weeks most southern and central provinces declared independence from the Qing. Sun Yat-sen was inaugurated as provisional president of the Republic of China in Nanjing on 1 January 1912. Negotiations with the Qing general Yuan Shikai led to the abdication of the six-year-old Xuantong Emperor, Puyi, on 12 February 1912, and Yuan became president. The new republic soon fragmented, leading to the warlord era, but the revolution ended a monarchical system dating back to 221 BCE.",
+    "wikipedia": "1911 Revolution",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qing",
+      "republic",
+      "Sun Yat-sen"
+    ]
+  },
+  {
+    "id": "modern1-amundsen-south-pole",
+    "title": "Amundsen reaches the South Pole",
+    "year": 1911.95,
+    "dateLabel": "14 December 1911",
+    "lat": -90,
+    "lon": 0,
+    "category": "exploration",
+    "importance": 2,
+    "summary": "Roald Amundsen's Norwegian party became the first to reach the South Pole, five weeks ahead of Robert Falcon Scott.",
+    "description": "Amundsen and four companions set out from their base at the Bay of Whales on the Ross Ice Shelf and, using skis and dog sledges, reached the pole on 14 December 1911, returning safely. Scott's British party arrived on 17 January 1912 to find the Norwegian tent and flag, and all five men died on the return journey. Earlier, Ernest Shackleton had come within about 180 km of the pole in 1909; in the Arctic, Frederick Cook's claim to have reached the North Pole in 1908 is generally rejected, while Robert Peary's 1909 claim remains disputed. The 'heroic age' of Antarctic exploration continued with Shackleton's Endurance expedition of 1914–1917.",
+    "wikipedia": "Amundsen's South Pole expedition",
+    "consensus": "established",
+    "tags": [
+      "Antarctica",
+      "polar exploration",
+      "Norway"
+    ]
+  },
+  {
+    "id": "modern1-wegener-continental-drift",
+    "title": "Wegener proposes continental drift",
+    "year": 1912.01,
+    "dateLabel": "6 January 1912",
+    "lat": 50.12,
+    "lon": 8.65,
+    "category": "science",
+    "importance": 4,
+    "summary": "German meteorologist Alfred Wegener argued that the continents had once formed a single landmass and have slowly drifted apart.",
+    "description": "In a lecture to the Geological Association in Frankfurt on 6 January 1912, followed by articles that year and the book 'The Origin of Continents and Oceans' (1915), Alfred Wegener proposed that the continents had once been joined in a supercontinent he later called Pangaea and had since moved apart. He cited the jigsaw fit of South America and Africa, matching rock formations and fossils such as Glossopteris and Mesosaurus on now-separate continents, and traces of ancient glaciation in today's tropics. Because he could not explain what force moved the continents, most geologists, especially in Britain and North America, rejected the idea for decades and treated it as a fringe notion. Wegener died on the Greenland ice sheet in 1930. Paleomagnetic studies in the 1950s and the discovery of seafloor spreading in the early 1960s revived his idea, which became part of the theory of plate tectonics by the late 1960s and today underpins reconstructions of past continents.",
+    "wikipedia": "Continental drift",
+    "consensus": "established",
+    "tags": [
+      "geology",
+      "plate tectonics",
+      "Wegener"
+    ]
+  },
+  {
+    "id": "modern1-titanic",
+    "title": "Sinking of the Titanic",
+    "year": 1912.29,
+    "dateLabel": "15 April 1912",
+    "lat": 41.73,
+    "lon": -49.95,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "The liner RMS Titanic struck an iceberg on her maiden voyage and sank in the North Atlantic; about 1,500 people died.",
+    "description": "Sailing from Southampton to New York, the White Star liner, then the largest ship afloat, hit an iceberg late on 14 April and sank about two hours and forty minutes later. Its lifeboats could carry fewer than 1,200 of the roughly 2,200 people on board, and third-class passengers suffered disproportionately. The disaster led to the first International Convention for the Safety of Life at Sea in 1914, requiring enough lifeboats for everyone and continuous radio watches, and to the International Ice Patrol. The wreck was located in 1985.",
+    "wikipedia": "Sinking of the Titanic",
+    "consensus": "established",
+    "tags": [
+      "shipwreck",
+      "maritime safety",
+      "North Atlantic"
+    ]
+  },
+  {
+    "id": "modern1-balkan-wars",
+    "title": "Balkan Wars",
+    "year": 1912.77,
+    "endYear": 1913.61,
+    "dateLabel": "8 October 1912 – 10 August 1913",
+    "lat": 41.68,
+    "lon": 26.56,
+    "category": "war",
+    "importance": 3,
+    "summary": "A Balkan alliance drove the Ottoman Empire from most of Europe, then fought among themselves over the spoils.",
+    "description": "In the First Balkan War, Montenegro, Serbia, Bulgaria and Greece attacked the Ottoman Empire in October 1912 and captured almost all of its European territory, including after a long siege of Adrianople (Edirne); Albania declared independence in November 1912. Disputes over Macedonia led Bulgaria to attack its former allies in June 1913, and in the Second Balkan War it was defeated by Serbia, Greece, Romania and the Ottomans, who retook Edirne. The Treaty of Bucharest in August 1913 enlarged Serbia and Greece. Serbia's growth alarmed Austria-Hungary, sharpening the tensions that erupted into the First World War in 1914.",
+    "wikipedia": "Balkan Wars",
+    "consensus": "established",
+    "tags": [
+      "Balkans",
+      "Ottoman Empire",
+      "Serbia",
+      "nationalism"
+    ]
+  },
+  {
+    "id": "modern1-piltdown-man",
+    "title": "Piltdown Man presented as a 'missing link'",
+    "year": 1912.96,
+    "dateLabel": "18 December 1912 (exposed as a forgery in 1953)",
+    "lat": 50.98,
+    "lon": 0.04,
+    "category": "fringe",
+    "importance": 2,
+    "summary": "Skull and jaw fragments from Sussex were hailed as an early human with a large brain and ape-like jaw; in 1953 they were exposed as a forgery.",
+    "description": "Amateur collector Charles Dawson said that labourers digging gravel at Piltdown in Sussex had given him pieces of a thick human-like skull, and in 1912 he and Arthur Smith Woodward of the British Museum (Natural History) recovered further fragments, a jaw with ape-like features, animal fossils and crude tools. Announced at the Geological Society of London on 18 December 1912, 'Eoanthropus dawsoni' seemed to show that early humans had evolved large brains before human-like jaws and teeth, matching the expectations of many British scientists and offering an English candidate for the 'missing link'. Some anatomists doubted from the start that the skull and jaw belonged together, and the find increasingly conflicted with African and Asian fossils such as the Taung Child and Peking Man. In 1953 Joseph Weiner, Kenneth Oakley and Wilfrid Le Gros Clark used fluorine dating and close examination to show that it was a forgery. The perpetrator was never confirmed, although a 2016 study concluded that Dawson was very probably responsible.",
+    "wikipedia": "Piltdown Man",
+    "consensus": "fringe",
+    "mainstreamView": "Piltdown Man was a deliberate fraud, not an early human. Tests between 1949 and 1953 showed that the bones were not ancient: the cranium came from modern humans and the jaw from an orangutan, the teeth had been filed down, and the fragments had been stained to look old, findings later confirmed by DNA and CT studies. The genuine fossil record, from Australopithecus in Africa onward, shows the reverse of what Piltdown implied: upright walking and human-like teeth evolved millions of years before large brains.",
+    "tags": [
+      "fringe",
+      "hoax",
+      "palaeoanthropology"
+    ]
+  }
+]

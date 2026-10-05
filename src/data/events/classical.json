@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "classical-hanno-the-navigator",
+    "title": "Hanno the Navigator sails down West Africa",
+    "year": -500,
+    "dateLabel": "c. 500 BCE (date uncertain)",
+    "uncertainty": 50,
+    "lat": 36.853,
+    "lon": 10.323,
+    "category": "exploration",
+    "importance": 2,
+    "summary": "A Carthaginian fleet passes the Strait of Gibraltar and sails down Africa's Atlantic coast to found colonies, as told in the Periplus of Hanno.",
+    "description": "Our only account is a short Greek text, the Periplus of Hanno, said to translate an inscription Hanno set up in a temple at Carthage. It describes a large fleet carrying colonists who founded settlements on the Moroccan coast, then sailed on past a great river full of crocodiles and hippopotamuses to a burning mountain and an island of hairy people the interpreters called 'gorillas'. How far south the expedition reached is debated, with proposals ranging from southern Morocco to Sierra Leone or Cameroon, and its date can only be placed in the 6th or 5th century BCE. Whatever its exact reach, it is the earliest surviving narrative of a voyage along the West African coast.",
+    "wikipedia": "Hanno the Navigator",
+    "consensus": "majority",
+    "tags": [
+      "Carthage",
+      "Atlantic",
+      "Africa"
+    ]
+  },
+  {
+    "id": "classical-ancestral-polynesian-society",
+    "title": "Ancestral Polynesian culture in Tonga and Samoa",
+    "year": -500,
+    "dateLabel": "c. 500 BCE onwards",
+    "uncertainty": 100,
+    "lat": -21.17,
+    "lon": -175.2,
+    "category": "civilization",
+    "importance": 2,
+    "summary": "Descendants of Lapita voyagers in Tonga and Samoa forge a distinct Ancestral Polynesian culture during a long pause before the eastern Pacific is settled.",
+    "description": "Tonga and Samoa were first settled around 850–800 BCE by people of the Lapita culture, Austronesian seafarers whose ancestors had passed through the Bismarck Archipelago. Over the following centuries the elaborately stamped Lapita pottery gave way to plain wares and pottery-making eventually ceased, while the language, social structures, crops and voyaging traditions known as Ancestral Polynesian society took shape. Radiocarbon dating indicates a pause of well over a thousand years before canoes pushed on to the Cook, Society and Marquesas Islands, which were settled only around 900–1100 CE. Why the expansion halted for so long, whether because of winds, sailing technology or social factors, is still debated.",
+    "wikipedia": "Polynesians",
+    "consensus": "majority",
+    "tags": [
+      "Polynesia",
+      "Oceania",
+      "voyaging"
+    ]
+  },
+  {
+    "id": "classical-battle-of-marathon",
+    "title": "Battle of Marathon",
+    "year": -490,
+    "dateLabel": "490 BCE (August or September)",
+    "lat": 38.118,
+    "lon": 23.978,
+    "category": "war",
+    "importance": 4,
+    "summary": "Athenian and Plataean hoplites defeat a Persian landing force on the plain of Marathon, ending Darius I's first invasion of Greece.",
+    "description": "After the Ionian Revolt (499–493 BCE), in which Athens and Eretria had aided the Greek cities of Asia Minor against Persia, Darius I sent a seaborne expedition that sacked Eretria and landed at Marathon, about 40 km from Athens. Some 10,000 Athenians and Plataeans under generals including Miltiades charged the larger Persian force and drove it back to its ships; Herodotus reports 6,400 Persian and 192 Athenian dead. The victory gave the young Athenian democracy enormous prestige and showed that Greek hoplites could beat a Persian army. The later legend of a messenger running from Marathon to Athens inspired the modern marathon race.",
+    "wikipedia": "Battle of Marathon",
+    "consensus": "established",
+    "tags": [
+      "Greco-Persian Wars",
+      "Athens",
+      "Persia"
+    ]
+  },
+  {
+    "id": "classical-xerxes-invasion-thermopylae-salamis",
+    "title": "Thermopylae and Salamis: Xerxes invades Greece",
+    "year": -480,
+    "dateLabel": "August–September 480 BCE",
+    "lat": 37.95,
+    "lon": 23.57,
+    "category": "war",
+    "importance": 4,
+    "summary": "Greeks delay Xerxes' huge army at the pass of Thermopylae, then destroy much of the Persian fleet in the narrow straits of Salamis.",
+    "description": "In 480 BCE the Persian king Xerxes I led a vast army and fleet against Greece. At the pass of Thermopylae a small force under the Spartan king Leonidas held the Persians for three days until it was outflanked; Leonidas sent most of the allied contingents away, and his rearguard of Spartans and Thespians was annihilated, while the Greek fleet fought an indecisive action off Artemisium. With Athens evacuated and burned, the allied navy, led by Athenian triremes under Themistocles, lured the Persian fleet into the straits of Salamis in September and won a decisive victory. Xerxes withdrew, and Greek victories at Plataea and Mycale in 479 BCE ended the invasion; Herodotus' figure of millions of Persian soldiers is regarded by modern historians as a great exaggeration.",
+    "wikipedia": "Second Persian invasion of Greece",
+    "consensus": "established",
+    "tags": [
+      "Greco-Persian Wars",
+      "Sparta",
+      "Athens"
+    ]
+  },
+  {
+    "id": "classical-warring-states-period",
+    "title": "Warring States period",
+    "year": -475,
+    "endYear": -221,
+    "dateLabel": "475–221 BCE",
+    "lat": 34.67,
+    "lon": 112.42,
+    "category": "war",
+    "importance": 4,
+    "summary": "Seven major states fight for supremacy in China as the Zhou kings lose all real power, driving military, economic and intellectual change.",
+    "description": "As the Eastern Zhou kings became figureheads, the larger states, chiefly Qin, Chu, Qi, Yan, Han, Zhao and Wei, absorbed their neighbours and fought ever larger wars with mass infantry armies, crossbows and iron weapons. Rulers built bureaucracies, codified laws, dug irrigation canals and issued coinage to mobilise resources. The era of the 'Hundred Schools of Thought' produced Mencius, Zhuangzi, the Mohists and the Legalists, and texts such as the Art of War attributed to Sunzi. The western state of Qin, strengthened by Shang Yang's Legalist reforms from 356 BCE, conquered all the others between 230 and 221 BCE. The starting date of 475 BCE is a convention; 481 and 403 BCE are also used.",
+    "wikipedia": "Warring States period",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Zhou dynasty",
+      "Hundred Schools of Thought"
+    ]
+  },
+  {
+    "id": "classical-parthenon-athenian-golden-age",
+    "title": "Athenian golden age and the Parthenon",
+    "year": -447,
+    "endYear": -432,
+    "dateLabel": "447–432 BCE",
+    "lat": 37.9715,
+    "lon": 23.7267,
+    "category": "culture",
+    "importance": 4,
+    "summary": "Under Pericles, Athens uses Delian League funds to rebuild the Acropolis, crowned by the marble Parthenon temple to Athena.",
+    "description": "After the Persian Wars, Athens led the Delian League, an alliance against Persia that it gradually turned into an empire, and under Pericles the city reached the height of its wealth, democratic self-confidence and cultural influence. The Parthenon, designed by Ictinus and Callicrates with sculpture overseen by Phidias, was built between 447 and 432 BCE, partly paid for with League tribute. Fifth-century Athens also produced the tragedies of Aeschylus, Sophocles and Euripides, the comedies of Aristophanes and the history of Thucydides. The Parthenon later served as a church and a mosque before an explosion during a Venetian siege in 1687 wrecked much of it.",
+    "wikipedia": "Parthenon",
+    "consensus": "established",
+    "tags": [
+      "Athens",
+      "architecture",
+      "democracy"
+    ]
+  },
+  {
+    "id": "classical-peloponnesian-war",
+    "title": "Peloponnesian War",
+    "year": -431,
+    "endYear": -404,
+    "dateLabel": "431–404 BCE",
+    "lat": 37.97,
+    "lon": 23.73,
+    "category": "war",
+    "importance": 4,
+    "summary": "Athens and its maritime empire fight Sparta and the Peloponnesian League for 27 years, ending with Athens' surrender in 404 BCE.",
+    "description": "Thucydides, who fought in the war and chronicled it, attributed it to Spartan fear of growing Athenian power. Athens relied on its fleet and Long Walls while Sparta ravaged Attica, and a plague in 430–426 BCE killed perhaps a quarter of the crowded city's population, including Pericles. After an uneasy peace in 421 BCE, Athens' disastrous expedition against Syracuse (415–413 BCE) destroyed much of its fleet and army, and Sparta, now funded by Persia, won the decisive naval battle of Aegospotami in 405 BCE. Athens surrendered the following year and briefly fell under the oligarchy of the Thirty Tyrants, and the war left the Greek city-states weakened for decades.",
+    "wikipedia": "Peloponnesian War",
+    "consensus": "established",
+    "tags": [
+      "Athens",
+      "Sparta",
+      "Thucydides"
+    ]
+  },
+  {
+    "id": "classical-death-of-the-buddha",
+    "title": "The Buddha's parinirvana and the First Council",
+    "year": -420,
+    "dateLabel": "c. 480 or c. 400 BCE (debated)",
+    "uncertainty": 60,
+    "lat": 26.741,
+    "lon": 83.888,
+    "category": "religion",
+    "importance": 3,
+    "summary": "The Buddha dies at Kushinagar; tradition says his monks soon met at Rajagriha to recite his teachings, which were then passed down orally for centuries.",
+    "description": "According to Buddhist tradition, Siddhartha Gautama died aged about 80 in a grove at Kushinagar, an event Buddhists call the parinirvana, his final release from the cycle of rebirth. His body was cremated and the relics were divided among eight claimants, who enshrined them in stupas, and the veneration of relic mounds became central to later Buddhist practice. Tradition also holds that soon afterwards some 500 senior monks met at Rajagriha (Rajgir) for the First Council, where Ananda recited the Buddha's discourses and Upali the monastic rules, which were then transmitted orally until they were written down in Sri Lanka in the 1st century BCE. Many scholars doubt that the council took place as described, and a Second Council at Vaishali, said to have met about a century later, is associated with disputes over monastic discipline that preceded the first split in the monastic community.",
+    "wikipedia": "Buddhist councils",
+    "consensus": "debated",
+    "mainstreamView": "That the Buddha was a historical person is widely accepted, but his dates are uncertain. The Theravada tradition places his death in 544/543 BCE, and the 'corrected long chronology' long used by Western scholars gives about 486–483 BCE. Since the 1980s many historians have favoured a 'short chronology' placing it around 400 BCE or a little later, based on sources that count about a century from his death to Ashoka; there is no consensus.",
+    "tags": [
+      "Buddhism",
+      "India",
+      "sangha"
+    ]
+  },
+  {
+    "id": "classical-trial-of-socrates",
+    "title": "Trial and death of Socrates",
+    "year": -399,
+    "dateLabel": "399 BCE",
+    "lat": 37.9755,
+    "lon": 23.7224,
+    "category": "religion",
+    "importance": 4,
+    "summary": "An Athenian jury condemns the philosopher Socrates for impiety and corrupting the youth, and he dies by drinking hemlock.",
+    "description": "Socrates wrote nothing himself; he is known mainly through the dialogues of his pupil Plato, the works of Xenophon and the satire of Aristophanes, which makes the 'historical Socrates' a long-standing scholarly problem. His method of relentless questioning about justice, virtue and knowledge made him a founding figure of Western philosophy, especially ethics. In 399 BCE, in the tense years after Athens' defeat and the rule of the Thirty Tyrants, some of whom had been his associates, he was tried and sentenced to death. Plato's Apology, Crito and Phaedo portray his defence, his refusal to escape and his final hours.",
+    "wikipedia": "Trial of Socrates",
+    "consensus": "established",
+    "tags": [
+      "philosophy",
+      "Athens",
+      "Plato"
+    ]
+  },
+  {
+    "id": "classical-plato-academy-aristotle-lyceum",
+    "title": "Plato's Academy and Aristotle's Lyceum",
+    "year": -387,
+    "dateLabel": "c. 387 BCE (Academy); 335 BCE (Lyceum)",
+    "uncertainty": 3,
+    "lat": 37.9925,
+    "lon": 23.7083,
+    "category": "science",
+    "importance": 3,
+    "summary": "Plato founds the Academy outside Athens; his student Aristotle later opens the Lyceum, laying foundations for Western philosophy and science.",
+    "description": "Around 387 BCE Plato began teaching in a grove sacred to the hero Akademos outside the walls of Athens, and his school endured in some form for centuries. His dialogues, most featuring Socrates, explore justice, knowledge, the soul and the ideal state, and set out his theory of Forms. Aristotle studied at the Academy for about twenty years, tutored the young Alexander of Macedon, and in 335 BCE founded his own school, the Lyceum. His works on logic, physics, biology, ethics, politics and poetics shaped scholarship in the Islamic world and medieval Europe for nearly two thousand years.",
+    "wikipedia": "Platonic Academy",
+    "consensus": "established",
+    "tags": [
+      "philosophy",
+      "Athens",
+      "education"
+    ]
+  },
+  {
+    "id": "classical-mencius",
+    "title": "Mencius develops Confucian thought",
+    "year": -372,
+    "endYear": -289,
+    "dateLabel": "c. 372–289 BCE (traditional dates)",
+    "uncertainty": 10,
+    "lat": 35.405,
+    "lon": 116.966,
+    "category": "religion",
+    "importance": 3,
+    "summary": "The philosopher Mencius teaches that human nature is innately good and that rulers who oppress their people lose the Mandate of Heaven.",
+    "description": "Mencius (Mengzi), from the small state of Zou near Confucius' home state of Lu, is said to have studied with followers of Confucius' grandson Zisi and spent years travelling among the courts of the Warring States, urging rulers such as King Hui of Liang and King Xuan of Qi to govern through benevolence. He taught that everyone is born with 'sprouts' of humaneness, righteousness, propriety and wisdom that education should cultivate, a view later challenged by Xunzi, who held that human nature inclines towards bad and must be shaped by ritual. Mencius also declared that the people matter more than the ruler and that a tyrant who has lost the Mandate of Heaven may rightly be overthrown. The record of his conversations, the Mencius, became one of the Four Books chosen by the Song scholar Zhu Xi, which formed the core of China's civil-service examinations from 1313 to 1905, and he is honoured as the 'Second Sage' after Confucius.",
+    "wikipedia": "Mencius",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "philosophy",
+      "Confucianism"
+    ]
+  },
+  {
+    "id": "classical-alexander-conquests",
+    "title": "Conquests of Alexander the Great",
+    "year": -334,
+    "endYear": -323,
+    "dateLabel": "334–323 BCE",
+    "lat": 32.536,
+    "lon": 44.421,
+    "category": "empire",
+    "importance": 5,
+    "summary": "Alexander of Macedon invades Asia, overthrows the Persian Empire and campaigns to the Indus before dying in Babylon aged 32.",
+    "description": "Inheriting his father Philip II's army, Alexander crossed the Hellespont in 334 BCE and defeated the Persians at the Granicus, at Issus (333 BCE) and at Gaugamela (331 BCE), where Darius III's army was routed. He took Babylon, Susa and Persepolis, founded cities including Alexandria in Egypt, and pushed through Central Asia into the Punjab, defeating King Porus at the Hydaspes (326 BCE), before his exhausted troops refused to go beyond the Hyphasis (Beas) river. He died in Babylon in June 323 BCE, and his generals, the Diadochi, fought over his empire for decades until it settled into successor kingdoms including Ptolemaic Egypt, the Seleucid Empire and Antigonid Macedon. The resulting Hellenistic age spread Greek language and culture from the Mediterranean to Bactria and north-west India.",
+    "wikipedia": "Wars of Alexander the Great",
+    "consensus": "established",
+    "tags": [
+      "Macedon",
+      "Persia",
+      "Hellenistic"
+    ]
+  },
+  {
+    "id": "classical-maurya-empire",
+    "title": "Maurya Empire",
+    "year": -322,
+    "endYear": -185,
+    "dateLabel": "c. 322–185 BCE",
+    "uncertainty": 5,
+    "lat": 25.61,
+    "lon": 85.14,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Chandragupta Maurya overthrows the Nanda dynasty and builds the first empire to unite most of the Indian subcontinent, ruled from Pataliputra.",
+    "description": "Chandragupta, traditionally guided by the minister Chanakya (Kautilya), seized the throne of Magadha around 322 BCE and expanded into the north-west after Alexander's withdrawal, gaining territory from Seleucus I in exchange for 500 war elephants around 303 BCE. The Greek envoy Megasthenes described the vast timber-walled capital of Pataliputra, on the site of modern Patna. Under his son Bindusara and grandson Ashoka the empire stretched from Afghanistan deep into the Deccan, with a large army and bureaucracy. It declined after Ashoka's death and ended when the last Maurya ruler was assassinated by his general Pushyamitra Shunga around 185 BCE.",
+    "wikipedia": "Maurya Empire",
+    "consensus": "established",
+    "tags": [
+      "India",
+      "Magadha",
+      "Chandragupta"
+    ]
+  },
+  {
+    "id": "classical-library-of-alexandria",
+    "title": "Library and Mouseion of Alexandria",
+    "year": -285,
+    "dateLabel": "c. 3rd century BCE (under Ptolemy I or II)",
+    "uncertainty": 15,
+    "lat": 31.2,
+    "lon": 29.9,
+    "category": "culture",
+    "importance": 4,
+    "summary": "The Ptolemaic kings found a great library and research institute in Alexandria, which becomes the leading centre of Greek scholarship.",
+    "description": "Alexandria, founded by Alexander in 331 BCE, became the capital of Ptolemaic Egypt and, with its Pharos lighthouse, one of the greatest cities of the ancient world. Ptolemy I or his son Ptolemy II founded the Mouseion, a royal research institute, and its library, which aimed to collect every Greek book; ancient estimates of its holdings, from 40,000 to 700,000 scrolls, are unreliable. Scholars there included Eratosthenes, the editors who established the texts of Homer, and, according to tradition, Euclid, whose Elements organised geometry into a deductive system used as a textbook for over two thousand years. Contrary to popular legend, the library was not destroyed in a single fire but declined over centuries through loss of royal support, purges of scholars, damage during Caesar's war of 48 BCE and later conflicts.",
+    "wikipedia": "Library of Alexandria",
+    "consensus": "majority",
+    "tags": [
+      "Alexandria",
+      "Ptolemaic Egypt",
+      "scholarship"
+    ]
+  },
+  {
+    "id": "classical-kush-meroe",
+    "title": "Kingdom of Kush centred on Meroë",
+    "year": -270,
+    "endYear": 350,
+    "dateLabel": "c. 270 BCE – 350 CE",
+    "uncertainty": 30,
+    "lat": 16.938,
+    "lon": 33.749,
+    "category": "empire",
+    "importance": 3,
+    "summary": "The Kushite kingdom moves its royal burials to Meroë on the Nile, a city of iron-working, steep pyramids and its own written script.",
+    "description": "After the Kushite kings who had ruled Egypt as its 25th Dynasty withdrew south, Kush continued under kings based at Napata and Meroë, between the fifth and sixth Nile cataracts in today's Sudan. From around 270 BCE royal burials moved to Meroë, where about 200 steep-sided pyramids still stand. The kingdom grew wealthy from gold, ivory, cattle and trade with Ptolemaic and Roman Egypt, and great slag heaps attest to large-scale iron production. Its Meroitic script, used from about the 2nd century BCE, can be read phonetically, but the language is still only partly understood. Meroë declined in the 4th century CE, probably under pressure from Aksum and shifting trade routes.",
+    "wikipedia": "Meroë",
+    "consensus": "established",
+    "tags": [
+      "Kush",
+      "Sudan",
+      "Nile"
+    ]
+  },
+  {
+    "id": "classical-ashoka-kalinga",
+    "title": "Ashoka's Kalinga War and turn to Buddhism",
+    "year": -261,
+    "dateLabel": "c. 261 BCE",
+    "uncertainty": 3,
+    "lat": 20.191,
+    "lon": 85.84,
+    "category": "religion",
+    "importance": 4,
+    "summary": "Appalled by the slaughter of his conquest of Kalinga, the Mauryan emperor Ashoka embraces Buddhism and proclaims rule by dhamma.",
+    "description": "In his own words, carved on a rock edict, Ashoka's conquest of Kalinga on India's east coast killed 100,000 people, deported 150,000 and filled him with remorse. He then promoted dhamma, a moral code of non-violence, tolerance and care for people and animals, which he publicised in rock and pillar edicts across the subcontinent, the earliest substantial deciphered written records from India. He supported Buddhist monasteries and stupas such as Sanchi, and according to tradition sent missions that carried Buddhism to Sri Lanka and beyond. His lion capital from Sarnath is now the national emblem of India.",
+    "wikipedia": "Ashoka",
+    "consensus": "established",
+    "tags": [
+      "India",
+      "Buddhism",
+      "Maurya Empire"
+    ]
+  },
+  {
+    "id": "classical-jenne-jeno",
+    "title": "Jenné-Jeno, an early West African city",
+    "year": -250,
+    "dateLabel": "c. 250 BCE onwards",
+    "uncertainty": 50,
+    "lat": 13.89,
+    "lon": -4.54,
+    "category": "civilization",
+    "importance": 2,
+    "summary": "Farmers and fishers settle Jenné-Jeno on the Inland Niger Delta, which grows into one of the oldest known cities in sub-Saharan Africa.",
+    "description": "Excavations from the 1970s by Susan and Roderick McIntosh showed that Jenné-Jeno, near modern Djenné in Mali, was settled around 250 BCE by people who grew African rice, fished and worked iron. By about 800 CE it covered some 33 hectares with numerous satellite settlements, and it traded iron, copper and gold over long distances well before the trans-Saharan trade intensified. The city seems to have lacked palaces and monumental architecture, suggesting a decentralised form of urbanism unlike classic models built around a ruling elite. It was abandoned around 1400 CE as nearby Djenné grew.",
+    "wikipedia": "Djenné-Djenno",
+    "consensus": "established",
+    "tags": [
+      "Mali",
+      "Niger",
+      "urbanism"
+    ]
+  },
+  {
+    "id": "classical-roman-warm-period",
+    "title": "Roman Warm Period",
+    "year": -250,
+    "endYear": 400,
+    "dateLabel": "c. 250 BCE – 400 CE",
+    "lat": 46.5,
+    "lon": 8,
+    "category": "climate",
+    "importance": 1,
+    "summary": "A spell of relatively warm, stable climate in Europe and the North Atlantic coincides with Roman expansion; how widespread it was is disputed.",
+    "description": "Tree rings, Alpine glacier records, pollen and written sources suggest that much of Europe enjoyed relatively warm and stable conditions from around the 3rd century BCE into the 2nd–4th centuries CE, with Alpine glaciers retreating and cereals and vines grown in favourable areas. Some historians argue that this 'Roman Climate Optimum' helped sustain the agricultural surpluses of the Roman Empire, and that a shift to cooler, more variable conditions from the 3rd century CE added to its troubles. Start and end dates differ between regions and studies.",
+    "wikipedia": "Roman Warm Period",
+    "consensus": "debated",
+    "mainstreamView": "Climate scientists accept that parts of Europe and the North Atlantic were relatively warm in Roman times, but global reconstructions such as the PAGES 2k compilations find no globally synchronous warm period, and temperatures were lower than today's. How large the warming was and how much it contributed to Roman prosperity remain under debate.",
+    "tags": [
+      "climate",
+      "Europe",
+      "paleoclimate"
+    ]
+  },
+  {
+    "id": "classical-parthian-empire",
+    "title": "Parthian Empire",
+    "year": -247,
+    "endYear": 224,
+    "dateLabel": "c. 247 BCE – 224 CE",
+    "uncertainty": 10,
+    "lat": 37.95,
+    "lon": 58.21,
+    "category": "empire",
+    "importance": 3,
+    "summary": "The Parni under Arsaces found a kingdom in north-eastern Iran that grows into an empire spanning the Silk Road from the Euphrates to Afghanistan.",
+    "description": "Arsaces I and his Parni nomads seized the Seleucid province of Parthia in the mid-3rd century BCE, with an early royal centre at Nisa, and under Mithridates I (r. c. 171–132 BCE) the Arsacids conquered Iran and Mesopotamia, later ruling from Ctesiphon. Their position astride the overland trade routes made them middlemen between Rome and Han China. At Carrhae in 53 BCE Parthian horse archers and armoured cavalry destroyed the Roman army of Marcus Licinius Crassus, who was killed, and for nearly three centuries Rome and Parthia contested Armenia and Mesopotamia. Weakened by dynastic conflict and Roman invasions, the dynasty was overthrown by the Sasanian Ardashir I in 224 CE.",
+    "wikipedia": "Parthian Empire",
+    "consensus": "established",
+    "tags": [
+      "Persia",
+      "Iran",
+      "Carrhae"
+    ]
+  },
+  {
+    "id": "classical-eratosthenes-measures-earth",
+    "title": "Eratosthenes measures the Earth",
+    "year": -240,
+    "dateLabel": "c. 240 BCE",
+    "uncertainty": 15,
+    "lat": 24.09,
+    "lon": 32.9,
+    "category": "science",
+    "importance": 3,
+    "summary": "Comparing the Sun's angle at Alexandria and Syene, Eratosthenes estimates Earth's circumference, probably to within 2–16% of the true value.",
+    "description": "Eratosthenes of Cyrene, head of the Library of Alexandria, knew that at noon on the summer solstice the Sun stood directly overhead at Syene (Aswan), while at Alexandria it was about 7.2°, one-fiftieth of a circle, from the vertical. Taking the distance between the cities as 5,000 stadia, he calculated a circumference of 250,000 stadia, later given as 252,000. Because the length of the stadion he used is uncertain, his result is judged to have been within roughly 2% to 16% of the true value of about 40,000 km. He also put geography on a mathematical basis with a world map using lines of latitude, and devised the 'sieve' for finding prime numbers.",
+    "wikipedia": "Eratosthenes",
+    "consensus": "established",
+    "tags": [
+      "geodesy",
+      "mathematics",
+      "Alexandria"
+    ]
+  },
+  {
+    "id": "classical-qin-unification",
+    "title": "Qin unifies China",
+    "year": -221,
+    "dateLabel": "221 BCE",
+    "lat": 34.36,
+    "lon": 108.71,
+    "category": "empire",
+    "importance": 5,
+    "summary": "King Zheng of Qin conquers the last rival state and proclaims himself Qin Shi Huang, First Emperor of a unified China.",
+    "description": "Between 230 and 221 BCE the armies of Qin defeated the states of Han, Zhao, Wei, Chu, Yan and Qi. King Zheng adopted the new title huangdi, 'emperor', replaced hereditary fiefs with centrally appointed commanderies, and standardised the script, weights and measures, coinage and axle widths. His regime built roads and canals, linked the northern defensive walls and, according to later accounts, burned books and executed scholars to suppress dissent, although the scale of this is debated. The Qin dynasty collapsed in rebellion within four years of his death in 210 BCE, but the ideal and institutions of a unified empire endured, and the name 'China' probably derives from Qin.",
+    "wikipedia": "Qin dynasty",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qin dynasty",
+      "Qin Shi Huang"
+    ]
+  },
+  {
+    "id": "classical-second-punic-war",
+    "title": "Second Punic War: Hannibal crosses the Alps",
+    "year": -218,
+    "endYear": -201,
+    "dateLabel": "218–201 BCE",
+    "lat": 45,
+    "lon": 6.9,
+    "category": "war",
+    "importance": 4,
+    "summary": "Hannibal marches an army with war elephants from Spain over the Alps into Italy and destroys Roman armies, but Rome wins at Zama in 202 BCE.",
+    "description": "Rome and Carthage had already fought the First Punic War (264–241 BCE) over Sicily, which became Rome's first province. In 218 BCE Hannibal Barca led an army from Carthaginian Spain across the Pyrenees and the Alps, losing many men on the way; most of his elephants survived the crossing but nearly all died in the cold weather after his victory at the Trebia, and which pass he used is still debated. He crushed the Romans at the Trebia, Lake Trasimene and Cannae (216 BCE), where tens of thousands of Romans died in a double envelopment, yet Rome refused to negotiate and most of its Italian allies stayed loyal. Scipio's campaigns in Spain and Africa forced Hannibal home, and his defeat at Zama in 202 BCE left Rome dominant in the western Mediterranean. A Third Punic War ended with the destruction of Carthage in 146 BCE, the same year Rome sacked Corinth.",
+    "wikipedia": "Second Punic War",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Carthage",
+      "Hannibal"
+    ]
+  },
+  {
+    "id": "classical-great-wall-qin",
+    "title": "Qin links the northern walls",
+    "year": -215,
+    "endYear": -210,
+    "dateLabel": "c. 215–210 BCE",
+    "lat": 41,
+    "lon": 110,
+    "category": "technology",
+    "importance": 3,
+    "summary": "General Meng Tian, with a reported 300,000 men, joins earlier state walls into a long northern barrier against the Xiongnu nomads.",
+    "description": "Several Warring States, including Qin, Zhao and Yan, had already built rammed-earth walls along their northern frontiers. After unification, Qin Shi Huang sent Meng Tian against the Xiongnu and had these walls connected and extended for thousands of kilometres, from Gansu to Liaodong, at a heavy cost in conscripted labour. The Han dynasty later extended the walls far to the west along the Gansu corridor to protect the Silk Road. Most of the brick and stone Great Wall seen by visitors today was built much later, under the Ming dynasty in the 15th–17th centuries.",
+    "wikipedia": "Great Wall of China",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qin dynasty",
+      "frontier"
+    ]
+  },
+  {
+    "id": "classical-archimedes-syracuse",
+    "title": "Archimedes dies in the siege of Syracuse",
+    "year": -212,
+    "dateLabel": "212 BCE",
+    "lat": 37.075,
+    "lon": 15.287,
+    "category": "science",
+    "importance": 3,
+    "summary": "The mathematician and engineer Archimedes is killed by a Roman soldier when Syracuse falls during the Second Punic War.",
+    "description": "Archimedes of Syracuse anticipated ideas of integral calculus in finding areas and volumes, gave a close estimate of π, founded hydrostatics with his principle of buoyancy, and explained the law of the lever. During the Roman siege of Syracuse (214–212 BCE) his catapults and the 'claw' that lifted ships from the water held off the attackers, although the story of setting ships alight with mirrors is a later legend of doubtful practicality. According to ancient accounts he was killed by a soldier while absorbed in a geometrical problem when the city fell. A 10th-century copy of his works, scraped and overwritten as a prayer book in the 13th century, is the only source for his treatise The Method, first read by J. L. Heiberg in 1906; multispectral imaging between 1999 and 2008 recovered much more of its text.",
+    "wikipedia": "Archimedes",
+    "consensus": "established",
+    "tags": [
+      "mathematics",
+      "engineering",
+      "Syracuse"
+    ]
+  },
+  {
+    "id": "classical-terracotta-army",
+    "title": "Terracotta Army guards the First Emperor",
+    "year": -210,
+    "dateLabel": "210 BCE (built from 246 BCE)",
+    "lat": 34.385,
+    "lon": 109.273,
+    "category": "culture",
+    "importance": 4,
+    "summary": "Qin Shi Huang is buried near Xi'an, guarded by thousands of life-size terracotta warriors, each with individually modelled features.",
+    "description": "Work on the First Emperor's mausoleum began soon after he became king of Qin in 246 BCE and, according to Sima Qian, involved some 700,000 labourers. Pits east of the still-unexcavated burial mound hold an estimated 8,000 soldiers, 130 chariots and some 670 horses, originally painted and equipped with real bronze weapons, along with figures of officials, acrobats and musicians. Farmers digging a well found the first pit in 1974. Sima Qian described the tomb as containing rivers of mercury, and soil tests showing high mercury levels over the mound are one reason it has not been opened.",
+    "wikipedia": "Terracotta Army",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Qin dynasty",
+      "archaeology"
+    ]
+  },
+  {
+    "id": "classical-xiongnu-modu-chanyu",
+    "title": "Modu Chanyu unites the Xiongnu",
+    "year": -209,
+    "dateLabel": "209 BCE",
+    "lat": 47.5,
+    "lon": 102.8,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Modu seizes power and forges the Xiongnu into the first great steppe empire, which defeats the new Han dynasty and extracts tribute from it.",
+    "description": "According to Sima Qian, Modu took power in 209 BCE by having his own archers kill his father, the chanyu Touman, and then defeated the neighbouring Donghu and Yuezhi to build a confederation that stretched across the Mongolian steppe from Manchuria towards the Tarim Basin. In 200 BCE his horsemen surrounded the founding Han emperor, Gaozu, at Baideng near Pingcheng, and the Han then bought peace through the heqin system of gifts of silk, grain and wine and marriages of Han princesses to the chanyu. Emperor Wu abandoned this policy in 133 BCE and launched decades of costly campaigns that pushed the Xiongnu north and brought the Hexi Corridor under Han control. Weakened by war and succession disputes, the confederation split permanently into northern and southern halves in 48 CE, and whether the later Huns of Europe descended in part from the Xiongnu is still debated.",
+    "wikipedia": "Xiongnu",
+    "consensus": "established",
+    "tags": [
+      "steppe",
+      "Xiongnu",
+      "Mongolia",
+      "Han dynasty"
+    ]
+  },
+  {
+    "id": "classical-han-dynasty",
+    "title": "Han dynasty",
+    "year": -202,
+    "endYear": 220,
+    "dateLabel": "202 BCE – 220 CE",
+    "lat": 34.3,
+    "lon": 108.86,
+    "category": "empire",
+    "importance": 5,
+    "summary": "Liu Bang founds the Han dynasty, which rules China for four centuries and gives its name to the Han Chinese people.",
+    "description": "Liu Bang, a commoner who rose in the revolts against Qin, defeated his rival Xiang Yu and became Emperor Gaozu in 202 BCE, keeping Qin's centralised institutions while softening its harsh laws. Under Emperor Wu (141–87 BCE) the Han fought the Xiongnu, expanded into Central Asia, Korea and Vietnam, set up state monopolies on salt and iron, and made Confucian learning the basis of official education. After the interruption of Wang Mang's Xin dynasty (9–23 CE) the dynasty was restored with its capital at Luoyang. The Han era saw the invention of paper, advances in astronomy and mathematics, and a census in 2 CE recording about 58 million people, before court intrigue, the Yellow Turban rebellion of 184 and warlordism brought it down in 220.",
+    "wikipedia": "Han dynasty",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Han dynasty",
+      "Chang'an"
+    ]
+  },
+  {
+    "id": "classical-nazca-lines",
+    "title": "Nazca Lines",
+    "year": -200,
+    "endYear": 500,
+    "dateLabel": "c. 200 BCE – 500 CE",
+    "uncertainty": 100,
+    "lat": -14.739,
+    "lon": -75.13,
+    "category": "culture",
+    "importance": 3,
+    "summary": "People of the Nazca culture scrape hundreds of lines, geometric shapes and giant animal figures into the desert of southern Peru.",
+    "description": "The geoglyphs were made by removing the dark, iron-oxide-coated stones of the desert surface to expose lighter ground beneath, and in the extremely dry, still climate they have survived for some two thousand years. They include straight lines many kilometres long, trapezoids, and about 70 plant and animal figures such as a hummingbird, a monkey and a spider, best appreciated from the air or surrounding hills. Most researchers interpret them as ritual pathways and ceremonial spaces linked to water and fertility, although their exact purposes are still debated. In recent years surveys using drones and artificial intelligence have identified hundreds of additional figures.",
+    "wikipedia": "Nazca lines",
+    "consensus": "established",
+    "tags": [
+      "Andes",
+      "Peru",
+      "geoglyphs"
+    ]
+  },
+  {
+    "id": "classical-nazca-ancient-astronauts",
+    "title": "Nazca Lines as alien runways (fringe)",
+    "year": -200,
+    "dateLabel": "Lines c. 200 BCE – 500 CE; claim made in 1968",
+    "lat": -14.7,
+    "lon": -75.12,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Erich von Däniken's 1968 bestseller suggested the Nazca desert lines were landing strips or signals for visiting extraterrestrial spacecraft.",
+    "description": "In Chariots of the Gods? (1968), the Swiss writer Erich von Däniken suggested that the long straight lines and trapezoids on the Nazca pampa resembled an airfield and might have been laid out for, or in imitation of, the spacecraft of visiting 'gods'. Because many of the giant figures are best seen from the air, he and later ancient-astronaut authors argued that their makers could not have designed them without flight or outside help. Related claims treat a hillside figure nicknamed 'the Astronaut' as a portrait of a space traveller. The idea became one of the best-known claims of the ancient astronaut movement and still features in popular books and television series such as Ancient Aliens.",
+    "wikipedia": "Ancient astronauts",
+    "consensus": "fringe",
+    "mainstreamView": "Archaeologists attribute the geoglyphs to the Nazca culture and, for many hillside figures, the earlier Paracas culture, dating them through associated pottery and radiocarbon dates on wooden stakes to roughly 400 BCE – 500 CE. They were made simply by clearing away dark surface stones, and the investigator Joe Nickell showed that a small team using only stakes and cord could reproduce one of the largest figures within days without any aerial view; many figures can also be seen from nearby hills. The soft desert ground could never have served as a runway, and researchers such as Johan Reinhard interpret the lines as ritual paths and spaces linked to the worship of water and mountain deities.",
+    "tags": [
+      "fringe",
+      "ancient astronauts",
+      "pseudoarchaeology",
+      "Peru"
+    ]
+  },
+  {
+    "id": "classical-antikythera-mechanism",
+    "title": "Antikythera mechanism",
+    "year": -145,
+    "dateLabel": "c. 205–87 BCE (date of construction debated)",
+    "uncertainty": 60,
+    "lat": 35.87,
+    "lon": 23.31,
+    "category": "technology",
+    "importance": 3,
+    "summary": "A shipwreck off Antikythera preserves a geared bronze device that modelled the Sun, Moon and probably the planets and predicted eclipses.",
+    "description": "Sponge divers found the wreck in 1900, and corroded fragments recovered in 1901 were later shown by X-ray and CT imaging to contain at least 30 interlocking bronze gears. Turning a handle drove dials showing the positions of the Sun and Moon, the Moon's phase, a 19-year Metonic calendar, the four-year cycle of the Panhellenic games and an eclipse-prediction cycle, and inscriptions suggest it also showed the planets. The ship sank around 70–60 BCE, but when the device was made is debated, with proposals from the late 3rd to the early 1st century BCE. Nothing of comparable mechanical complexity survives from the following thousand years, and it is often called the oldest known analogue computer.",
+    "wikipedia": "Antikythera mechanism",
+    "consensus": "majority",
+    "tags": [
+      "astronomy",
+      "gears",
+      "shipwreck"
+    ]
+  },
+  {
+    "id": "classical-silk-road-zhang-qian",
+    "title": "Zhang Qian's missions open the Silk Road",
+    "year": -138,
+    "endYear": -126,
+    "dateLabel": "138–126 BCE",
+    "lat": 40.14,
+    "lon": 94.66,
+    "category": "economy",
+    "importance": 5,
+    "summary": "Han envoy Zhang Qian reaches Central Asia; his reports lead China to open trade routes that eventually link it with Persia, India and Rome.",
+    "description": "Emperor Wu sent Zhang Qian west to seek an alliance with the Yuezhi against the Xiongnu; he was held captive by the Xiongnu for about ten years, escaped, and reached Dayuan (Ferghana), Kangju and Bactria before returning in 126 BCE. His reports of wealthy western lands, their 'heavenly horses' and goods from India prompted the Han to push west through the Gansu corridor, founding frontier commanderies such as Dunhuang. Over the following centuries a web of overland routes, named the Silk Road only in the 19th century, carried silk, horses, spices, glass, metals and ideas including Buddhism across Eurasia. Few merchants travelled the whole way; goods passed through chains of intermediaries such as Sogdians and Parthians.",
+    "wikipedia": "Silk Road",
+    "consensus": "established",
+    "tags": [
+      "Silk Road",
+      "Han dynasty",
+      "trade"
+    ]
+  },
+  {
+    "id": "classical-korea-three-kingdoms",
+    "title": "Han conquers Gojoseon; Korea's Three Kingdoms rise",
+    "year": -108,
+    "dateLabel": "108 BCE (kingdoms traditionally founded 57–18 BCE)",
+    "lat": 39.02,
+    "lon": 125.75,
+    "category": "empire",
+    "importance": 3,
+    "summary": "Emperor Wu's armies destroy Gojoseon and set up commanderies in northern Korea, as the kingdoms of Goguryeo, Baekje and Silla begin to take shape.",
+    "description": "Gojoseon, the earliest Korean state recorded in Chinese sources, was ruled from Wanggeom-seong, probably near modern Pyongyang, when Emperor Wu of Han invaded by land and sea in 109 BCE; after a long siege its capital fell in 108 BCE. The Han set up four commanderies, of which Lelang, centred near Pyongyang, lasted longest and brought Chinese administration, writing, lacquerware and iron goods to the peninsula. Korean tradition, recorded in the 12th-century Samguk sagi, dates the founding of Silla to 57 BCE, Goguryeo to 37 BCE and Baekje to 18 BCE, although historians think they became centralised kingdoms only over the following centuries. Goguryeo grew into a powerful state in the north and conquered Lelang in 313 CE, and rivalry among the three kingdoms and the smaller Gaya confederacy shaped Korea until Silla unified most of the peninsula in the 7th century.",
+    "wikipedia": "Three Kingdoms of Korea",
+    "consensus": "majority",
+    "tags": [
+      "Korea",
+      "Han dynasty",
+      "Goguryeo",
+      "Silla",
+      "Baekje"
+    ]
+  },
+  {
+    "id": "classical-baghdad-battery",
+    "title": "The 'Baghdad Battery' (fringe)",
+    "year": -100,
+    "dateLabel": "Claimed Parthian era, c. 250 BCE – 225 CE",
+    "lat": 33.3,
+    "lon": 44.45,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "A clay jar holding a copper cylinder and an iron rod, found near Baghdad, is claimed to be an ancient electric battery used for electroplating.",
+    "description": "The object was described in 1938 by Wilhelm König, then working at the National Museum of Iraq, who suggested it was a galvanic cell. It consists of a ceramic jar about 13 cm tall containing a rolled copper sheet and an iron rod, and König dated it to the Parthian period, although some archaeologists consider it Sasanian. Replicas filled with vinegar or grape juice can generate around half a volt to a volt, and the 'battery' became a staple of books and television programmes about lost ancient technology.",
+    "wikipedia": "Baghdad Battery",
+    "consensus": "fringe",
+    "mainstreamView": "No wires, conductors or other electrical components have been found with the jars, and no electroplated objects are known from the period; ancient gilding used mercury-based fire-gilding instead. Similar vessels from nearby Seleucia on the Tigris held remains of rolled papyrus or parchment, suggesting the jars stored sacred scrolls whose decay left acidic residues that corroded the metal. Replicas produce too little power for useful work, so archaeologists regard the battery interpretation as unsupported.",
+    "tags": [
+      "fringe",
+      "ancient technology",
+      "Parthian Empire"
+    ]
+  },
+  {
+    "id": "classical-teotihuacan",
+    "title": "Teotihuacan, metropolis of the Americas",
+    "year": -100,
+    "endYear": 550,
+    "dateLabel": "c. 100 BCE – 550 CE",
+    "uncertainty": 50,
+    "lat": 19.692,
+    "lon": -98.844,
+    "category": "civilization",
+    "importance": 4,
+    "summary": "In the Valley of Mexico, Teotihuacan grows into one of the world's largest cities, with perhaps 100,000 people and the giant Pyramid of the Sun.",
+    "description": "Teotihuacan grew rapidly from the 1st century BCE, perhaps swelled by people displaced by 1st-century CE eruptions of Popocatépetl, while its rival Cuicuilco to the south declined and was finally buried by lava from Xitle around 245–315 CE. Laid out on a grid along the 2 km Avenue of the Dead, it included the Pyramid of the Sun, the Pyramid of the Moon and the Temple of the Feathered Serpent, and at its height around 400–550 CE housed perhaps 100,000–125,000 people, many in multi-family apartment compounds. Its obsidian trade, art styles and military influence reached as far as the Maya region. Its rulers remain anonymous and its sign system undeciphered, and the city centre was burned and largely abandoned around 550 CE; the Aztecs later gave it its Nahuatl name, 'place where the gods were created'.",
+    "wikipedia": "Teotihuacan",
+    "consensus": "established",
+    "tags": [
+      "Mesoamerica",
+      "Mexico",
+      "urbanism"
+    ]
+  },
+  {
+    "id": "classical-hopewell-tradition",
+    "title": "Hopewell earthworks and exchange network",
+    "year": -100,
+    "endYear": 500,
+    "dateLabel": "c. 100 BCE – 500 CE",
+    "uncertainty": 50,
+    "lat": 40.05,
+    "lon": -82.43,
+    "category": "culture",
+    "importance": 2,
+    "summary": "Peoples of eastern North America build geometric earthworks and burial mounds and trade obsidian, copper and shells across the continent.",
+    "description": "The Hopewell tradition, centred in the Ohio and Illinois river valleys, was not a single society but a network of related communities who cultivated native seed crops while also hunting and gathering. They built monumental earthen enclosures in precise circles, squares and octagons, such as the Newark Earthworks, whose alignments track the 18.6-year cycle of the Moon. Burial mounds contained objects made from materials brought from great distances, including obsidian from the Yellowstone region, copper from Lake Superior, mica from the Appalachians, and shells and shark teeth from the Gulf Coast. Eight Hopewell sites in Ohio were inscribed as a UNESCO World Heritage Site in 2023.",
+    "wikipedia": "Hopewell tradition",
+    "consensus": "established",
+    "tags": [
+      "North America",
+      "mounds",
+      "trade"
+    ]
+  },
+  {
+    "id": "classical-sima-qian-shiji",
+    "title": "Sima Qian's Records of the Grand Historian",
+    "year": -94,
+    "dateLabel": "completed c. 94 BCE",
+    "uncertainty": 5,
+    "lat": 34.27,
+    "lon": 108.95,
+    "category": "culture",
+    "importance": 2,
+    "summary": "Sima Qian completes the Shiji, a history of China from legendary times to his own day that becomes the model for later dynastic histories.",
+    "description": "Sima Qian inherited the post of court astrologer-historian and the history project from his father Sima Tan. After defending a disgraced general he was sentenced to castration by Emperor Wu, choosing the punishment over suicide so that he could finish the work. The Shiji's 130 chapters combine annals of rulers, chronological tables, treatises on subjects such as music, astronomy and economics, histories of noble houses, and biographies of figures from statesmen to assassins and merchants, as well as accounts of foreign peoples such as the Xiongnu. It set the pattern for China's official dynastic histories and remains a principal source for Chinese history before and during the early Han.",
+    "wikipedia": "Shiji",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "historiography",
+      "Han dynasty"
+    ]
+  },
+  {
+    "id": "classical-spartacus-revolt",
+    "title": "Spartacus leads a slave revolt",
+    "year": -73,
+    "endYear": -71,
+    "dateLabel": "73–71 BCE",
+    "lat": 41.08,
+    "lon": 14.25,
+    "category": "war",
+    "importance": 2,
+    "summary": "Gladiators escaping from Capua, led by the Thracian Spartacus, raise an army of tens of thousands of slaves that defeats several Roman forces.",
+    "description": "In 73 BCE some 70 gladiators broke out of a training school at Capua and took refuge on Mount Vesuvius, defeating the militia sent against them. Joined by runaway slaves and rural poor, their numbers swelled, with ancient sources giving figures of up to 120,000, and they defeated consular armies as they ranged up and down Italy. Marcus Licinius Crassus crushed the revolt in southern Italy in 71 BCE, and about 6,000 captives were crucified along the Appian Way. The rebels' aims are uncertain because the surviving accounts were written by their enemies, but Spartacus later became a symbol of resistance to oppression.",
+    "wikipedia": "Third Servile War",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "slavery",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "classical-gallic-wars",
+    "title": "Caesar's Gallic Wars and the siege of Alesia",
+    "year": -58,
+    "endYear": -50,
+    "dateLabel": "58–50 BCE",
+    "lat": 47.537,
+    "lon": 4.5,
+    "category": "war",
+    "importance": 3,
+    "summary": "Julius Caesar conquers Gaul in a series of campaigns, culminating in the siege of Alesia, where Vercingetorix surrenders in 52 BCE.",
+    "description": "As proconsul, Julius Caesar used a migration of the Helvetii in 58 BCE as grounds to intervene in Gaul and over the following years campaigned from the Atlantic to the Rhine, bridging the river into Germania and twice landing in Britain. In 52 BCE the Arvernian chief Vercingetorix united much of Gaul in revolt, but Caesar besieged him at Alesia, building lines of fortifications facing both inward and outward, and forced his surrender. Ancient writers claimed that a million Gauls were killed and another million enslaved, figures that are probably exaggerated but reflect immense devastation. Caesar's own account, the Commentaries on the Gallic War, made him a popular hero and gave him the wealth and loyal army he soon turned against the Senate.",
+    "wikipedia": "Gallic Wars",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Gaul",
+      "Julius Caesar"
+    ]
+  },
+  {
+    "id": "classical-dendera-light",
+    "title": "The 'Dendera light' (fringe)",
+    "year": -50,
+    "dateLabel": "Reliefs c. 50 BCE; electric-lamp claim from the late 20th century",
+    "uncertainty": 20,
+    "lat": 26.142,
+    "lon": 32.67,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Fringe writers claim reliefs in the crypts of Dendera's Temple of Hathor show giant electric light bulbs, proof of a lost ancient technology.",
+    "description": "The Temple of Hathor at Dendera in Upper Egypt was rebuilt in its present form from about 54 BCE under the last Ptolemies and decorated into the Roman period. In its crypts, reliefs show a large bulb-shaped object enclosing a wavy snake that rises from a lotus flower, in some scenes supported by a djed pillar. Writers such as the Austrians Peter Krassa and Reinhard Habeck, and later ancient-astronaut television programmes, have claimed these show electric lamps, with the snake as a filament, the lotus as a socket and the djed pillar as an insulator, and have linked them to the 'Baghdad Battery' as evidence of ancient electricity. Some add that such lamps would explain the absence of soot on the ceilings of Egyptian tombs and temples.",
+    "wikipedia": "Dendera light",
+    "consensus": "fringe",
+    "mainstreamView": "Egyptologists read the reliefs through the hieroglyphic captions carved beside them, which identify the snake as the god Harsomtus emerging from a lotus flower in a sacred barque, an image from a creation myth, and record the gold and precious materials and the heights of the cult statues the reliefs depict. The djed pillar is a common symbol of stability, and the oval around the snake is explained as a container that may represent the womb of the sky goddess Nut. No glass bulbs, wiring, sockets or other electrical remains have ever been found in Egypt, and the lack of soot is explained by oil lamps with salt added to reduce smoke, or by sunlight reflected with mirrors.",
+    "tags": [
+      "fringe",
+      "ancient technology",
+      "pseudoarchaeology",
+      "Egypt"
+    ]
+  },
+  {
+    "id": "classical-assassination-of-julius-caesar",
+    "title": "Assassination of Julius Caesar",
+    "year": -44,
+    "dateLabel": "15 March 44 BCE",
+    "lat": 41.8955,
+    "lon": 12.4768,
+    "category": "politics",
+    "importance": 4,
+    "summary": "Senators led by Brutus and Cassius stab Julius Caesar, dictator for life, to death at a Senate meeting in Rome on the Ides of March.",
+    "description": "Caesar crossed the Rubicon with his army in 49 BCE, defeated Pompey and the senatorial party in a civil war, and was named dictator, finally 'in perpetuity' early in 44 BCE. His reforms included the Julian calendar of 45 BCE, a 365-day year with a leap day every fourth year that, slightly corrected in 1582, remains the world's civil calendar. Fearing that he would make himself king, a group of some 60 senators killed him in the Curia of Pompey on 15 March 44 BCE. The assassination did not restore the Republic but led to new civil wars, the proscriptions of the Second Triumvirate and, ultimately, the sole rule of his adopted heir Octavian.",
+    "wikipedia": "Assassination of Julius Caesar",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Roman Republic",
+      "Julian calendar"
+    ]
+  },
+  {
+    "id": "classical-liqian-roman-legion",
+    "title": "A lost Roman legion in China? (fringe)",
+    "year": -36,
+    "dateLabel": "Claimed from 36 BCE",
+    "lat": 38.2,
+    "lon": 101.95,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "A popular theory holds that Romans captured at Carrhae fought for the Xiongnu and later settled at Liqian in China's Gansu province.",
+    "description": "In 1955 the historian Homer Dubs proposed that some of the Romans captured by the Parthians after Crassus' defeat at Carrhae in 53 BCE were sent east, served the Xiongnu leader Zhizhi, and were captured by a Han army in 36 BCE at the Battle of Zhizhi, where Chinese sources describe soldiers in a 'fish-scale formation' and a double wooden palisade. He connected them with a Han county named Liqian, a name also used in Chinese texts for the Roman or Hellenistic west. Since the 1990s villagers of Zhelaizhai near Yongchang, some with light hair or eyes, have been promoted as descendants of the legionaries, attracting media attention and tourism.",
+    "wikipedia": "Liqian",
+    "consensus": "fringe",
+    "mainstreamView": "No Roman or Parthian source records captives reaching China, and no Roman artefacts have been found in the area; the 'fish-scale' formation and palisade need not be Roman. Liqian was a general Chinese name for the far west, so the county's name does not by itself imply Roman settlers. Genetic studies of the villagers' paternal lineages, notably one published in 2007, found them overwhelmingly East Asian and closely related to other Han Chinese, so historians regard the theory as an attractive but unsupported speculation.",
+    "tags": [
+      "fringe",
+      "Rome",
+      "China"
+    ]
+  },
+  {
+    "id": "classical-maya-long-count",
+    "title": "Earliest Long Count calendar dates",
+    "year": -36,
+    "dateLabel": "December 36 BCE",
+    "lat": 16.707,
+    "lon": -93.012,
+    "category": "science",
+    "importance": 2,
+    "summary": "A stela fragment at Chiapa de Corzo records the date 7.16.3.2.13, in 36 BCE, the earliest known Mesoamerican Long Count inscription.",
+    "description": "The Long Count tallied the days elapsed since a mythical creation date in August 3114 BCE in the most widely used correlation, using a largely base-20 place-value system with a symbol for zero. The earliest surviving dated monuments come not from the Maya heartland but from the Isthmian and Gulf Coast region, including Stela 2 at Chiapa de Corzo (36 BCE) and Stela C at Tres Zapotes (32 BCE). The system was later used extensively by the Classic Maya to record dynastic histories on stone stelae. The completion of the 13th bak'tun on 21 December 2012 prompted widespread but unfounded claims that the Maya had predicted the end of the world.",
+    "wikipedia": "Mesoamerican Long Count calendar",
+    "consensus": "majority",
+    "tags": [
+      "Mesoamerica",
+      "calendar",
+      "writing"
+    ]
+  },
+  {
+    "id": "classical-battle-of-actium",
+    "title": "Battle of Actium and the death of Cleopatra",
+    "year": -31,
+    "dateLabel": "2 September 31 BCE",
+    "lat": 38.95,
+    "lon": 20.75,
+    "category": "war",
+    "importance": 3,
+    "summary": "Octavian's fleet under Agrippa defeats Mark Antony and Cleopatra VII off western Greece; Egypt falls to Rome the following year.",
+    "description": "After defeating Caesar's assassins, the triumvirs Octavian and Mark Antony divided the Roman world, with Antony ruling the east in partnership with Cleopatra VII, the last Ptolemaic ruler of Egypt. Their rivalry turned into open war, and at Actium on 2 September 31 BCE Octavian's admiral Marcus Agrippa defeated their fleet, from which Cleopatra and Antony broke out and fled to Egypt. When Octavian took Alexandria in August 30 BCE both died by suicide, Cleopatra traditionally by the bite of an asp, although the method is uncertain. Egypt became a Roman province under the emperor's personal control, ending three centuries of Ptolemaic rule.",
+    "wikipedia": "Battle of Actium",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Egypt",
+      "Cleopatra"
+    ]
+  },
+  {
+    "id": "classical-augustus-first-emperor",
+    "title": "Augustus becomes the first Roman emperor",
+    "year": -27,
+    "dateLabel": "16 January 27 BCE",
+    "lat": 41.8925,
+    "lon": 12.4853,
+    "category": "empire",
+    "importance": 5,
+    "summary": "The Senate grants Octavian the name Augustus, beginning the Principate and two centuries of relative peace known as the Pax Romana.",
+    "description": "In January 27 BCE Octavian formally 'restored' the Republic and received the title Augustus while keeping command of most legions and key provinces; with later grants of tribunician power this made him emperor in all but name. Ruling until his death in 14 CE, he reorganised the provinces, army, taxation and city of Rome, and his reign was celebrated by poets such as Virgil, Horace and Ovid. The period from Augustus to the death of Marcus Aurelius in 180 CE, the Pax Romana, saw comparatively little large-scale war inside an empire of perhaps 50–70 million people, encouraging trade, urbanisation and the spread of Roman law and Latin. The system he founded lasted, with many changes, until the fall of the Western Empire in 476 and of Constantinople in 1453.",
+    "wikipedia": "Augustus",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Roman Empire",
+      "Pax Romana"
+    ]
+  },
+  {
+    "id": "classical-jesus-of-nazareth",
+    "title": "Life and crucifixion of Jesus of Nazareth",
+    "year": -4,
+    "endYear": 30,
+    "dateLabel": "c. 4 BCE – c. 30/33 CE",
+    "uncertainty": 3,
+    "lat": 31.778,
+    "lon": 35.229,
+    "category": "religion",
+    "importance": 5,
+    "summary": "Jesus, a Jewish preacher from Galilee, gathers followers and is crucified in Jerusalem under Pontius Pilate; Christianity grows from his movement.",
+    "description": "Jesus was probably born shortly before the death of Herod the Great in 4 BCE and grew up in Nazareth in Galilee. Baptised by John the Baptist, he spent perhaps one to three years preaching the coming kingdom of God, gathering disciples and gaining a reputation as a healer, before being crucified in Jerusalem on the orders of the Roman prefect Pontius Pilate, most likely around 30 or 33 CE. Nearly all historians of antiquity accept that he existed and that his baptism and crucifixion are historical, drawing on Paul's letters, the Gospels and references by Josephus and Tacitus, while many details of his life and the meaning of his teaching remain debated. His followers proclaimed that he had risen from the dead, and the movement they formed became Christianity, today the world's largest religion.",
+    "wikipedia": "Jesus",
+    "consensus": "established",
+    "tags": [
+      "Christianity",
+      "Judea",
+      "Roman Empire"
+    ]
+  },
+  {
+    "id": "classical-world-population-1-ce",
+    "title": "World population around 1 CE",
+    "year": 1,
+    "dateLabel": "c. 1 CE",
+    "lat": 30,
+    "lon": 70,
+    "global": true,
+    "category": "civilization",
+    "importance": 1,
+    "summary": "Perhaps 170–300 million people live on Earth, roughly half of them in the Roman and Han empires; China's census of 2 CE counts about 58 million.",
+    "description": "Estimates of world population at the start of the Common Era range from about 170 to 300 million, compared with perhaps a few million at the end of the last ice age. The Han census of 2 CE, among the oldest surviving censuses, recorded about 57.7 million people in some 12.4 million households, while the Roman Empire under Augustus is usually estimated at 45–60 million. South Asia was another major population centre, with smaller populations spread across the Americas, Africa and the rest of Eurasia. Because these figures rest on sparse records and modern models, all of them are uncertain.",
+    "wikipedia": "Estimates of historical world population",
+    "consensus": "majority",
+    "tags": [
+      "population",
+      "demography",
+      "census"
+    ]
+  },
+  {
+    "id": "classical-teutoburg-forest",
+    "title": "Battle of the Teutoburg Forest",
+    "year": 9,
+    "dateLabel": "September 9 CE",
+    "lat": 52.408,
+    "lon": 8.129,
+    "category": "war",
+    "importance": 3,
+    "summary": "Germanic tribes under Arminius ambush and destroy three Roman legions under Varus, halting Rome's conquest east of the Rhine.",
+    "description": "Arminius, a chieftain of the Cherusci who had served as a Roman auxiliary officer, led Publius Quinctilius Varus and the 17th, 18th and 19th legions into an ambush in wooded and marshy terrain. Over several days some 15,000–20,000 Roman soldiers and many camp followers were killed, and the three legion numbers were never used again. Although Roman armies returned to campaign in Germania, the Rhine became the empire's long-term frontier. Since 1987 excavations at Kalkriese near Osnabrück have uncovered weapons, coins and earthworks widely identified with the battle, though some scholars question the identification.",
+    "wikipedia": "Battle of the Teutoburg Forest",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Germania",
+      "Arminius"
+    ]
+  },
+  {
+    "id": "classical-christ-myth-theory",
+    "title": "Christ myth theory (fringe)",
+    "year": 30,
+    "dateLabel": "Claim about the early 1st century CE",
+    "lat": 31.77,
+    "lon": 35.22,
+    "category": "fringe",
+    "importance": 2,
+    "summary": "The Christ myth theory holds that Jesus never existed as a historical person and that the Gospel figure grew from myth, scripture and visions.",
+    "description": "Proposed in the late 18th and 19th centuries by writers such as Charles-François Dupuis and Bruno Bauer, and revived in recent decades by authors including Earl Doherty and Richard Carrier, the theory argues that the earliest Christians worshipped a heavenly saviour who was only later placed in a historical setting. Its proponents point to the lack of records of Jesus written during his lifetime, the theological character of the Gospels and parallels with other ancient saviour figures. The theory has a popular following, especially online, but very few supporters among academic historians and biblical scholars, including non-religious ones.",
+    "wikipedia": "Christ myth theory",
+    "consensus": "fringe",
+    "mainstreamView": "Virtually all scholars of antiquity, whatever their beliefs, conclude that Jesus existed. Paul's letters, written within about 20–25 years of the crucifixion, refer to his execution and to his brother James, whom Paul says he met in person. Independent Gospel traditions, two passages in Josephus (one partly expanded by later Christian copyists) and Tacitus' report of his execution under Pilate support this, and awkward details such as his baptism by John and his crucifixion are unlikely inventions. The absence of contemporary records is normal for a provincial preacher of the time, and claimed parallels with dying-and-rising gods are generally judged superficial or overstated.",
+    "tags": [
+      "fringe",
+      "Christianity",
+      "historicity"
+    ]
+  },
+  {
+    "id": "classical-kushan-empire",
+    "title": "Kushan Empire",
+    "year": 30,
+    "endYear": 375,
+    "dateLabel": "c. 30–375 CE",
+    "uncertainty": 10,
+    "lat": 34.01,
+    "lon": 71.58,
+    "category": "empire",
+    "importance": 3,
+    "summary": "Descendants of the Yuezhi nomads build an empire from Central Asia to the Ganges that links Rome, Parthia, India and China and spreads Buddhism.",
+    "description": "The Yuezhi had migrated west from the Gansu region in the 2nd century BCE, and in the 1st century CE Kujula Kadphises united them as the Kushans and expanded into north-western India. Under Kanishka, whose reign is usually dated from around 127 CE, the empire had capitals at Purushapura (Peshawar) and Mathura, and its coins showed Greek, Iranian, Indian and Buddhist deities. The schools of Gandhara and Mathura produced some of the earliest images of the Buddha in human form, blending Indian and Greco-Roman styles, and Kushan-era monks carried Buddhism into the Tarim Basin and China. Weakened by Sasanian expansion in the 3rd century, the empire fragmented into smaller kingdoms.",
+    "wikipedia": "Kushan Empire",
+    "consensus": "established",
+    "tags": [
+      "Central Asia",
+      "Buddhism",
+      "Gandhara"
+    ]
+  },
+  {
+    "id": "classical-trung-sisters",
+    "title": "Trưng sisters' rebellion",
+    "year": 40,
+    "endYear": 43,
+    "dateLabel": "40–43 CE",
+    "lat": 21.18,
+    "lon": 105.72,
+    "category": "war",
+    "importance": 2,
+    "summary": "The sisters Trưng Trắc and Trưng Nhị lead a revolt that briefly expels Han rule from northern Vietnam before the general Ma Yuan crushes it.",
+    "description": "Northern Vietnam had been under Chinese rule since the Han conquest of Nanyue in 111 BCE. In 40 CE Trưng Trắc, reportedly after her husband was executed by the Han governor, rose in rebellion with her sister Trưng Nhị, and dozens of settlements joined them; they ruled as queens from Mê Linh. The Han general Ma Yuan defeated them in 42–43 CE, after which the sisters died, by suicide according to Vietnamese tradition, and Chinese administration was tightened. They are venerated as national heroines in Vietnam, where temples and an annual commemoration honour them.",
+    "wikipedia": "Trưng sisters",
+    "consensus": "established",
+    "tags": [
+      "Vietnam",
+      "Han dynasty",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "classical-paul-the-apostle",
+    "title": "Missionary journeys of Paul",
+    "year": 46,
+    "endYear": 57,
+    "dateLabel": "c. 46–57 CE",
+    "uncertainty": 3,
+    "lat": 36.202,
+    "lon": 36.16,
+    "category": "religion",
+    "importance": 3,
+    "summary": "The apostle Paul travels across Asia Minor and Greece founding churches, and his letters become the earliest surviving Christian writings.",
+    "description": "Paul (Saul) of Tarsus, a Greek-speaking Jew, had persecuted the early followers of Jesus before a visionary experience made him one of the movement's most energetic missionaries. Based at first in Antioch, he travelled through Cyprus, Asia Minor, Macedonia and Greece, founding communities in cities such as Philippi, Thessalonica, Corinth and Ephesus. He argued that non-Jewish converts need not be circumcised or keep the Jewish law, a stance that helped turn the movement into a largely Gentile religion. His seven undisputed letters, written around 50–60 CE, are the oldest Christian texts; arrested in Jerusalem, he was taken to Rome and, according to tradition, executed there under Nero.",
+    "wikipedia": "Paul the Apostle",
+    "consensus": "majority",
+    "tags": [
+      "Christianity",
+      "Antioch",
+      "Roman Empire"
+    ]
+  },
+  {
+    "id": "classical-indian-ocean-monsoon-trade",
+    "title": "Roman trade with India on the monsoon winds",
+    "year": 50,
+    "dateLabel": "1st century CE",
+    "uncertainty": 20,
+    "lat": 10.155,
+    "lon": 76.21,
+    "category": "economy",
+    "importance": 3,
+    "summary": "Merchants from Roman Egypt ride the monsoon winds from Red Sea ports to India, trading gold, wine and glass for pepper, gems and textiles.",
+    "description": "After Rome annexed Egypt, sailors using the seasonal monsoon winds sailed directly from Red Sea ports such as Berenice and Myos Hormos to India, and the geographer Strabo reports some 120 ships a year making the voyage. The Periplus of the Erythraean Sea, a Greek merchant's guide probably written in the mid-1st century CE, describes ports from East Africa to India, including Muziris on the Malabar coast, the chief source of black pepper. Hoards of Roman coins in southern India, a papyrus recording a valuable cargo shipped from Muziris, and excavations at Pattanam in Kerala confirm the scale of the trade. Pliny the Elder complained that India drained the empire of 50 million sesterces a year.",
+    "wikipedia": "Indo-Roman trade relations",
+    "consensus": "established",
+    "tags": [
+      "Indian Ocean",
+      "trade",
+      "Roman Empire"
+    ]
+  },
+  {
+    "id": "classical-buddhism-reaches-china",
+    "title": "Buddhism reaches Han China",
+    "year": 65,
+    "dateLabel": "1st century CE",
+    "uncertainty": 15,
+    "lat": 34.723,
+    "lon": 112.597,
+    "category": "religion",
+    "importance": 3,
+    "summary": "Buddhist monks and merchants from Central Asia bring the religion to China, where tradition places the White Horse Temple at Luoyang.",
+    "description": "Buddhism travelled along the Silk Road with merchants and monks from Parthia, the Kushan Empire and Sogdia. The first reliable Chinese reference, from 65 CE, mentions a Han prince who honoured the Buddha alongside Daoist deities, and tradition credits Emperor Ming with a dream that led to the founding of the White Horse Temple at Luoyang around 68 CE. In the 2nd century foreign monks such as the Parthian An Shigao and the Kushan Lokaksema began translating sutras into Chinese. Buddhism grew greatly during the centuries of disunity after the Han fell and became one of China's major traditions, spreading on to Korea, Japan and Vietnam.",
+    "wikipedia": "Silk Road transmission of Buddhism",
+    "consensus": "majority",
+    "tags": [
+      "Buddhism",
+      "China",
+      "Silk Road"
+    ]
+  },
+  {
+    "id": "classical-siege-of-jerusalem-70",
+    "title": "Romans destroy the Second Temple",
+    "year": 70,
+    "dateLabel": "August 70 CE",
+    "lat": 31.7781,
+    "lon": 35.2354,
+    "category": "war",
+    "importance": 3,
+    "summary": "Roman legions under Titus capture Jerusalem and burn the Second Temple, crushing the Jewish revolt that began in 66 CE.",
+    "description": "A revolt against Roman rule broke out in Judaea in 66 CE. Vespasian and, after he became emperor, his son Titus reconquered the province, and in 70 CE Titus besieged Jerusalem, whose defenders were also fighting among themselves. After months of siege the city fell and the Temple, the centre of Jewish worship, was burned; the historian Josephus, an eyewitness, describes immense loss of life and mass enslavement. The fortress of Masada held out until 73 or 74 CE. With the Temple gone, sacrificial worship ended and rabbinic Judaism, centred on Torah study and the synagogue, developed in its place, while the Arch of Titus in Rome still depicts the Temple's spoils.",
+    "wikipedia": "Siege of Jerusalem (70 CE)",
+    "consensus": "established",
+    "tags": [
+      "Judaism",
+      "Rome",
+      "Jerusalem"
+    ]
+  },
+  {
+    "id": "classical-vesuvius-79",
+    "title": "Vesuvius buries Pompeii and Herculaneum",
+    "year": 79,
+    "dateLabel": "79 CE (24 August or, more likely, late October)",
+    "lat": 40.749,
+    "lon": 14.485,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "Mount Vesuvius erupts, burying Pompeii, Herculaneum and other towns around the Bay of Naples under pumice, ash and pyroclastic flows.",
+    "description": "Vesuvius sent a column of pumice and ash tens of kilometres into the sky, which rained down on Pompeii for many hours, followed by searing pyroclastic surges that killed those who remained in Pompeii and Herculaneum. Pliny the Younger described the eruption in letters to Tacitus, including the death of his uncle Pliny the Elder, who had sailed with the fleet to attempt a rescue. Medieval manuscripts give the date as 24 August, but finds such as autumn fruits, warm clothing and a charcoal inscription discovered in 2018 point to a date in late October. Excavations since the 18th century have made the buried towns an unparalleled record of everyday Roman life.",
+    "wikipedia": "Eruption of Mount Vesuvius in 79 AD",
+    "consensus": "established",
+    "tags": [
+      "volcano",
+      "Pompeii",
+      "Rome"
+    ]
+  },
+  {
+    "id": "classical-colosseum",
+    "title": "Colosseum inaugurated",
+    "year": 80,
+    "dateLabel": "80 CE",
+    "lat": 41.8902,
+    "lon": 12.4922,
+    "category": "culture",
+    "importance": 3,
+    "summary": "Emperor Titus opens the Flavian Amphitheatre in Rome with 100 days of games; it held an estimated 50,000 or more spectators.",
+    "description": "Begun by Vespasian around 70–72 CE on the site of the lake of Nero's palace, and financed partly by spoils from the Jewish War, the amphitheatre was inaugurated by Titus in 80 CE and completed under Domitian. Built of travertine, tuff, brick and concrete, it is about 189 m long and held an estimated 50,000–80,000 spectators. It staged gladiatorial combats, animal hunts and public executions, and Domitian added the underground hypogeum with its lifts and trapdoors. Damaged by earthquakes and quarried for building stone in the Middle Ages, it remains the largest amphitheatre ever built.",
+    "wikipedia": "Colosseum",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "architecture",
+      "gladiators"
+    ]
+  },
+  {
+    "id": "classical-kingdom-of-aksum",
+    "title": "Kingdom of Aksum",
+    "year": 100,
+    "endYear": 940,
+    "dateLabel": "c. 100–940 CE",
+    "uncertainty": 50,
+    "lat": 14.13,
+    "lon": 38.72,
+    "category": "empire",
+    "importance": 3,
+    "summary": "From the Ethiopian highlands, Aksum grows into a trading power linking the Roman world, Arabia and India, famed for its giant granite stelae.",
+    "description": "Aksum, in today's northern Ethiopia and Eritrea, controlled trade through the Red Sea port of Adulis in ivory, gold, incense and exotic animals, and is mentioned in the Periplus of the Erythraean Sea. From the late 3rd century its kings minted gold, silver and bronze coins, among the first in sub-Saharan Africa, with legends in Ge'ez and Greek. Monumental stelae marked royal tombs; the largest, about 33 m long, is probably the biggest single stone that ancient people attempted to raise, and lies where it fell. A 3rd-century Manichaean text counted Aksum among the four great kingdoms of the world, alongside Rome, Persia and China.",
+    "wikipedia": "Kingdom of Aksum",
+    "consensus": "established",
+    "tags": [
+      "Ethiopia",
+      "Red Sea",
+      "trade"
+    ]
+  },
+  {
+    "id": "classical-moche-culture",
+    "title": "Moche culture on Peru's north coast",
+    "year": 100,
+    "endYear": 700,
+    "dateLabel": "c. 100–700 CE",
+    "uncertainty": 50,
+    "lat": -8.135,
+    "lon": -78.995,
+    "category": "civilization",
+    "importance": 3,
+    "summary": "The Moche irrigate desert river valleys of coastal Peru, raise vast adobe pyramids and make strikingly realistic portrait pottery.",
+    "description": "Centred on valleys such as Moche and Lambayeque, Moche society relied on irrigation canals, fishing and long-distance exchange, and built huge adobe-brick platforms such as the Huaca del Sol, made of well over 100 million bricks. Their ceramics depict warriors, rulers, ceremonies and daily life in naturalistic detail, while skilled metalworkers produced gold, silver and copper ornaments. The unlooted tomb of the Lord of Sipán, excavated in 1987 and dated to about 250 CE, revealed the wealth of Moche elites. Murals and skeletal remains show that captives were sacrificed, and severe El Niño floods and droughts may have contributed to the culture's decline.",
+    "wikipedia": "Moche culture",
+    "consensus": "established",
+    "tags": [
+      "Andes",
+      "Peru",
+      "ceramics"
+    ]
+  },
+  {
+    "id": "classical-funan-oc-eo",
+    "title": "Funan and the port of Óc Eo",
+    "year": 100,
+    "endYear": 550,
+    "dateLabel": "c. 1st–6th centuries CE",
+    "uncertainty": 50,
+    "lat": 10.25,
+    "lon": 105.15,
+    "category": "economy",
+    "importance": 2,
+    "summary": "Funan, an early Southeast Asian state in the Mekong delta, grows rich as a maritime hub on the sea routes between India and China.",
+    "description": "Funan is known mainly from Chinese accounts, beginning with envoys who visited in the 3rd century CE, which describe a walled kingdom founded, according to legend, by the marriage of an Indian Brahmin, Kaundinya, to a local queen. Its port at Óc Eo in southern Vietnam, linked by canals across the delta, has yielded Roman coins and a gold medallion of Antoninus Pius, Indian seals and beads, and Chinese bronze mirrors. Funan's rulers adopted Indian political and religious ideas, Sanskrit inscriptions and Hindu and Buddhist cults, an early example of the 'Indianisation' of Southeast Asia. It declined in the 6th century as trade routes shifted and was absorbed by Chenla.",
+    "wikipedia": "Funan",
+    "consensus": "majority",
+    "tags": [
+      "Southeast Asia",
+      "trade",
+      "Mekong"
+    ]
+  },
+  {
+    "id": "classical-trajan-greatest-extent",
+    "title": "Trajan takes Rome to its greatest extent",
+    "year": 101,
+    "endYear": 117,
+    "dateLabel": "101–117 CE",
+    "lat": 41.8958,
+    "lon": 12.4843,
+    "category": "empire",
+    "importance": 2,
+    "summary": "Trajan conquers Dacia and briefly Mesopotamia; at his death in 117 the Roman Empire covers about 5 million square kilometres.",
+    "description": "Trajan, the first emperor born in a province (Hispania), fought two wars against the Dacian kingdom of Decebalus in 101–102 and 105–106 CE, annexing its gold-rich territory north of the Danube; the campaigns are carved in the spiral reliefs of Trajan's Column in Rome. In 106 he also annexed the Nabataean kingdom around Petra as the province of Arabia. His Parthian war of 114–117 took Armenia and Mesopotamia and reached the Persian Gulf, briefly giving the empire its greatest extent. His successor Hadrian abandoned the eastern conquests and turned to consolidating the frontiers.",
+    "wikipedia": "Trajan",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Dacia",
+      "Roman Empire"
+    ]
+  },
+  {
+    "id": "classical-cai-lun-paper",
+    "title": "Cai Lun presents papermaking to the Han court",
+    "year": 105,
+    "dateLabel": "105 CE",
+    "lat": 34.62,
+    "lon": 112.45,
+    "category": "technology",
+    "importance": 4,
+    "summary": "The court official Cai Lun reports an improved way of making paper from bark, hemp, rags and old fishing nets to Emperor He.",
+    "description": "Fragments of hemp-fibre paper found in China date back to the 2nd century BCE, but early paper was used mostly for wrapping rather than writing. According to the History of the Later Han, in 105 CE Cai Lun, a eunuch in charge of the imperial workshops, presented a process using tree bark, hemp waste, rags and fishing nets, producing a cheap writing surface that gradually replaced bamboo slips and costly silk. Papermaking spread to Korea and Japan by the 7th century and to the Islamic world by the 8th, reaching Europe through Islamic Spain by around the 11th–12th centuries. Cheap paper later made printing and mass literacy possible.",
+    "wikipedia": "Cai Lun",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "paper",
+      "writing"
+    ]
+  },
+  {
+    "id": "classical-hadrians-wall",
+    "title": "Hadrian's Wall",
+    "year": 122,
+    "dateLabel": "begun 122 CE",
+    "lat": 55.013,
+    "lon": -2.33,
+    "category": "technology",
+    "importance": 3,
+    "summary": "Emperor Hadrian orders a 117 km wall across northern Britain, marking the Roman frontier from the River Tyne to the Solway Firth.",
+    "description": "Hadrian (r. 117–138) gave up Trajan's eastern conquests and fortified the empire's borders, and after visiting Britain in 122 CE he ordered a wall from the Tyne to the Solway. Built mostly by legionaries over about six years, it had a small fort every Roman mile, turrets between them, larger forts along its length and a great earthwork, the Vallum, to the south. It controlled movement and trade as much as it repelled attack. Briefly abandoned for the Antonine Wall further north in the 140s, it was reoccupied by the 160s and remained in use until Roman rule in Britain ended in the early 5th century.",
+    "wikipedia": "Hadrian's Wall",
+    "consensus": "established",
+    "tags": [
+      "Britain",
+      "Rome",
+      "frontier"
+    ]
+  },
+  {
+    "id": "classical-bar-kokhba-revolt",
+    "title": "Bar Kokhba revolt",
+    "year": 132,
+    "endYear": 136,
+    "dateLabel": "132–136 CE",
+    "lat": 31.73,
+    "lon": 35.13,
+    "category": "war",
+    "importance": 2,
+    "summary": "Judeans led by Simon bar Kokhba rise against Rome; the revolt's brutal suppression devastates Judaea and bars Jews from Jerusalem.",
+    "description": "Its causes probably included Hadrian's plan to refound Jerusalem as a Roman colony, Aelia Capitolina, with a temple to Jupiter, and possibly a ban on circumcision. Simon bar Kosiba, hailed by some as the messiah under the name Bar Kokhba, 'son of the star', set up an independent state that minted its own coins, and letters in his name have been found in caves near the Dead Sea. Rome sent large forces under Julius Severus, and the last stronghold, Betar, fell around 135 CE. Cassius Dio reports 580,000 Jewish dead and hundreds of villages destroyed; Jews were banned from Jerusalem, and the province was renamed Syria Palaestina.",
+    "wikipedia": "Bar Kokhba Revolt",
+    "consensus": "established",
+    "tags": [
+      "Judaism",
+      "Rome",
+      "Judea"
+    ]
+  },
+  {
+    "id": "classical-romans-in-the-americas",
+    "title": "Romans in the Americas? (fringe)",
+    "year": 150,
+    "dateLabel": "Claimed c. 2nd century CE",
+    "lat": 19.34,
+    "lon": -99.69,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Some writers claim Roman or Phoenician ships reached the Americas, citing a Roman-style head from a Mexican burial and amphorae off Brazil.",
+    "description": "The best-known evidence is the Tecaxic-Calixtlahuaca head, a small terracotta head in a Roman style that archaeologist José García Payón reported finding in 1933 in a burial near Toluca, Mexico, beneath floors dated to around 1476–1510 CE. Some researchers have argued that it is a 2nd-century Roman object that crossed the Atlantic before Columbus. Other claims include amphorae reported from Guanabara Bay near Rio de Janeiro in the 1970s and 1980s, the 'Paraíba inscription', a supposed Phoenician text from Brazil publicised in 1872, and the transatlantic voyages proposed by writers such as Cyrus Gordon.",
+    "wikipedia": "Pre-Columbian transoceanic contact theories",
+    "consensus": "fringe",
+    "mainstreamView": "Archaeologists find no convincing evidence of Roman or Phoenician contact with the Americas. The Calixtlahuaca head's excavation context is poorly documented and has been questioned, many suspect it was intrusive or introduced after European contact, and in any case a single portable object would not show sustained contact. The Guanabara Bay amphorae were never properly studied or dated, and the Paraíba inscription is regarded as a 19th-century hoax. Contact on any scale would be expected to leave Old World crops, animals, diseases, metallurgy, inscriptions or DNA, none of which appear before the Norse at L'Anse aux Meadows around 1000 CE.",
+    "tags": [
+      "fringe",
+      "pre-Columbian contact",
+      "pseudoarchaeology"
+    ]
+  },
+  {
+    "id": "classical-ptolemy-almagest",
+    "title": "Ptolemy's Almagest",
+    "year": 150,
+    "dateLabel": "c. 150 CE",
+    "uncertainty": 10,
+    "lat": 31.2,
+    "lon": 29.92,
+    "category": "science",
+    "importance": 3,
+    "summary": "In Alexandria, Claudius Ptolemy completes the Almagest, an Earth-centred model of the cosmos that dominates astronomy for 1,400 years.",
+    "description": "Building on the work of Hipparchus of Rhodes, who in the 2nd century BCE compiled a star catalogue, developed early trigonometry and discovered the precession of the equinoxes, Ptolemy produced a comprehensive mathematical astronomy. His geocentric system combined epicycles, deferents and the equant to predict planetary positions with useful accuracy, and included a catalogue of 1,022 stars. Translated into Arabic and later into Latin, the Almagest remained the standard work until it was displaced by the heliocentric astronomy of Copernicus and Kepler. Ptolemy's Geography, listing coordinates for some 8,000 places, similarly shaped world maps into the Renaissance.",
+    "wikipedia": "Almagest",
+    "consensus": "established",
+    "tags": [
+      "astronomy",
+      "Alexandria",
+      "Hipparchus"
+    ]
+  },
+  {
+    "id": "classical-antonine-plague",
+    "title": "Antonine Plague",
+    "year": 165,
+    "endYear": 180,
+    "dateLabel": "c. 165–180 CE",
+    "lat": 41.9,
+    "lon": 12.49,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "An epidemic, probably smallpox, carried by troops returning from Mesopotamia sweeps through the Roman Empire, killing millions.",
+    "description": "The disease appeared among Roman forces campaigning against Parthia around 165 CE and spread across the empire, recurring into the 180s; the co-emperor Lucius Verus may have been among its victims. The physician Galen, whose writings on anatomy, physiology and medicine would dominate Western and Islamic medicine for more than a millennium, described fever, diarrhoea and a dark pustular rash, which most scholars interpret as smallpox. Estimates of the death toll range from about 2% to over 25% of the empire's population, and its economic and military effects are debated. Some historians see it as the beginning of strains on the Roman state that deepened in the following century.",
+    "wikipedia": "Antonine Plague",
+    "consensus": "majority",
+    "tags": [
+      "epidemic",
+      "smallpox",
+      "Galen"
+    ]
+  },
+  {
+    "id": "classical-sn-185",
+    "title": "SN 185, the first recorded supernova",
+    "year": 185,
+    "dateLabel": "7 December 185 CE",
+    "lat": 34.62,
+    "lon": 112.45,
+    "global": true,
+    "category": "cosmic",
+    "importance": 1,
+    "summary": "Chinese astronomers record a 'guest star' near Alpha Centauri that shines for about eight months, the earliest known record of a supernova.",
+    "description": "The Book of the Later Han records that a guest star appeared in December 185 within the asterism Nanmen, near Alpha and Beta Centauri, and faded over the following months. Astronomers identify it as a supernova, most likely the explosion that produced the expanding shell RCW 86, about 8,000 light-years away. Low in the southern sky, it would have been visible from much of the world. As the oldest documented supernova, it shows how historical Chinese astronomical records remain valuable to modern astrophysics.",
+    "wikipedia": "SN 185",
+    "consensus": "majority",
+    "tags": [
+      "astronomy",
+      "supernova",
+      "China"
+    ]
+  },
+  {
+    "id": "classical-battle-of-red-cliffs",
+    "title": "Battle of Red Cliffs",
+    "year": 208,
+    "dateLabel": "winter 208–209 CE",
+    "lat": 29.87,
+    "lon": 113.62,
+    "category": "war",
+    "importance": 2,
+    "summary": "The allied forces of Sun Quan and Liu Bei defeat Cao Cao's larger army on the Yangtze, preventing the reunification of China under one warlord.",
+    "description": "Having conquered northern China, the warlord Cao Cao moved south along the Yangtze with a large army and fleet. The southern warlords Sun Quan and Liu Bei combined forces under Zhou Yu, and a fire attack with burning ships, together with disease among Cao Cao's troops, forced his retreat. The battle preserved the division of China that soon became formal as the Three Kingdoms. Its exact location is still disputed, and it was greatly dramatised in the 14th-century novel Romance of the Three Kingdoms and in modern films.",
+    "wikipedia": "Battle of Red Cliffs",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Three Kingdoms",
+      "Yangtze"
+    ]
+  },
+  {
+    "id": "classical-three-kingdoms",
+    "title": "Three Kingdoms period",
+    "year": 220,
+    "endYear": 280,
+    "dateLabel": "220–280 CE",
+    "lat": 34.68,
+    "lon": 112.6,
+    "category": "empire",
+    "importance": 3,
+    "summary": "After the last Han emperor abdicates, China splits into the rival states of Wei, Shu Han and Wu, until the Jin dynasty reunites it in 280.",
+    "description": "In 220 Cao Pi, son of Cao Cao, forced the last Han emperor to abdicate and founded the Wei dynasty in the north; Liu Bei proclaimed Shu Han in Sichuan in 221, and Sun Quan's state of Wu in the south-east became an empire in 229. Decades of warfare followed, in which the Shu chancellor Zhuge Liang became legendary for his strategy and loyalty. Wei conquered Shu in 263, the Sima family usurped Wei to found the Jin dynasty in 266, and Jin conquered Wu in 280. Registered population fell drastically compared with the Han, reflecting both war deaths and a breakdown of administration, and the era became one of the most romanticised in Chinese culture.",
+    "wikipedia": "Three Kingdoms",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Wei",
+      "Shu Han"
+    ]
+  },
+  {
+    "id": "classical-sasanian-empire",
+    "title": "Sasanian Empire founded",
+    "year": 224,
+    "endYear": 651,
+    "dateLabel": "224–651 CE",
+    "lat": 33.093,
+    "lon": 44.58,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Ardashir I overthrows the last Parthian king and founds the Sasanian Empire, Rome's great rival for four centuries.",
+    "description": "Ardashir, a ruler from Persis (Fars) in south-western Iran, defeated and killed the Parthian king Artabanus IV in 224 CE and was crowned king of kings, founding a dynasty that ruled from Mesopotamia to Central Asia with its capital at Ctesiphon. The Sasanians promoted Zoroastrianism as the state religion, built a centralised administration and fought repeated wars with Rome and Byzantium; Shapur I captured the Roman emperor Valerian in 260. Sasanian art, court culture and statecraft deeply influenced both the Byzantine and the Islamic worlds. Exhausted by a long war with Byzantium, the empire fell to the Arab conquests between 633 and 651.",
+    "wikipedia": "Sasanian Empire",
+    "consensus": "established",
+    "tags": [
+      "Persia",
+      "Iran",
+      "Zoroastrianism"
+    ]
+  },
+  {
+    "id": "classical-hatepe-eruption",
+    "title": "Taupō's Hatepe eruption",
+    "year": 232,
+    "dateLabel": "c. 232 CE",
+    "uncertainty": 10,
+    "lat": -38.82,
+    "lon": 175.9,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "The Taupō volcano in New Zealand explodes in one of the most violent eruptions of the last 5,000 years, devastating the central North Island, then uninhabited.",
+    "description": "The eruption ejected an estimated 45–105 km³ of tephra, more than 30 km³ of it within a few minutes, culminating in a pyroclastic flow that raced up to 80 km from the vent and covered some 20,000 km² of the central North Island. Wiggle-matched radiocarbon dating of a tree killed by the flow places it at about 232 ± 10 CE; an earlier suggestion that Roman and Chinese writers recorded its effects on the sky in 186 CE is no longer accepted. New Zealand had not yet been reached by people, who arrived from Polynesia only around 1250–1300 CE, so the eruption caused no known human casualties. Collapse of the vent area enlarged the caldera now filled by Lake Taupō, New Zealand's largest lake.",
+    "wikipedia": "Hatepe eruption",
+    "consensus": "majority",
+    "tags": [
+      "volcano",
+      "New Zealand",
+      "Oceania"
+    ]
+  },
+  {
+    "id": "classical-crisis-of-the-third-century",
+    "title": "Crisis of the Third Century",
+    "year": 235,
+    "endYear": 284,
+    "dateLabel": "235–284 CE",
+    "lat": 37.16,
+    "lon": 38.79,
+    "category": "politics",
+    "importance": 3,
+    "summary": "After Severus Alexander's murder, Rome suffers 50 years of civil war, invasion, plague and inflation, and briefly splits into three states.",
+    "description": "Between 235 and 284 CE more than 20 emperors were recognised, most of them soldiers who were murdered or killed in battle. Goths and other peoples raided across the Danube and Rhine, while Sasanian Persia defeated and captured the emperor Valerian near Edessa in 260, the only Roman emperor taken prisoner by a foreign enemy. The Plague of Cyprian and a severe debasement of the silver coinage added to the turmoil, and for a time the Gallic Empire in the west and Palmyra in the east ruled themselves. Aurelian (270–275) reunited the empire and Diocletian's reforms ended the crisis, although its depth and causes are still debated by historians.",
+    "wikipedia": "Crisis of the Third Century",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "civil war",
+      "Sasanian Empire"
+    ]
+  },
+  {
+    "id": "classical-himiko-yamatai",
+    "title": "Queen Himiko of Yamatai sends envoys to Wei",
+    "year": 239,
+    "dateLabel": "238 or 239 CE",
+    "lat": 34.55,
+    "lon": 135.84,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Himiko, a shaman-queen ruling the Japanese realm of Yamatai, sends tribute to the Wei court and is named 'Queen of Wa, Friend of Wei'.",
+    "description": "Japan had no writing of its own at this time, and Himiko is known from the Chinese Records of the Three Kingdoms, which describes a land of Wa with many small states that, after years of war, accepted the rule of an unmarried queen who practised sorcery and lived secluded in a palace. Her embassy of 238 or 239 received a golden seal, bronze mirrors and silk from the Wei court. After her death around 248 a great mound was raised for her, and some scholars identify it with the Hashihaka kofun at Makimuku in Nara Prefecture, one of the earliest keyhole-shaped tombs. Himiko does not appear by name in Japan's own later chronicles, the Kojiki and Nihon Shoki.",
+    "wikipedia": "Himiko",
+    "consensus": "debated",
+    "mainstreamView": "The Chinese account is accepted as genuine, but where Yamatai lay is one of the longest-running debates in Japanese history. One school places it in northern Kyushu, nearer the continent and rich in Yayoi-period sites; the other places it in the Kinai region around Nara, where the large early tombs of the later Yamato state appear in the 3rd century. Radiocarbon dates from Makimuku have strengthened the Kinai case for many archaeologists, but the question is not settled.",
+    "tags": [
+      "Japan",
+      "Yamatai",
+      "Wei"
+    ]
+  },
+  {
+    "id": "classical-mani-manichaeism",
+    "title": "Mani founds Manichaeism",
+    "year": 240,
+    "dateLabel": "c. 240 CE",
+    "uncertainty": 2,
+    "lat": 33.1,
+    "lon": 44.52,
+    "category": "religion",
+    "importance": 2,
+    "summary": "The Iranian prophet Mani begins preaching a dualist religion of light and darkness that will spread from Roman North Africa to China.",
+    "description": "Born in 216 in Mesopotamia and raised in a Jewish-Christian baptist sect, Mani claimed revelations that made him the final prophet in a line including Zoroaster, the Buddha and Jesus. He taught a cosmic struggle between Light and Darkness in which particles of light trapped in matter must be freed, and he wrote his scriptures himself to keep the teaching pure. Tolerated by Shapur I, he was later imprisoned under Bahram I and died around 274–277. Manichaeism spread widely, counting Augustine of Hippo as a follower for nearly a decade, became the state religion of the Uyghur Khaganate in the 8th century, and survived in southern China for many centuries more.",
+    "wikipedia": "Mani (prophet)",
+    "consensus": "established",
+    "tags": [
+      "Manichaeism",
+      "Sasanian Empire",
+      "Persia"
+    ]
+  },
+  {
+    "id": "classical-classic-maya",
+    "title": "Classic Maya civilisation flourishes",
+    "year": 250,
+    "endYear": 900,
+    "dateLabel": "c. 250–900 CE",
+    "lat": 17.222,
+    "lon": -89.623,
+    "category": "civilization",
+    "importance": 4,
+    "summary": "Maya city-states such as Tikal, Calakmul and Copán raise stepped temples and carved stelae recording their kings' deeds in hieroglyphic script.",
+    "description": "The Classic period is conventionally dated from the earliest Long Count dates on lowland Maya monuments around 250–300 CE, although great cities such as El Mirador had flourished in the Late Preclassic centuries before. Dozens of kingdoms ruled by divine kings, k'uhul ajaw, competed and allied in shifting networks dominated by the rival powers of Tikal and Calakmul. In 378 CE a warlord named Siyaj K'ak', linked to Teotihuacan, arrived at Tikal and installed a new dynasty, an episode known as the 'Entrada'. The Maya developed the most complete writing system of the pre-Columbian Americas, now largely deciphered, along with sophisticated astronomy and mathematics using zero, before the southern lowland cities declined and were largely abandoned in the 9th century.",
+    "wikipedia": "Maya civilization",
+    "consensus": "established",
+    "tags": [
+      "Maya",
+      "Mesoamerica",
+      "writing"
+    ]
+  },
+  {
+    "id": "classical-kofun-yamato",
+    "title": "Kofun period and the rise of Yamato",
+    "year": 250,
+    "endYear": 538,
+    "dateLabel": "c. 250–538 CE",
+    "uncertainty": 20,
+    "lat": 34.564,
+    "lon": 135.487,
+    "category": "civilization",
+    "importance": 3,
+    "summary": "Rulers in the Nara and Osaka plains build huge keyhole-shaped burial mounds as the Yamato state extends its power over much of Japan.",
+    "description": "From the mid-3rd century, elites in western Japan were buried in large mounded tombs, the greatest of them keyhole-shaped and surrounded by moats and clay haniwa figures. The biggest, the Daisen Kofun in Sakai, traditionally attributed to Emperor Nintoku and built in the 5th century, is nearly 500 m long. The spread of these tombs reflects the growing power of the Yamato court, ancestor of Japan's imperial house, which formed alliances with regional chiefs and with kingdoms in Korea, from where iron, horses, writing and new technologies arrived. The conventional end date of 538 marks the introduction of Buddhism from the Korean kingdom of Baekje.",
+    "wikipedia": "Kofun period",
+    "consensus": "established",
+    "tags": [
+      "Japan",
+      "Yamato",
+      "burial mounds"
+    ]
+  },
+  {
+    "id": "classical-zenobia-palmyrene-empire",
+    "title": "Zenobia's Palmyrene Empire",
+    "year": 270,
+    "endYear": 273,
+    "dateLabel": "270–273 CE",
+    "lat": 34.551,
+    "lon": 38.268,
+    "category": "empire",
+    "importance": 2,
+    "summary": "Queen Zenobia of Palmyra seizes Egypt and much of Roman Asia Minor before Aurelian defeats her and sacks the caravan city.",
+    "description": "Palmyra, an oasis city in the Syrian desert, grew rich on caravan trade between the Roman Empire, Mesopotamia and the Persian Gulf. Its ruler Odaenathus defended Rome's eastern frontier against the Sasanians in the 260s; after his assassination around 267, his widow Zenobia ruled for their young son Vaballathus and in 270–271 conquered Egypt and much of Anatolia. The emperor Aurelian defeated her armies in 272 and captured her, and when Palmyra rebelled again in 273 his troops sacked it. Zenobia's later fate is uncertain, though some sources say she lived out her life in Italy; several of Palmyra's great monuments, including the Temple of Bel, were destroyed by the Islamic State in 2015.",
+    "wikipedia": "Palmyrene Empire",
+    "consensus": "established",
+    "tags": [
+      "Palmyra",
+      "Syria",
+      "Roman Empire"
+    ]
+  },
+  {
+    "id": "classical-diocletian-tetrarchy",
+    "title": "Diocletian and the Tetrarchy",
+    "year": 284,
+    "endYear": 305,
+    "dateLabel": "284–305 CE",
+    "lat": 40.766,
+    "lon": 29.917,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Diocletian restores order by sharing power among two senior and two junior emperors and reorganising the army, provinces and taxes.",
+    "description": "Proclaimed emperor by the army in 284, Diocletian made Maximian co-emperor in the west and in 293 added two junior emperors, Galerius and Constantius, creating the Tetrarchy, with his own court at Nicomedia. He roughly doubled the number of provinces, separated civil and military commands, enlarged the army and introduced a regular census-based tax system, while his Edict on Maximum Prices of 301 tried in vain to curb inflation. From 303 he launched the Great Persecution, the last and most severe official persecution of Christians. In 305 he became the first Roman emperor to abdicate voluntarily, retiring to his palace at Split, but the Tetrarchy soon collapsed into civil war.",
+    "wikipedia": "Tetrarchy",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "reforms",
+      "Diocletian"
+    ]
+  },
+  {
+    "id": "classical-bantu-farmers-southern-africa",
+    "title": "Bantu-speaking farmers reach southern Africa",
+    "year": 300,
+    "dateLabel": "c. 200–400 CE",
+    "uncertainty": 100,
+    "lat": -23.85,
+    "lon": 30.25,
+    "category": "civilization",
+    "importance": 3,
+    "summary": "Iron-using farmers whose ancestors came from West-Central Africa settle south of the Limpopo, completing a migration across much of the continent.",
+    "description": "Linguistic, archaeological and genetic evidence shows that Bantu languages spread over several millennia from a homeland near today's Nigeria–Cameroon border, carried by farming communities who moved through the equatorial forest and into eastern and southern Africa. By the early centuries CE iron-working farmers making related styles of pottery had reached the coasts of Kenya and Tanzania, and by around 200–400 CE they were living in present-day Mozambique and north-eastern South Africa, at sites such as Silver Leaves and Broederstroom. They brought sorghum, millet, cattle and iron-working, and interacted and intermarried with Khoe and San herders and hunter-gatherers. Today more than 350 million people speak Bantu languages.",
+    "wikipedia": "Bantu expansion",
+    "consensus": "majority",
+    "tags": [
+      "Africa",
+      "migration",
+      "iron"
+    ]
+  },
+  {
+    "id": "classical-armenia-adopts-christianity",
+    "title": "Armenia adopts Christianity",
+    "year": 301,
+    "dateLabel": "301 (traditional) or c. 314 CE",
+    "uncertainty": 15,
+    "lat": 40.162,
+    "lon": 44.291,
+    "category": "religion",
+    "importance": 2,
+    "summary": "King Tiridates III, converted by Gregory the Illuminator, makes Armenia by tradition the first state to adopt Christianity as its official religion.",
+    "description": "According to Armenian tradition, Gregory the Illuminator was imprisoned for years by Tiridates III before curing the king of madness and converting him, after which Christianity became the state religion and the cathedral of Etchmiadzin was founded. The traditional date is 301, but many historians prefer around 314, after the Roman Empire had itself tolerated Christianity. Either way, Armenia, followed by Aksum and Georgia, was among the very first kingdoms to make Christianity official. The creation of the Armenian alphabet by Mesrop Mashtots around 405 allowed the Bible and liturgy to be translated, strengthening a distinct Armenian Christian identity.",
+    "wikipedia": "Christianization of Armenia",
+    "consensus": "majority",
+    "tags": [
+      "Christianity",
+      "Armenia",
+      "Caucasus"
+    ]
+  },
+  {
+    "id": "classical-sixteen-kingdoms",
+    "title": "Jin collapses: the Sixteen Kingdoms in north China",
+    "year": 304,
+    "endYear": 439,
+    "dateLabel": "304–439 CE (Luoyang sacked 311)",
+    "lat": 34.73,
+    "lon": 112.62,
+    "category": "empire",
+    "importance": 3,
+    "summary": "As the Western Jin dynasty collapses, non-Han peoples found rival states across north China, Luoyang is sacked in 311 and many northerners flee south.",
+    "description": "The Jin dynasty had reunified China in 280, but the War of the Eight Princes (291–306) among imperial relatives wrecked the state just as famine and unrest spread among the Xiongnu, Xianbei, Jie, Di and Qiang peoples settled along and inside the northern frontier. In 304 the Xiongnu leader Liu Yuan proclaimed his own state, later known as Han Zhao, whose armies sacked the capital Luoyang in 311, capturing Emperor Huai in what became known as the Disaster of Yongjia, and took Chang'an in 316. A surviving branch of the Jin re-established its court at Jiankang (Nanjing) as the Eastern Jin, and very large numbers of northern families migrated south, accelerating the development of the Yangtze region. North China was divided among a succession of short-lived states, conventionally counted as sixteen, until the Xianbei-led Northern Wei reunified the north in 439, beginning the era of the Northern and Southern dynasties that lasted until the Sui reunification of 589.",
+    "wikipedia": "Sixteen Kingdoms",
+    "consensus": "established",
+    "tags": [
+      "China",
+      "Jin dynasty",
+      "migration",
+      "Xiongnu"
+    ]
+  },
+  {
+    "id": "classical-edict-of-milan",
+    "title": "Constantine and the Edict of Milan",
+    "year": 313,
+    "dateLabel": "February 313 CE",
+    "lat": 45.464,
+    "lon": 9.19,
+    "category": "religion",
+    "importance": 5,
+    "summary": "Emperors Constantine and Licinius agree to grant Christians and all others freedom of worship and to return confiscated church property.",
+    "description": "Constantine, proclaimed emperor at York in 306, defeated his rival Maxentius at the Milvian Bridge outside Rome in 312, a victory he attributed to the Christian God after a vision or dream. Galerius' edict of 311 had already ended the Great Persecution and made Christianity legal. Meeting at Milan in 313, Constantine and Licinius extended toleration to all religions and agreed on the return of confiscated church property; the policy survives in letters quoted by Lactantius and Eusebius, so it was not strictly a single edict. Constantine went on to fund churches, intervene in church disputes and accept baptism shortly before his death in 337. By 380 Theodosius I had made Nicene Christianity the state religion, transforming the Roman Empire and the later history of Europe.",
+    "wikipedia": "Edict of Milan",
+    "consensus": "established",
+    "tags": [
+      "Christianity",
+      "Constantine",
+      "Rome"
+    ]
+  },
+  {
+    "id": "classical-gupta-empire",
+    "title": "Gupta Empire",
+    "year": 320,
+    "endYear": 550,
+    "dateLabel": "c. 320–550 CE",
+    "uncertainty": 5,
+    "lat": 25.6,
+    "lon": 85.16,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Chandragupta I founds the Gupta dynasty, whose empire across northern India presides over a classical age of Sanskrit literature, art and science.",
+    "description": "From their base in Magadha, Chandragupta I (from about 320), Samudragupta and Chandragupta II extended Gupta rule across most of northern India through conquest and alliance. The period saw the poet and dramatist Kalidasa, the compilation of major Hindu texts such as the Puranas, early stone temple architecture, the Ajanta cave paintings under the allied Vakataka dynasty, and the growth of the Buddhist monastic university at Nalanda. Indian mathematicians of this era, notably Aryabhata, advanced astronomy and the decimal place-value system. From the late 5th century invasions by the Alchon Huns and the rise of regional rulers broke up the empire, which ended around 550.",
+    "wikipedia": "Gupta Empire",
+    "consensus": "established",
+    "tags": [
+      "India",
+      "Hinduism",
+      "Sanskrit"
+    ]
+  },
+  {
+    "id": "classical-first-council-of-nicaea",
+    "title": "First Council of Nicaea",
+    "year": 325,
+    "dateLabel": "May–July 325 CE",
+    "lat": 40.429,
+    "lon": 29.72,
+    "category": "religion",
+    "importance": 3,
+    "summary": "Convened by Constantine, hundreds of bishops condemn Arianism and adopt the Nicene Creed, defining the Son as of one substance with the Father.",
+    "description": "The council was called to settle the dispute over the teachings of Arius, an Alexandrian priest who held that the Son was created by, and subordinate to, God the Father. Between about 250 and 318 bishops, mostly from the eastern provinces, affirmed that the Son is homoousios, 'of the same substance', with the Father, and also agreed a common method for dating Easter. It was the first ecumenical council of the whole church, and its creed, expanded at Constantinople in 381, is still recited by Catholic, Orthodox and many Protestant churches. Arian Christianity nonetheless persisted for centuries, especially among the Goths and other Germanic peoples.",
+    "wikipedia": "First Council of Nicaea",
+    "consensus": "established",
+    "tags": [
+      "Christianity",
+      "Constantine",
+      "creed"
+    ]
+  },
+  {
+    "id": "classical-founding-of-constantinople",
+    "title": "Constantinople founded as a new Rome",
+    "year": 330,
+    "dateLabel": "11 May 330 CE",
+    "lat": 41.0082,
+    "lon": 28.9784,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Constantine dedicates Constantinople on the site of Byzantium, a new imperial capital on the Bosporus between Europe and Asia.",
+    "description": "Having become sole emperor by defeating Licinius in 324, Constantine rebuilt the old Greek city of Byzantium on a grand scale, with a forum, palace, hippodrome, senate house and churches, and dedicated it on 11 May 330. Its site on the Bosporus controlled the passage between the Black Sea and the Mediterranean and lay close to the threatened Danube and Persian frontiers. Protected by the Theodosian Walls from the 410s, it became the capital of the Eastern Roman, or Byzantine, Empire, which outlived the West by almost a thousand years. It fell to the Ottomans in 1453 and, as Istanbul, is today the largest city in Turkey.",
+    "wikipedia": "Constantinople",
+    "consensus": "established",
+    "tags": [
+      "Byzantine Empire",
+      "Constantine",
+      "Istanbul"
+    ]
+  },
+  {
+    "id": "classical-ezana-aksum-christianity",
+    "title": "King Ezana makes Aksum Christian",
+    "year": 335,
+    "dateLabel": "c. 330s–340s CE",
+    "uncertainty": 10,
+    "lat": 14.12,
+    "lon": 38.73,
+    "category": "religion",
+    "importance": 2,
+    "summary": "Taught by Frumentius, a Syrian Christian later made Aksum's first bishop, King Ezana adopts Christianity; his coins swap crescent and disc for the cross.",
+    "description": "According to the 4th-century historian Rufinus, Frumentius and his brother were Syrian Christians brought to the Aksumite court as boys after their ship was attacked, and Frumentius became an influential tutor to the young Ezana. He was later consecrated bishop of Aksum by Athanasius of Alexandria, and Ezana converted around the 330s or 340s. Ezana's coins and inscriptions show the shift from traditional gods to the Christian cross, making Aksum one of the first states anywhere to adopt Christianity. The Ethiopian Orthodox Tewahedo Church traces its origins to this conversion.",
+    "wikipedia": "Ezana of Axum",
+    "consensus": "majority",
+    "tags": [
+      "Christianity",
+      "Ethiopia",
+      "Aksum"
+    ]
+  },
+  {
+    "id": "classical-huns-arrive-in-europe",
+    "title": "The Huns arrive in Europe",
+    "year": 370,
+    "endYear": 469,
+    "dateLabel": "c. 370–469 CE",
+    "uncertainty": 5,
+    "lat": 47,
+    "lon": 34,
+    "category": "empire",
+    "importance": 3,
+    "summary": "Nomadic Huns from the steppe defeat the Alans and Goths north of the Black Sea, setting off migrations that destabilise the Roman Empire.",
+    "description": "The Huns' origins are uncertain; a link with the Xiongnu of Mongolia is possible but debated. Around 370–375 they crushed the Alans and the Gothic Greuthungi, and in 376 tens of thousands of Goths sought refuge across the Danube; mistreated by Roman officials, they rebelled and destroyed an eastern Roman army at Adrianople in 378, killing the emperor Valens. Under Attila (r. 434–453) the Huns built an empire centred on the Hungarian plain, extracted huge payments from Constantinople, invaded Gaul in 451, where they were checked at the Catalaunian Plains, and raided Italy in 452. After Attila's death their empire quickly fell apart and had disappeared by about 469.",
+    "wikipedia": "Huns",
+    "consensus": "majority",
+    "tags": [
+      "steppe",
+      "migration",
+      "Attila"
+    ]
+  },
+  {
+    "id": "classical-division-of-the-roman-empire",
+    "title": "Roman Empire divided between East and West",
+    "year": 395,
+    "dateLabel": "17 January 395 CE",
+    "lat": 45.464,
+    "lon": 9.19,
+    "category": "empire",
+    "importance": 4,
+    "summary": "Theodosius I, the last emperor to rule the whole Roman Empire, dies at Milan, leaving the East to his son Arcadius and the West to Honorius.",
+    "description": "Theodosius I, a general from Hispania, was made emperor in the East in 379 after the Goths destroyed a Roman army at Adrianople in 378, and he later settled the Goths inside the empire as allies under their own leaders. In 380 his Edict of Thessalonica declared Nicene Christianity the religion of the empire's subjects, and laws of 391–392 banned pagan sacrifice and closed temples. After defeating usurpers in the West he briefly ruled the whole empire, but on his death at Milan in January 395 it passed to his young sons, Arcadius in Constantinople and Honorius in the West. Imperial power had often been shared before, yet this division proved permanent: the wealthier East survived as the Byzantine Empire for more than a thousand years, while the Western empire disintegrated within a century.",
+    "wikipedia": "Theodosius I",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Byzantine Empire",
+      "Christianity"
+    ]
+  },
+  {
+    "id": "classical-austronesians-settle-madagascar",
+    "title": "Austronesian sailors settle Madagascar",
+    "year": 400,
+    "dateLabel": "1st millennium CE (debated)",
+    "uncertainty": 300,
+    "lat": -15.72,
+    "lon": 46.32,
+    "category": "exploration",
+    "importance": 2,
+    "summary": "Seafarers from Island Southeast Asia cross the Indian Ocean and settle Madagascar, where they later mix with migrants from mainland Africa.",
+    "description": "The Malagasy language belongs to the Austronesian family and is most closely related to Ma'anyan, spoken in southern Borneo, while Malagasy people have roughly equal Southeast Asian and East African genetic ancestry. Reaching Madagascar meant crossing or skirting some 6,000 km of ocean, probably by way of trade routes around the Indian Ocean rim, making it one of the great prehistoric voyages. Crops such as rice, outrigger canoes and many cultural traditions reflect this Southeast Asian heritage. Genetic studies suggest that the Austronesian and African populations mixed around 1,000 years ago.",
+    "wikipedia": "Malagasy peoples",
+    "consensus": "debated",
+    "mainstreamView": "That Austronesian speakers from Island Southeast Asia played a central role in settling Madagascar is well established. When they arrived is debated: some archaeologists argue for scattered, earlier human visits to the island, while firm evidence of permanent village settlement mostly dates from the 7th–8th centuries CE onward, and estimates for the Austronesian arrival range from about the 1st to the 8th century CE.",
+    "tags": [
+      "Austronesian",
+      "Madagascar",
+      "Indian Ocean"
+    ]
+  },
+  {
+    "id": "classical-sack-of-rome-410",
+    "title": "Visigoths sack Rome",
+    "year": 410,
+    "dateLabel": "24 August 410 CE",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "war",
+    "importance": 3,
+    "summary": "Alaric's Visigoths plunder Rome for three days, the first time the city has fallen to a foreign enemy in about 800 years.",
+    "description": "Alaric's Goths had alternately served and fought the empire for years and repeatedly besieged Rome while seeking land and an official command from the western emperor Honorius, who stayed safely in Ravenna. When negotiations failed, the Visigoths entered Rome on 24 August 410 and plundered it for three days, though they largely spared the churches. Rome was no longer the seat of government, but the shock across the Roman world was immense, and it prompted Augustine of Hippo to write The City of God in defence of Christianity. The Visigoths later settled in south-western Gaul and Spain, founding a kingdom that lasted until 711.",
+    "wikipedia": "Sack of Rome (410)",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Goths",
+      "Migration Period"
+    ]
+  },
+  {
+    "id": "classical-murder-of-hypatia",
+    "title": "Murder of Hypatia",
+    "year": 415,
+    "dateLabel": "March 415 CE",
+    "lat": 31.198,
+    "lon": 29.915,
+    "category": "science",
+    "importance": 2,
+    "summary": "The mathematician and Neoplatonist philosopher Hypatia, a leading teacher in Alexandria, is killed by a Christian mob.",
+    "description": "Hypatia, daughter of the mathematician Theon, taught philosophy and astronomy to pagans and Christians alike and wrote commentaries on mathematical works such as Diophantus' Arithmetica, none of which survive with certainty. She was an adviser to Orestes, the Roman prefect of Egypt, who was locked in a bitter political feud with the bishop Cyril. In March 415 a mob of Christians led by a lector named Peter seized her, killed her in a church and burned her remains. Later writers made her a symbol of reason destroyed by fanaticism or of the end of classical learning, though historians stress the local political causes of her murder and note that Alexandrian scholarship continued after her death.",
+    "wikipedia": "Hypatia",
+    "consensus": "established",
+    "tags": [
+      "Alexandria",
+      "mathematics",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "classical-ilopango-eruption",
+    "title": "Ilopango eruption devastates El Salvador",
+    "year": 431,
+    "dateLabel": "c. 431 CE (429–433)",
+    "uncertainty": 2,
+    "lat": 13.67,
+    "lon": -89.05,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "A huge eruption of Ilopango volcano buries Maya settlements across central El Salvador under ash and pyroclastic flows.",
+    "description": "The Tierra Blanca Joven eruption of Ilopango, now a caldera lake beside San Salvador, was one of the largest in Central America in the last several thousand years. Pyroclastic flows and thick ashfall made much of central and western El Salvador uninhabitable for decades, displacing many thousands of people, and ash fell across a wide area of Mesoamerica. Radiocarbon dating of a tree buried by the eruption, combined with ice-core records, points to a date of about 431 CE, whereas earlier studies had proposed dates ranging from the 3rd to the 6th century, including a link to the climate downturn of 536.",
+    "wikipedia": "Tierra Blanca Joven eruption",
+    "consensus": "majority",
+    "tags": [
+      "volcano",
+      "Maya",
+      "El Salvador"
+    ]
+  },
+  {
+    "id": "classical-fall-of-the-western-roman-empire",
+    "title": "Fall of the Western Roman Empire",
+    "year": 476,
+    "dateLabel": "4 September 476 CE",
+    "lat": 44.418,
+    "lon": 12.204,
+    "category": "empire",
+    "importance": 5,
+    "summary": "The Germanic general Odoacer deposes the boy emperor Romulus Augustulus at Ravenna, conventionally ending the Western Roman Empire.",
+    "description": "Through the 5th century the western empire lost Britain, much of Gaul and Spain, and North Africa, where the Vandals took Carthage in 439 before sacking Rome in 455, while real power passed to military strongmen and federated barbarian armies. In 476 Odoacer, leader of the Germanic troops in Italy, deposed Romulus Augustulus, appointed no successor and sent the imperial regalia to Constantinople, ruling Italy as king. Whether this marked a sudden 'fall' or a gradual transformation into the post-Roman kingdoms of the early Middle Ages is a long-running historical debate. The Eastern Roman Empire, centred on Constantinople, continued until 1453.",
+    "wikipedia": "Fall of the Western Roman Empire",
+    "consensus": "established",
+    "tags": [
+      "Rome",
+      "Migration Period",
+      "Ravenna"
+    ]
+  },
+  {
+    "id": "classical-aryabhata",
+    "title": "Aryabhata writes the Aryabhatiya",
+    "year": 499,
+    "dateLabel": "499 CE",
+    "lat": 25.59,
+    "lon": 85.12,
+    "category": "science",
+    "importance": 3,
+    "summary": "Aged 23, the astronomer Aryabhata completes a treatise giving π as 3.1416, a table of sines and the idea that the Earth rotates daily.",
+    "description": "Written in Sanskrit verse at Kusumapura, usually identified with Pataliputra (Patna), the Aryabhatiya covers arithmetic, algebra, trigonometry and astronomy. It relies on place-value arithmetic, approximates π as 3.1416, gives a table of sines, explains lunar and solar eclipses by the shadows of the Earth and Moon, and proposes that the apparent daily motion of the stars is caused by the Earth's rotation. Indian mathematicians of this era were developing the decimal place-value numerals with a symbol for zero that later reached Europe through the Islamic world as 'Arabic numerals'; the Bakhshali manuscript, partly radiocarbon-dated to the 3rd–4th centuries CE, uses a dot for zero, although that dating is disputed. Aryabhata's work strongly influenced later Indian and Islamic astronomy.",
+    "wikipedia": "Aryabhata",
+    "consensus": "established",
+    "tags": [
+      "India",
+      "mathematics",
+      "astronomy"
+    ]
+  }
+]

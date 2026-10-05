@@ -1,0 +1,170 @@
+/* Base layer: overlay root, resets, glass surface and shared buttons/chips/badges. */
+/* The overlay never blocks the globe: only widgets opt back into pointer events. */
+.hoe-ui {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  pointer-events: none;
+  font: 13px/1.45 var(--hoe-font);
+  color: var(--hoe-text);
+  -webkit-font-smoothing: antialiased;
+  --hoe-top: 120px;
+}
+.hoe-ui *, .hoe-ui *::before, .hoe-ui *::after { box-sizing: border-box; }
+.hoe-ui [hidden] { display: none !important; }
+/* Resets wrapped in :where() so they carry no class specificity and component classes win. */
+:where(.hoe-ui) :where(button, input) { font: inherit; color: inherit; }
+:where(.hoe-ui) :where(h1, h2, h3, h4, p) { margin: 0; }
+.hoe-ui :focus-visible { outline: 2px solid var(--hoe-accent); outline-offset: 2px; }
+.hoe-ui kbd {
+  display: inline-block;
+  min-width: 1.6em;
+  padding: 0 5px;
+  border: 1px solid var(--hoe-hairline-strong);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  font: 600 11px/1.5 var(--hoe-font);
+  text-align: center;
+  color: var(--hoe-text);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.hoe-glass {
+  pointer-events: auto;
+  background: var(--hoe-glass);
+  -webkit-backdrop-filter: blur(var(--hoe-blur)) saturate(140%);
+  backdrop-filter: blur(var(--hoe-blur)) saturate(140%);
+  border: 1px solid var(--hoe-hairline);
+  border-radius: var(--hoe-radius);
+  box-shadow: var(--hoe-shadow);
+}
+
+/* Thin scrollbars inside panels */
+.hoe-ui * { scrollbar-width: thin; scrollbar-color: rgba(255, 255, 255, 0.18) transparent; }
+
+/* Buttons */
+.hoe-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid transparent;
+  border-radius: var(--hoe-radius-sm);
+  background: transparent;
+  color: var(--hoe-text);
+  font-size: 13px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background var(--hoe-t), color var(--hoe-t), border-color var(--hoe-t), transform var(--hoe-t);
+}
+.hoe-btn:hover { background: var(--hoe-hover); }
+.hoe-btn:active { transform: scale(0.96); }
+.hoe-btn--icon { width: 34px; padding: 0; }
+.hoe-btn[aria-pressed="true"] {
+  color: var(--hoe-accent);
+  background: var(--hoe-accent-soft);
+  border-color: var(--hoe-accent-line);
+}
+.hoe-btn--primary {
+  height: 44px;
+  padding: 0 22px 0 16px;
+  border-radius: 22px;
+  background: var(--hoe-accent);
+  color: var(--hoe-accent-ink);
+  font-size: 15px;
+  font-weight: 700;
+}
+.hoe-btn--primary:hover { background: #81d4fa; }
+.hoe-btn--solid {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: var(--hoe-hairline-strong);
+}
+.hoe-linkbtn {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--hoe-accent);
+  font-size: 12px;
+  cursor: pointer;
+}
+.hoe-linkbtn:hover { text-decoration: underline; }
+.hoe-icon { flex: none; display: block; }
+
+/* Chips, badges and tags (shared) */
+.hoe-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  height: 22px;
+  padding: 0 8px;
+  border-radius: 11px;
+  border: 1px solid var(--hoe-hairline-strong);
+  background: rgba(255, 255, 255, 0.05);
+  font-size: 11.5px;
+  color: var(--hoe-text-dim);
+  white-space: nowrap;
+}
+.hoe-chip b { color: var(--hoe-text); font-weight: 600; }
+.hoe-chip--cat { color: var(--hoe-text); border-color: color-mix(in srgb, var(--cat) 55%, transparent); background: color-mix(in srgb, var(--cat) 16%, transparent); }
+
+.hoe-badge {
+  display: inline-flex;
+  align-items: center;
+  height: 18px;
+  padding: 0 7px;
+  border-radius: 9px;
+  border: 1px solid var(--hoe-hairline-strong);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  flex: none;
+}
+.hoe-badge--fringe { color: #e0e0e0; border: 1px dashed var(--hoe-fringe); background: rgba(158, 158, 158, 0.16); }
+.hoe-badge--debated { color: #ffca28; border-color: rgba(255, 179, 0, 0.6); background: rgba(255, 179, 0, 0.13); }
+.hoe-badge--established { color: #81c784; border-color: rgba(102, 187, 106, 0.5); }
+.hoe-badge--majority { color: #aed581; border-color: rgba(139, 195, 74, 0.5); }
+.hoe-badge--recon { text-transform: none; letter-spacing: 0; font-size: 11px; font-weight: 600; height: 20px; }
+.hoe-badge--recon.is-satellite { color: #81d4fa; border-color: rgba(79, 195, 247, 0.5); }
+.hoe-badge--recon.is-paleo { color: #a5d6a7; border-color: rgba(129, 199, 132, 0.5); }
+.hoe-badge--recon.is-schematic { color: #ffcc80; border-color: rgba(255, 183, 77, 0.55); border-style: dashed; }
+
+.hoe-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 11px;
+  color: #80deea;
+  white-space: nowrap;
+}
+
+/* Footer credits link (desktop; on phones it lives in Settings) */
+.hoe-footer {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  height: 24px;
+  padding: 0 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  color: var(--hoe-text-dim);
+  cursor: pointer;
+  transition: color var(--hoe-t);
+}
+.hoe-footer:hover { color: var(--hoe-text); }
+
+@media (max-width: 799px) {
+  .hoe-footer { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hoe-ui *, .hoe-ui *::before, .hoe-ui *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

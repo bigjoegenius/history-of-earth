@@ -1,0 +1,113 @@
+/* Left table-of-contents drawer (overlay). */
+.hoe-toc {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 20;
+  width: min(var(--hoe-toc-w), 92vw);
+  display: flex;
+  flex-direction: column;
+  pointer-events: auto;
+  background: var(--hoe-glass-strong);
+  -webkit-backdrop-filter: blur(var(--hoe-blur)) saturate(140%);
+  backdrop-filter: blur(var(--hoe-blur)) saturate(140%);
+  border-right: 1px solid var(--hoe-hairline-strong);
+  box-shadow: 8px 0 30px rgba(0, 0, 0, 0.4);
+  transform: translateX(-104%);
+  visibility: hidden;
+  transition: transform 220ms ease, visibility 0s linear 220ms;
+}
+.hoe-toc.is-open { transform: none; visibility: visible; transition: transform 220ms ease; }
+/* Focused as a whole when opened by mouse or touch; its own controls keep their focus rings. */
+.hoe-toc:focus { outline: none; }
+.hoe-toc__head { display: flex; align-items: center; justify-content: space-between; padding: 12px 10px 6px 16px; }
+.hoe-toc__head h2 { font-size: 16px; font-weight: 700; }
+.hoe-toc__searchbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 4px 12px 8px;
+  padding: 0 10px;
+  height: 34px;
+  border: 1px solid var(--hoe-hairline-strong);
+  border-radius: 17px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--hoe-text-dim);
+}
+.hoe-toc__searchbox:focus-within { border-color: var(--hoe-accent-line); }
+.hoe-toc__search { flex: 1; min-width: 0; border: 0; outline: 0; background: none; font-size: 13px; }
+.hoe-toc__search::placeholder { color: var(--hoe-text-faint); }
+.hoe-toc__tree { flex: 1; overflow-y: auto; overscroll-behavior: contain; padding: 2px 8px 16px 6px; }
+
+.hoe-toc__row { display: flex; align-items: center; gap: 0; border-radius: 7px; }
+.hoe-toc__row:hover { background: rgba(255, 255, 255, 0.05); }
+.hoe-toc__caret, .hoe-toc__caret-spacer { flex: none; width: 24px; height: 28px; }
+.hoe-toc__caret {
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: none;
+  color: var(--hoe-text-faint);
+  cursor: pointer;
+}
+.hoe-toc__caret .hoe-icon { transition: transform var(--hoe-t); }
+.hoe-toc__node.is-open > .hoe-toc__row .hoe-toc__caret .hoe-icon { transform: rotate(90deg); }
+.hoe-toc__jump {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 5px 6px 5px 2px;
+  border: 0;
+  background: none;
+  text-align: left;
+  cursor: pointer;
+}
+.hoe-toc__title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hoe-toc__title mark { background: rgba(79, 195, 247, 0.3); color: inherit; border-radius: 2px; }
+.hoe-toc__range { flex: none; font-size: 11px; color: var(--hoe-text-faint); font-variant-numeric: tabular-nums; }
+.hoe-toc__node.lvl-1 > .hoe-toc__row .hoe-toc__title { font-weight: 700; font-size: 13.5px; }
+.hoe-toc__node.lvl-3 > .hoe-toc__row .hoe-toc__title { color: var(--hoe-text-dim); }
+.hoe-toc__kids { display: none; padding-left: 14px; }
+.hoe-toc__node.is-open > .hoe-toc__kids { display: block; }
+
+/* Current path: accent text; the deepest chapter gets a filled row. */
+.hoe-toc__node.is-current > .hoe-toc__row .hoe-toc__title { color: var(--hoe-accent); }
+.hoe-toc__node.is-here > .hoe-toc__row { background: var(--hoe-accent-soft); box-shadow: inset 2px 0 0 var(--hoe-accent); }
+
+.hoe-toc__landmarks, .hoe-toc__results { list-style: none; margin: 2px 0 6px; padding: 0 0 0 24px; }
+.hoe-toc__results { padding-left: 4px; }
+.hoe-toc__event {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  width: 100%;
+  padding: 4px 6px;
+  border: 0;
+  border-radius: 6px;
+  background: none;
+  font-size: 12.5px;
+  text-align: left;
+  color: var(--hoe-text);
+  cursor: pointer;
+}
+.hoe-toc__event:hover { background: rgba(255, 255, 255, 0.06); }
+.hoe-toc__event-text { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.3; }
+.hoe-toc__event-date { font-size: 11px; color: var(--hoe-text-faint); }
+.hoe-toc__event.is-fringe .hoe-toc__event-title { font-style: italic; color: #d0d0d0; }
+.hoe-toc__dot { flex: none; width: 8px; height: 8px; border-radius: 50%; background: var(--cat); }
+.hoe-toc__event.is-fringe .hoe-toc__dot { background: none; border: 1px dashed var(--hoe-fringe); }
+.hoe-toc__results-wrap h3, .hoe-toc__empty {
+  margin: 12px 0 4px 8px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--hoe-text-dim);
+}
+.hoe-toc__empty { font-weight: 400; text-transform: none; letter-spacing: 0; font-size: 12.5px; }

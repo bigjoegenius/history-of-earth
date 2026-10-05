@@ -1,0 +1,2254 @@
+[
+  {
+    "id": "modern2-assassination-of-franz-ferdinand",
+    "title": "Assassination of Archduke Franz Ferdinand",
+    "year": 1914.491,
+    "dateLabel": "28 June 1914",
+    "lat": 43.8576,
+    "lon": 18.4289,
+    "category": "politics",
+    "importance": 4,
+    "summary": "Bosnian Serb student Gavrilo Princip shoots Austria-Hungary's heir and his wife in Sarajevo, setting off the crisis that leads to World War I.",
+    "description": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, and his wife Sophie were shot dead in Sarajevo by Gavrilo Princip, a 19-year-old member of the Young Bosnia movement who had been armed with the help of the Serbian nationalist secret society known as the Black Hand. Austria-Hungary, backed by Germany, issued an ultimatum to Serbia and declared war on 28 July. Within a week the alliance system had drawn in Russia, Germany, France and Britain in what became known as the July Crisis. Historians still debate how far responsibility for the escalation lies with Germany, Austria-Hungary, Russia or the alliance system as a whole.",
+    "wikipedia": "Assassination of Archduke Franz Ferdinand",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "balkans",
+      "assassination"
+    ]
+  },
+  {
+    "id": "modern2-world-war-i",
+    "title": "World War I",
+    "year": 1914.574,
+    "endYear": 1918.862,
+    "dateLabel": "28 July 1914 – 11 November 1918",
+    "lat": 49.9,
+    "lon": 2.3,
+    "global": true,
+    "category": "war",
+    "importance": 5,
+    "summary": "The Allies and the Central Powers fight a global industrial war that kills around 9 million soldiers and millions of civilians.",
+    "description": "The war pitted the Allies (chiefly France, the British Empire, Russia, Italy from 1915 and the United States from 1917) against the Central Powers (Germany, Austria-Hungary, the Ottoman Empire and Bulgaria). After German armies were halted at the First Battle of the Marne in September 1914, the Western Front settled into trench warfare stretching from the Channel to Switzerland, while fighting also raged in Eastern Europe, the Middle East, Africa and at sea. Machine guns, heavy artillery, poison gas, tanks, aircraft and submarines made it the first fully industrialised war. It ended with the collapse of four empires — the German, Austro-Hungarian, Russian and Ottoman — and redrew the map of Europe and the Middle East.",
+    "wikipedia": "World War I",
+    "consensus": "established",
+    "tags": [
+      "world war i"
+    ]
+  },
+  {
+    "id": "modern2-gallipoli-campaign",
+    "title": "Gallipoli campaign",
+    "year": 1915.128,
+    "endYear": 1916.023,
+    "dateLabel": "17 February 1915 – 9 January 1916",
+    "lat": 40.24,
+    "lon": 26.28,
+    "category": "war",
+    "importance": 3,
+    "summary": "An Allied attempt to force the Dardanelles and knock the Ottoman Empire out of the war ends in costly failure and evacuation.",
+    "description": "British and French warships tried to force the Dardanelles strait in early 1915, and after that failed, British, French, Indian, Australian and New Zealand troops landed on the Gallipoli peninsula on 25 April. Ottoman forces, including a division led by Mustafa Kemal (later Atatürk), confined the invaders to narrow beachheads, and the Allies withdrew by January 1916 after roughly half a million casualties on both sides combined. The landing date is commemorated as Anzac Day in Australia and New Zealand, where the campaign became central to national identity, and Kemal's role helped launch his political career.",
+    "wikipedia": "Gallipoli campaign",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "anzac",
+      "ottoman empire"
+    ]
+  },
+  {
+    "id": "modern2-armenian-genocide",
+    "title": "Armenian genocide",
+    "year": 1915.313,
+    "endYear": 1917,
+    "dateLabel": "1915–1917 (arrests in Constantinople, 24 April 1915)",
+    "lat": 35.33,
+    "lon": 40.14,
+    "category": "war",
+    "importance": 4,
+    "summary": "The Ottoman government systematically deports and kills Armenians; an estimated 600,000 to 1.5 million die in massacres and death marches.",
+    "description": "Beginning with the arrest of Armenian intellectuals and community leaders in Constantinople on 24 April 1915, the Committee of Union and Progress government ordered the deportation of the Armenian population of Anatolia, accusing it of siding with Russia. Men were frequently massacred outright, while women, children and the elderly were driven on death marches into the Syrian Desert, where many perished in camps around Deir ez-Zor, the place marked here. Assyrians and Greeks of the empire suffered parallel atrocities. Most historians and genocide scholars, and many governments, recognise the events as genocide, a classification that the Republic of Turkey continues to reject.",
+    "wikipedia": "Armenian genocide",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "ottoman empire",
+      "world war i"
+    ]
+  },
+  {
+    "id": "modern2-general-relativity",
+    "title": "Einstein presents general relativity",
+    "year": 1915.899,
+    "dateLabel": "25 November 1915",
+    "lat": 52.5175,
+    "lon": 13.393,
+    "category": "science",
+    "importance": 4,
+    "summary": "Albert Einstein presents the field equations of general relativity to the Prussian Academy of Sciences, recasting gravity as curved spacetime.",
+    "description": "After nearly a decade of work, Einstein delivered the final form of his field equations in Berlin, describing gravity not as a force but as the curvature of spacetime by mass and energy. The theory immediately explained the anomalous advance of Mercury's perihelion, and its predicted bending of starlight was confirmed during the solar eclipse of 29 May 1919 by British expeditions organised by Arthur Eddington and Frank Dyson, making Einstein world-famous. General relativity underpins modern cosmology, black-hole physics and the detection of gravitational waves in 2015, and its corrections are essential to satellite navigation systems such as GPS.",
+    "wikipedia": "General relativity",
+    "consensus": "established",
+    "tags": [
+      "physics",
+      "einstein"
+    ]
+  },
+  {
+    "id": "modern2-battle-of-verdun",
+    "title": "Battle of Verdun",
+    "year": 1916.138,
+    "endYear": 1916.964,
+    "dateLabel": "21 February – 18 December 1916",
+    "lat": 49.21,
+    "lon": 5.43,
+    "category": "war",
+    "importance": 3,
+    "summary": "German and French armies fight for ten months around the fortress city of Verdun, one of the longest and costliest battles in history.",
+    "description": "The German Chief of Staff Erich von Falkenhayn attacked the fortified region of Verdun hoping, by his own later account, to bleed the French army white. French forces under Philippe Pétain and later Robert Nivelle held the line under the slogan 'They shall not pass', and by December had retaken most of the lost ground, including Fort Douaumont. Casualties totalled roughly 700,000 killed, wounded and missing, divided fairly evenly between the two sides. Verdun became a lasting symbol of French endurance and of the futility of attritional warfare.",
+    "wikipedia": "Battle of Verdun",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "western front",
+      "france"
+    ]
+  },
+  {
+    "id": "modern2-battle-of-the-somme",
+    "title": "Battle of the Somme",
+    "year": 1916.501,
+    "endYear": 1916.88,
+    "dateLabel": "1 July – 18 November 1916",
+    "lat": 50.05,
+    "lon": 2.69,
+    "category": "war",
+    "importance": 3,
+    "summary": "An Anglo-French offensive on the Somme costs over a million casualties; the British army suffers 57,000 casualties on the first day alone.",
+    "description": "Intended partly to relieve pressure on the French at Verdun, the offensive opened after a week-long bombardment that failed to cut the German wire or destroy deep dugouts. On 1 July the British army suffered about 57,000 casualties, including more than 19,000 dead, the bloodiest day in its history. Over four and a half months the Allies advanced only about 10 km, at a combined cost on all sides of more than one million casualties. The battle saw the first use of tanks in September 1916, and historians continue to debate whether its attritional effect on the German army justified the losses.",
+    "wikipedia": "Battle of the Somme",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "western front"
+    ]
+  },
+  {
+    "id": "modern2-october-revolution",
+    "title": "October Revolution: the Bolsheviks take power",
+    "year": 1917.851,
+    "dateLabel": "7 November 1917 (25 October, Old Style)",
+    "lat": 59.9398,
+    "lon": 30.3146,
+    "category": "politics",
+    "importance": 5,
+    "summary": "Lenin's Bolsheviks overthrow Russia's Provisional Government in Petrograd, founding the world's first communist state.",
+    "description": "The February Revolution of March 1917 had already forced Tsar Nicholas II to abdicate, ending three centuries of Romanov rule, but the Provisional Government that replaced him kept Russia in the war and lost popular support. On the night of 7–8 November, Bolshevik-led Red Guards seized key points in Petrograd and the Winter Palace, and Vladimir Lenin's Council of People's Commissars took power in the name of the soviets. The new regime made a separate peace with Germany at Brest-Litovsk in March 1918 and won a brutal civil war that lasted until about 1922, the year the Soviet Union was founded. The revolution shaped twentieth-century politics, inspiring communist movements worldwide and defining the ideological divide of the Cold War.",
+    "wikipedia": "October Revolution",
+    "consensus": "established",
+    "tags": [
+      "russia",
+      "communism",
+      "revolution"
+    ]
+  },
+  {
+    "id": "modern2-spanish-flu",
+    "title": "Spanish flu pandemic",
+    "year": 1918.122,
+    "endYear": 1920.329,
+    "dateLabel": "February 1918 – April 1920",
+    "lat": 39.07,
+    "lon": -96.79,
+    "global": true,
+    "category": "disaster",
+    "importance": 5,
+    "summary": "An H1N1 influenza pandemic infects about a third of the world's people and kills tens of millions, with estimates from 17 to 50 million or more.",
+    "description": "The pandemic spread in several waves, the deadliest in autumn 1918, carried by troop movements and wartime shipping to almost every inhabited region, including remote Pacific islands and the Arctic. Unusually, it killed many healthy young adults, often through secondary bacterial pneumonia, for which there were then no antibiotics. Its name comes from neutral Spain, whose uncensored press reported on it freely; the true origin is uncertain, with hypotheses including Kansas, where an early outbreak was recorded at Camp Funston in March 1918 (the place marked here), northern France and China. Death toll estimates range from about 17 million to 50 million or more, making it one of the deadliest pandemics in history.",
+    "wikipedia": "Spanish flu",
+    "consensus": "established",
+    "tags": [
+      "pandemic",
+      "influenza"
+    ]
+  },
+  {
+    "id": "modern2-armistice-of-compiegne",
+    "title": "Armistice ends the fighting of World War I",
+    "year": 1918.862,
+    "dateLabel": "11 November 1918",
+    "lat": 49.427,
+    "lon": 2.906,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Germany signs an armistice in a railway carriage near Compiègne, and the guns fall silent on the Western Front at 11 a.m.",
+    "description": "With its allies collapsing, its army in retreat and revolution spreading at home, Germany sought terms, and its delegates signed the armistice in Marshal Ferdinand Foch's railway carriage in the Forest of Compiègne at about 5 a.m. Fighting ended six hours later, at 11 a.m. Paris time, although men continued to die in attacks up to the final minutes. Kaiser Wilhelm II's abdication had been announced two days earlier, without his consent, as Germany was proclaimed a republic; he crossed into the Netherlands on 10 November and formally abdicated on 28 November. The date is marked as Armistice Day or Remembrance Day in many countries, and the formal peace terms followed at Versailles in 1919.",
+    "wikipedia": "Armistice of 11 November 1918",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "peace"
+    ]
+  },
+  {
+    "id": "modern2-treaty-of-versailles",
+    "title": "Treaty of Versailles",
+    "year": 1919.491,
+    "dateLabel": "28 June 1919",
+    "lat": 48.8049,
+    "lon": 2.1204,
+    "category": "politics",
+    "importance": 4,
+    "summary": "The Allies and Germany sign the main peace treaty of World War I in the Hall of Mirrors, imposing territorial losses, disarmament and reparations.",
+    "description": "Negotiated at the Paris Peace Conference largely by the leaders of Britain, France, the United States and Italy, the treaty was signed exactly five years after the Sarajevo assassination. Germany lost about 13 percent of its European territory and all its colonies, had its army limited to 100,000 men, and accepted responsibility for the war's damage under Article 231, the basis for reparations. The treaty also created the League of Nations. Its harshness was bitterly resented in Germany and has long been debated: some historians, following John Maynard Keynes, saw it as a cause of later instability, while others argue that its terms were less punitive than often claimed and that enforcement, not design, failed.",
+    "wikipedia": "Treaty of Versailles",
+    "consensus": "established",
+    "tags": [
+      "world war i",
+      "peace treaty",
+      "germany"
+    ]
+  },
+  {
+    "id": "modern2-league-of-nations",
+    "title": "League of Nations founded",
+    "year": 1920.026,
+    "dateLabel": "10 January 1920",
+    "lat": 46.2044,
+    "lon": 6.1432,
+    "category": "politics",
+    "importance": 3,
+    "summary": "The first worldwide intergovernmental organisation devoted to keeping the peace comes into being, with its headquarters in Geneva.",
+    "description": "The League was established when the Treaty of Versailles came into force, embodying US President Woodrow Wilson's vision of collective security, although the US Senate refused to ratify the treaty and the United States never joined. At its height in the 1930s it had 58 member states and achieved successes in settling minor disputes, resettling refugees and tackling disease, the drug trade and forced labour. It proved powerless against aggression by major powers, including Japan's invasion of Manchuria, Italy's conquest of Ethiopia and Germany's rearmament, and could not prevent World War II. It was formally dissolved in 1946, transferring its assets to the United Nations.",
+    "wikipedia": "League of Nations",
+    "consensus": "established",
+    "tags": [
+      "international organisation",
+      "peace"
+    ]
+  },
+  {
+    "id": "modern2-irish-free-state",
+    "title": "Irish Free State established",
+    "year": 1922.931,
+    "dateLabel": "6 December 1922",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "category": "politics",
+    "importance": 2,
+    "summary": "After the Irish War of Independence and the Anglo-Irish Treaty, 26 Irish counties become a self-governing dominion within the British Commonwealth.",
+    "description": "After the Easter Rising of 1916 and the guerrilla War of Independence from 1919 to 1921, the Anglo-Irish Treaty signed in December 1921 created the Irish Free State as a dominion, while six northeastern counties remained in the United Kingdom as Northern Ireland. Disagreement over the treaty, particularly the oath of allegiance to the Crown and partition, led to the Irish Civil War of 1922–23 between pro- and anti-treaty nationalists. The Free State gradually loosened its ties to Britain, adopting a new constitution as Éire in 1937 and becoming the Republic of Ireland in 1949.",
+    "wikipedia": "Irish Free State",
+    "consensus": "established",
+    "tags": [
+      "ireland",
+      "independence"
+    ]
+  },
+  {
+    "id": "modern2-march-on-rome",
+    "title": "March on Rome brings Mussolini to power",
+    "year": 1922.824,
+    "dateLabel": "28–30 October 1922",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Facing a Fascist march on the capital, King Victor Emmanuel III appoints Benito Mussolini prime minister of Italy.",
+    "description": "Mussolini's National Fascist Party, whose Blackshirt squads had used violence against socialists and trade unions since 1919, mobilised tens of thousands of supporters to converge on Rome. Rather than declare martial law, King Victor Emmanuel III invited Mussolini to form a government on 29 October, and the marchers entered the city afterwards. Over the following years Mussolini dismantled parliamentary democracy, and by 1926 Italy was a one-party dictatorship. Italian Fascism became a model for authoritarian movements across Europe, including German Nazism.",
+    "wikipedia": "March on Rome",
+    "consensus": "established",
+    "tags": [
+      "fascism",
+      "italy"
+    ]
+  },
+  {
+    "id": "modern2-tutankhamun-tomb",
+    "title": "Tomb of Tutankhamun discovered",
+    "year": 1922.843,
+    "dateLabel": "4 November 1922",
+    "lat": 25.7402,
+    "lon": 32.6014,
+    "category": "culture",
+    "importance": 2,
+    "summary": "Howard Carter finds the nearly intact tomb of the boy pharaoh Tutankhamun in Egypt's Valley of the Kings.",
+    "description": "Working for his patron Lord Carnarvon, the British archaeologist Howard Carter uncovered the first step of the tomb, designated KV62, on 4 November 1922, and the burial chamber was opened in February 1923. Though robbers had entered it in antiquity, it was the best-preserved royal tomb ever found in the Valley of the Kings, holding more than 5,000 objects including the solid gold inner coffin and the famous gold funerary mask. The discovery caused a worldwide sensation and a fashion for all things Egyptian, while Carnarvon's death in 1923 gave rise to the popular but unfounded legend of a 'curse of the pharaohs'.",
+    "wikipedia": "KV62",
+    "consensus": "established",
+    "tags": [
+      "archaeology",
+      "egypt"
+    ]
+  },
+  {
+    "id": "modern2-republic-of-turkey",
+    "title": "Republic of Turkey proclaimed",
+    "year": 1923.827,
+    "dateLabel": "29 October 1923",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "category": "empire",
+    "importance": 3,
+    "summary": "Mustafa Kemal proclaims the Republic of Turkey in Ankara, completing the end of the six-century-old Ottoman Empire.",
+    "description": "Defeated in World War I and facing partition under the Treaty of Sèvres, the Ottoman state was effectively supplanted by a nationalist movement led by Mustafa Kemal, which won the Turkish War of Independence against Greek, Armenian, French and British forces. The sultanate was abolished in November 1922, the Treaty of Lausanne of July 1923 recognised Turkey's borders, and the republic was proclaimed that October with Ankara as capital and Kemal as president. The caliphate was abolished in 1924, and Kemal, later surnamed Atatürk, pushed through sweeping secular and Westernising reforms, including a Latin-based alphabet and new civil code. The empire's former Arab provinces passed to British and French mandates.",
+    "wikipedia": "Mustafa Kemal Atatürk",
+    "consensus": "established",
+    "tags": [
+      "ottoman empire",
+      "turkey"
+    ]
+  },
+  {
+    "id": "modern2-penicillin",
+    "title": "Alexander Fleming discovers penicillin",
+    "year": 1928.741,
+    "dateLabel": "September 1928",
+    "lat": 51.5175,
+    "lon": -0.1745,
+    "category": "science",
+    "importance": 4,
+    "summary": "Fleming notices that a Penicillium mould kills bacteria on a culture plate in his London laboratory, the discovery behind the first true antibiotic.",
+    "description": "Returning from holiday to his laboratory at St Mary's Hospital, Paddington, the Scottish bacteriologist Alexander Fleming observed that a mould contaminating a Staphylococcus culture had cleared the bacteria around it, and he published the finding in 1929. He could not purify the active substance, and it was a team at Oxford led by Howard Florey and Ernst Chain, including Norman Heatley, that isolated penicillin and demonstrated its power in 1940–41. Mass production in the United States and Britain made it widely available to Allied forces by D-Day in 1944. Fleming, Florey and Chain shared the 1945 Nobel Prize, and antibiotics went on to transform medicine, though resistant bacteria are now a growing threat.",
+    "wikipedia": "History of penicillin",
+    "consensus": "established",
+    "tags": [
+      "medicine",
+      "antibiotics"
+    ]
+  },
+  {
+    "id": "modern2-great-depression",
+    "title": "Wall Street Crash and the Great Depression",
+    "year": 1929.827,
+    "endYear": 1939,
+    "dateLabel": "Black Tuesday, 29 October 1929; depression through the 1930s",
+    "lat": 40.7069,
+    "lon": -74.0113,
+    "global": true,
+    "category": "economy",
+    "importance": 5,
+    "summary": "The collapse of US stock prices in October 1929 is followed by the worst economic depression of the industrial era, spreading to almost every country.",
+    "description": "After a speculative boom, the New York Stock Exchange crashed on 24 and 28–29 October 1929, and a wave of bank failures, collapsing demand and falling prices followed. Between 1929 and 1932 world industrial production and trade fell sharply, and US unemployment reached about 25 percent by 1933, with similar hardship in Germany and much of the commodity-exporting world. Economists still debate the relative roles of the crash, the gold standard, monetary contraction by central banks and protectionist tariffs such as Smoot–Hawley. The Depression discredited laissez-faire economics, gave rise to the New Deal and Keynesian ideas, and fuelled the rise of extremist movements, including Nazism in Germany.",
+    "wikipedia": "Great Depression",
+    "consensus": "established",
+    "tags": [
+      "economy",
+      "stock market"
+    ]
+  },
+  {
+    "id": "modern2-holodomor",
+    "title": "Holodomor: famine in Soviet Ukraine",
+    "year": 1932.456,
+    "endYear": 1933.872,
+    "dateLabel": "1932–1933",
+    "lat": 49.9935,
+    "lon": 36.2304,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "A man-made famine caused by Stalin's forced collectivisation and grain requisitions kills an estimated 3.5 to 5 million people in Ukraine.",
+    "description": "Forced collectivisation of agriculture and impossible grain-procurement quotas devastated Soviet farming in 1932–33, and famine struck Ukraine, Kazakhstan, the North Caucasus and the Volga region. In Ukraine, whose capital was then Kharkiv, the authorities blacklisted villages that failed to meet quotas, confiscated remaining food and, from January 1933, restricted peasants from leaving in search of food. Most estimates put Ukrainian deaths at roughly 3.5 to 5 million, and at least 1.5 million people died in the parallel famine in Kazakhstan. Whether the Ukrainian famine was a deliberate genocide against Ukrainians as a nation is debated by historians; Ukraine and many other states recognise it as genocide, while some scholars see it primarily as the result of brutal policies applied across the Soviet Union.",
+    "wikipedia": "Holodomor",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "soviet union",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "modern2-hitler-appointed-chancellor",
+    "title": "Hitler becomes Chancellor of Germany",
+    "year": 1933.079,
+    "dateLabel": "30 January 1933",
+    "lat": 52.5115,
+    "lon": 13.3826,
+    "category": "politics",
+    "importance": 4,
+    "summary": "President Hindenburg appoints Nazi leader Adolf Hitler chancellor; within months Germany becomes a one-party dictatorship.",
+    "description": "The Nazi Party had become the largest party in the Reichstag in July 1932 amid mass unemployment, and conservative politicians around Franz von Papen persuaded President Paul von Hindenburg to appoint Hitler at the head of a coalition, believing they could control him. After the Reichstag fire of 27 February 1933, emergency decrees suspended civil liberties, and the Enabling Act of March gave the cabinet power to make laws without parliament. By July all other parties had been banned or dissolved, and after Hindenburg's death in August 1934 Hitler combined the offices of chancellor and president as Führer. The regime soon began persecuting Jews, political opponents and other groups, and rearmed Germany in preparation for war.",
+    "wikipedia": "Adolf Hitler's rise to power",
+    "consensus": "established",
+    "tags": [
+      "nazi germany",
+      "dictatorship"
+    ]
+  },
+  {
+    "id": "modern2-great-purge",
+    "title": "Stalin's Great Purge",
+    "year": 1936.633,
+    "endYear": 1938.878,
+    "dateLabel": "August 1936 – November 1938",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Stalin's secret police arrest some 1.5 million people and execute about 680,000 in 1937–38 alone in a campaign of political terror.",
+    "description": "Following the murder of Leningrad party chief Sergei Kirov in 1934, Joseph Stalin's regime turned on supposed enemies within the Communist Party, the state, the Red Army and society at large. Show trials in Moscow convicted leading Old Bolsheviks such as Grigory Zinoviev, Lev Kamenev and Nikolai Bukharin on fabricated charges, while the NKVD's mass operations of 1937–38 targeted peasants, ethnic minorities and ordinary citizens under arrest quotas. Official records show about 680,000 executions in those two years, with hundreds of thousands more dying in the Gulag labour camps. The purge of the officer corps weakened the Red Army on the eve of World War II.",
+    "wikipedia": "Great Purge",
+    "consensus": "established",
+    "tags": [
+      "soviet union",
+      "stalin",
+      "repression"
+    ]
+  },
+  {
+    "id": "modern2-spanish-civil-war",
+    "title": "Spanish Civil War",
+    "year": 1936.544,
+    "endYear": 1939.251,
+    "dateLabel": "17 July 1936 – 1 April 1939",
+    "lat": 40.4168,
+    "lon": -3.7038,
+    "category": "war",
+    "importance": 3,
+    "summary": "A military uprising against Spain's Republic leads to a three-year civil war won by General Francisco Franco's Nationalists.",
+    "description": "A coup by right-wing army officers against the elected Popular Front government split Spain between Republicans, supported by the Soviet Union, Mexico and volunteer International Brigades, and Nationalists, backed by Fascist Italy and Nazi Germany. The war became a testing ground for new weapons and tactics, epitomised by the German bombing of Guernica in April 1937, which Pablo Picasso commemorated in his painting. Estimates of deaths, including executions behind both lines, run from about 300,000 to 500,000. Franco ruled Spain as a dictator until his death in 1975.",
+    "wikipedia": "Spanish Civil War",
+    "consensus": "established",
+    "tags": [
+      "civil war",
+      "spain",
+      "fascism"
+    ]
+  },
+  {
+    "id": "modern2-second-sino-japanese-war",
+    "title": "Second Sino-Japanese War",
+    "year": 1937.514,
+    "endYear": 1945.671,
+    "dateLabel": "7 July 1937 – 2 September 1945",
+    "lat": 39.8496,
+    "lon": 116.2134,
+    "category": "war",
+    "importance": 4,
+    "summary": "A clash at the Marco Polo Bridge near Beijing grows into full-scale war between Japan and China that merges into World War II and kills millions of Chinese.",
+    "description": "Japan had seized Manchuria in 1931 and set up the puppet state of Manchukuo, and a skirmish at the Marco Polo Bridge outside Beiping (Beijing) on 7 July 1937 escalated into all-out war. Japanese forces took Shanghai, the Nationalist capital Nanjing, where they carried out a notorious massacre, and Wuhan, and by the end of 1938 held most of eastern China's coast, major cities and railways, while Chiang Kai-shek's government retreated to Chongqing. The Nationalists and Mao Zedong's Communists formed an uneasy united front, and the war settled into a costly stalemate marked by the bombing of cities, Japanese 'Three Alls' reprisal campaigns and chemical and biological warfare, and the deliberate breaching of the Yellow River dikes by Nationalist forces in 1938. After the attack on Pearl Harbor in December 1941 the conflict merged into World War II, and it ended with Japan's surrender in 1945. Chinese deaths, military and civilian, are commonly estimated at about 14 to 20 million, and the war weakened the Nationalists and helped the Communists win the civil war that followed.",
+    "wikipedia": "Second Sino-Japanese War",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "china",
+      "japan"
+    ]
+  },
+  {
+    "id": "modern2-nanjing-massacre",
+    "title": "Nanjing Massacre",
+    "year": 1937.95,
+    "endYear": 1938.082,
+    "dateLabel": "13 December 1937 – January 1938",
+    "lat": 32.0603,
+    "lon": 118.7969,
+    "category": "war",
+    "importance": 3,
+    "summary": "Japanese troops capturing China's capital kill tens of thousands to hundreds of thousands of civilians and prisoners over about six weeks.",
+    "description": "After the Marco Polo Bridge Incident of July 1937 escalated into full-scale war between Japan and China, Japanese forces captured Nanjing, then the Nationalist capital, on 13 December. Over the following weeks soldiers carried out mass killings of disarmed troops and civilians, widespread rape and looting, while a small group of Westerners organised a safety zone that sheltered many residents. Estimates of the dead vary widely, from about 40,000 to over 300,000; the postwar Tokyo tribunal put the figure above 200,000 and China officially cites 300,000. Denial or minimisation by some Japanese nationalists remains a source of tension between the two countries.",
+    "wikipedia": "Nanjing Massacre",
+    "consensus": "established",
+    "tags": [
+      "second sino-japanese war",
+      "war crimes",
+      "china"
+    ]
+  },
+  {
+    "id": "modern2-world-war-ii",
+    "title": "World War II",
+    "year": 1939.668,
+    "endYear": 1945.671,
+    "dateLabel": "1 September 1939 – 2 September 1945",
+    "lat": 52.52,
+    "lon": 13.405,
+    "global": true,
+    "category": "war",
+    "importance": 5,
+    "summary": "The deadliest conflict in history, fought between the Axis and the Allies across Europe, Asia, Africa and the oceans, kills 70–85 million people.",
+    "description": "The war in Europe began with Germany's invasion of Poland, while in Asia fighting between Japan and China had been under way since 1937. Germany, Italy, Japan and their allies (the Axis) initially conquered much of Europe, North Africa, East Asia and the Pacific, before the alliance of the British Empire, the Soviet Union, the United States, China and others (the Allies) reversed their gains from 1942–43. Most of the dead were civilians, killed by genocide including the Holocaust, by bombing, massacres, famine and disease. The war ended with Germany's surrender in May 1945 and Japan's in August–September after the atomic bombings. It left the United States and the Soviet Union as rival superpowers, led to the founding of the United Nations, and accelerated decolonisation.",
+    "wikipedia": "World War II",
+    "consensus": "established",
+    "tags": [
+      "world war ii"
+    ]
+  },
+  {
+    "id": "modern2-invasion-of-poland",
+    "title": "Germany invades Poland",
+    "year": 1939.668,
+    "endYear": 1939.765,
+    "dateLabel": "1 September – 6 October 1939",
+    "lat": 54.4068,
+    "lon": 18.6713,
+    "category": "war",
+    "importance": 3,
+    "summary": "German forces attack Poland, prompting Britain and France to declare war; the Soviet Union invades from the east on 17 September.",
+    "description": "The campaign opened with the shelling of the Polish garrison at Westerplatte near Danzig (Gdańsk) by the battleship Schleswig-Holstein and a massive assault by German armoured and air forces. Britain and France declared war on Germany on 3 September but offered little direct help. Under the secret protocol of the Molotov–Ribbentrop Pact signed in August, the Soviet Union invaded eastern Poland on 17 September, and the country was partitioned between the two powers by early October. Both occupiers carried out mass repression, including the Soviet Katyn massacre of Polish officers in 1940 and German persecution that culminated in the Holocaust.",
+    "wikipedia": "Invasion of Poland",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "poland"
+    ]
+  },
+  {
+    "id": "modern2-battle-of-britain",
+    "title": "Battle of Britain",
+    "year": 1940.526,
+    "endYear": 1940.832,
+    "dateLabel": "10 July – 31 October 1940",
+    "lat": 51.33,
+    "lon": 0.03,
+    "category": "war",
+    "importance": 2,
+    "summary": "RAF Fighter Command defeats the German Luftwaffe's attempt to win air superiority over Britain, forcing Hitler to postpone an invasion.",
+    "description": "After the fall of France in June 1940, Germany sought control of the air over southern England as a precondition for a seaborne invasion, codenamed Operation Sea Lion. The Royal Air Force, aided by a radar-based early-warning and control system and by pilots from across the Commonwealth, Poland and Czechoslovakia, inflicted unsustainable losses on the Luftwaffe. From September Germany shifted to bombing London and other cities in the Blitz, which continued into May 1941. The battle, the first fought mainly in the air, kept Britain in the war as a base for the later liberation of Western Europe.",
+    "wikipedia": "Battle of Britain",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "air war"
+    ]
+  },
+  {
+    "id": "modern2-operation-barbarossa",
+    "title": "Operation Barbarossa: Germany invades the USSR",
+    "year": 1941.474,
+    "endYear": 1941.929,
+    "dateLabel": "22 June – 5 December 1941",
+    "lat": 52.0827,
+    "lon": 23.6556,
+    "category": "war",
+    "importance": 3,
+    "summary": "Some 3.8 million Axis troops invade the Soviet Union along a front of about 2,900 km, the largest land invasion in history.",
+    "description": "Breaking the 1939 non-aggression pact, Germany and its allies attacked on a front from the Baltic to the Black Sea, opening the war's largest and deadliest theatre; among the first targets was the border fortress of Brest, marked here. The Soviet defenders were caught largely unprepared, and by autumn the Germans had encircled millions of Red Army soldiers, besieged Leningrad and reached the outskirts of Moscow. The offensive stalled in mud and cold, and a Soviet counteroffensive launched on 5 December pushed the Germans back from the capital. Conceived as a war of annihilation, the invasion was accompanied by mass shootings of Jews by the Einsatzgruppen, and about 2 million Soviet prisoners captured that year had died in German captivity by early 1942, mostly of starvation.",
+    "wikipedia": "Operation Barbarossa",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "eastern front",
+      "soviet union"
+    ]
+  },
+  {
+    "id": "modern2-the-holocaust",
+    "title": "The Holocaust",
+    "year": 1941,
+    "endYear": 1945.353,
+    "dateLabel": "1941–1945 (persecution from 1933)",
+    "lat": 50.0359,
+    "lon": 19.1783,
+    "category": "war",
+    "importance": 5,
+    "summary": "Nazi Germany and its collaborators systematically murder about six million European Jews, along with millions of others they deemed undesirable.",
+    "description": "Persecution of Jews in Germany began after the Nazis took power in 1933, escalating through the Nuremberg Laws of 1935 and the Kristallnacht pogrom of 1938. After the invasion of the Soviet Union in June 1941, mobile killing units shot well over a million Jews, and the regime moved to the 'Final Solution', coordinated at the Wannsee Conference in January 1942, deporting Jews from across occupied Europe to extermination camps such as Treblinka, Sobibor, Bełżec and Auschwitz-Birkenau; at Auschwitz alone about 1.1 million people were murdered. In total about six million Jews, roughly two-thirds of Europe's Jewish population, were killed. The Nazis also murdered Roma, disabled people, Soviet prisoners of war, Poles and other groups. The Holocaust shaped postwar international law, including the concept of genocide and the Genocide Convention of 1948.",
+    "wikipedia": "The Holocaust",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "nazi germany",
+      "world war ii"
+    ]
+  },
+  {
+    "id": "modern2-attack-on-pearl-harbor",
+    "title": "Attack on Pearl Harbor",
+    "year": 1941.934,
+    "dateLabel": "7 December 1941",
+    "lat": 21.365,
+    "lon": -157.95,
+    "category": "war",
+    "importance": 4,
+    "summary": "A surprise Japanese carrier air raid on the US Pacific Fleet in Hawaii kills about 2,400 Americans and brings the United States into the war.",
+    "description": "Seeking to secure the resources of Southeast Asia after a US oil embargo, Japan launched some 350 aircraft from six carriers against the naval base at Pearl Harbor on Oahu, sinking or damaging eight battleships. The US aircraft carriers were at sea and escaped, and the base's fuel depots and repair facilities were largely spared. Within hours Japan also attacked the Philippines, Malaya, Hong Kong, Guam and Wake Island. The United States declared war on Japan the next day, and Germany and Italy declared war on the United States on 11 December, joining the European and Asian wars into a single global conflict.",
+    "wikipedia": "Attack on Pearl Harbor",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "pacific war",
+      "united states",
+      "japan"
+    ]
+  },
+  {
+    "id": "modern2-battle-of-stalingrad",
+    "title": "Battle of Stalingrad",
+    "year": 1942.644,
+    "endYear": 1943.087,
+    "dateLabel": "23 August 1942 – 2 February 1943",
+    "lat": 48.708,
+    "lon": 44.513,
+    "category": "war",
+    "importance": 4,
+    "summary": "The Soviet Red Army destroys the German Sixth Army at Stalingrad on the Volga, a turning point of the war in Europe.",
+    "description": "The German summer offensive of 1942 aimed at the oil fields of the Caucasus, and the city bearing Stalin's name on the Volga became the scene of months of brutal street fighting. In November 1942 the Soviet counteroffensive, Operation Uranus, broke through the Romanian-held flanks and encircled about 300,000 Axis troops. Field Marshal Friedrich Paulus surrendered with the southern pocket on 31 January 1943, and the last Sixth Army troops in the northern pocket gave up on 2 February; only about 6,000 of the roughly 91,000 prisoners taken eventually returned home. With combined military and civilian casualties often estimated at close to 2 million, it was among the bloodiest battles in history.",
+    "wikipedia": "Battle of Stalingrad",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "eastern front",
+      "soviet union"
+    ]
+  },
+  {
+    "id": "modern2-bengal-famine-of-1943",
+    "title": "Bengal famine of 1943",
+    "year": 1943,
+    "endYear": 1944.99,
+    "dateLabel": "1943–1944",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "category": "disaster",
+    "importance": 3,
+    "summary": "Famine in wartime British-ruled Bengal kills an estimated 2 to 3 million people, as food prices soar and relief comes late.",
+    "description": "In 1942–43 Bengal suffered a series of shocks: the Japanese conquest of Burma cut off rice imports, a cyclone in October 1942 and a fungal disease damaged the rice crop, and wartime military spending drove rapid inflation. The colonial authorities' 'denial policy' removed boats and rice from coastal districts feared to lie in the path of a Japanese invasion, provincial trade barriers and hoarding pushed prices beyond the reach of the rural poor, famine was never officially declared, relief was slow, and the British War Cabinet limited food shipments to India. Most victims were landless labourers, fishermen and artisans in rural Bengal, hundreds of thousands of destitute people crowded into Calcutta, and many died of cholera, malaria and other diseases rather than outright starvation. Estimates of the death toll range from about 1.5 million, the figure of the official inquiry, to more than 3 million, and historians still debate the relative weight of crop failure, market and administrative failure, and decisions taken in London. The economist Amartya Sen, who witnessed the famine as a child, later used it to argue that famines are often caused by a collapse in people's ability to buy food rather than by a shortage of food alone.",
+    "wikipedia": "Bengal famine of 1943",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "india",
+      "british empire",
+      "world war ii"
+    ]
+  },
+  {
+    "id": "modern2-philadelphia-experiment-claim",
+    "title": "Philadelphia Experiment (fringe claim)",
+    "year": 1943.824,
+    "dateLabel": "Claimed 28 October 1943",
+    "lat": 39.8895,
+    "lon": -75.1765,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "A popular legend claims the US Navy made the destroyer escort USS Eldridge invisible and teleported it from Philadelphia to Norfolk, Virginia.",
+    "description": "The story originated in 1955–56 in letters sent to the UFO writer Morris K. Jessup by a man calling himself Carlos Miguel Allende (real name Carl Meredith Allen), who claimed to have watched the ship vanish in a greenish fog at the Philadelphia Navy Yard and reappear briefly at Norfolk, with crew members fused into the hull or driven insane. Allende linked the alleged experiment to Albert Einstein's work on a unified field theory. The tale was popularised by Charles Berlitz and William Moore's 1979 book and the 1984 film 'The Philadelphia Experiment', and it remains a staple of conspiracy literature about secret military technology.",
+    "wikipedia": "Philadelphia Experiment",
+    "consensus": "fringe",
+    "mainstreamView": "The US Navy's Office of Naval Research states that no such experiment took place, and Einstein never completed a unified field theory, let alone one that could be applied to ships. The Eldridge's surviving records and the accounts of men who served aboard it contradict the story, and Allende's own statements were inconsistent: at one point he admitted inventing it before retracting the admission. Historians suggest the legend grew out of genuine wartime research on degaussing, which made ships harder for magnetic mines to detect, 'invisible' only in that narrow sense.",
+    "tags": [
+      "fringe",
+      "conspiracy theory",
+      "us navy"
+    ]
+  },
+  {
+    "id": "modern2-d-day",
+    "title": "D-Day: Allied landings in Normandy",
+    "year": 1944.431,
+    "dateLabel": "6 June 1944",
+    "lat": 49.35,
+    "lon": -0.75,
+    "category": "war",
+    "importance": 4,
+    "summary": "About 156,000 American, British, Canadian and other Allied troops land in Normandy by sea and air in the largest seaborne invasion in history.",
+    "description": "Operation Overlord, commanded by General Dwight D. Eisenhower, opened with airborne drops overnight followed by landings on beaches codenamed Utah, Omaha, Gold, Juno and Sword, supported by nearly 7,000 vessels and some 11,000 aircraft. An elaborate deception plan, Operation Fortitude, had persuaded German commanders that the main attack would come at Calais. Allied casualties on the first day were at least 10,000, with the heaviest losses at Omaha Beach. The beachhead held, Paris was liberated in August, and the opening of this Western Front, together with Soviet advances in the east, sealed Germany's defeat.",
+    "wikipedia": "Normandy landings",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "western front",
+      "france"
+    ]
+  },
+  {
+    "id": "modern2-ve-day",
+    "title": "Germany surrenders: Victory in Europe",
+    "year": 1945.353,
+    "dateLabel": "8 May 1945",
+    "lat": 52.4862,
+    "lon": 13.5265,
+    "category": "war",
+    "importance": 3,
+    "summary": "Germany's unconditional surrender takes effect, ending World War II in Europe a week after Hitler's suicide in besieged Berlin.",
+    "description": "As Soviet forces stormed Berlin, Adolf Hitler killed himself on 30 April 1945, and his designated successor Karl Dönitz authorised surrender. General Alfred Jodl signed the unconditional surrender at Eisenhower's headquarters in Reims on 7 May, and a further signing took place at the Soviet headquarters in Berlin-Karlshorst late on 8 May, when it was already 9 May in Moscow, which is why Russia and several other countries mark victory on 9 May. The war in Europe had killed tens of millions and left the continent in ruins, divided into zones of occupation that foreshadowed the Cold War split between East and West.",
+    "wikipedia": "Victory in Europe Day",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "germany"
+    ]
+  },
+  {
+    "id": "modern2-united-nations",
+    "title": "United Nations founded",
+    "year": 1945.485,
+    "dateLabel": "Charter signed 26 June 1945; in force 24 October 1945",
+    "lat": 37.7785,
+    "lon": -122.4209,
+    "category": "politics",
+    "importance": 4,
+    "summary": "Fifty nations sign the United Nations Charter in San Francisco, creating a new organisation to maintain international peace and security.",
+    "description": "Delegates from 50 countries drafted the charter at the San Francisco Conference, building on plans developed by the wartime Allies at Dumbarton Oaks and Yalta. The UN came into existence on 24 October 1945 once the five permanent members of the Security Council (China, France, the Soviet Union, the United Kingdom and the United States) and a majority of other signatories had ratified it. Unlike the League of Nations it included all the major powers, though their veto in the Security Council often paralysed it during the Cold War. Its specialised agencies, peacekeeping missions and the Universal Declaration of Human Rights of 1948 became central to postwar international cooperation, and its membership grew to 188 states by 1999 as decolonisation created new nations.",
+    "wikipedia": "United Nations",
+    "consensus": "established",
+    "tags": [
+      "international organisation",
+      "peace",
+      "human rights"
+    ]
+  },
+  {
+    "id": "modern2-hiroshima-nagasaki",
+    "title": "Atomic bombings of Hiroshima and Nagasaki",
+    "year": 1945.598,
+    "endYear": 1945.606,
+    "dateLabel": "6 and 9 August 1945",
+    "lat": 34.3955,
+    "lon": 132.4536,
+    "category": "war",
+    "importance": 5,
+    "summary": "US atomic bombs destroy Hiroshima and Nagasaki, killing an estimated 150,000 to 246,000 people, mostly civilians, by the end of 1945.",
+    "description": "Developed by the Manhattan Project and first tested at the Trinity site in New Mexico on 16 July 1945, the uranium bomb 'Little Boy' destroyed most of Hiroshima on 6 August, and the plutonium bomb 'Fat Man' devastated Nagasaki three days later. Blast, fire and radiation killed tens of thousands instantly and many more in the following months. Together with the Soviet declaration of war on Japan on 8 August, the bombings led Emperor Hirohito to announce Japan's surrender on 15 August. Whether they were necessary to end the war without an invasion remains debated by historians. They are the only use of nuclear weapons in war and opened the nuclear age.",
+    "wikipedia": "Atomic bombings of Hiroshima and Nagasaki",
+    "consensus": "established",
+    "tags": [
+      "nuclear weapons",
+      "world war ii",
+      "japan"
+    ]
+  },
+  {
+    "id": "modern2-surrender-of-japan",
+    "title": "Japan surrenders, ending World War II",
+    "year": 1945.671,
+    "dateLabel": "Announced 15 August 1945; signed 2 September 1945",
+    "lat": 35.355,
+    "lon": 139.76,
+    "category": "war",
+    "importance": 3,
+    "summary": "Japan formally signs the instrument of surrender aboard USS Missouri in Tokyo Bay, bringing World War II to an end.",
+    "description": "Emperor Hirohito broadcast Japan's acceptance of the Allied terms on 15 August, the first time most Japanese had heard his voice, and that day is commemorated as Victory over Japan (VJ) Day in Britain and elsewhere. The formal surrender was signed on 2 September in Tokyo Bay before General Douglas MacArthur and representatives of the Allied nations, the date the United States marks as V-J Day. Japanese forces across Asia surrendered over the following weeks, and Japan was occupied by the Allies until 1952, adopting a new pacifist constitution in 1947. Korea was divided at the 38th parallel between Soviet and US occupation zones.",
+    "wikipedia": "Surrender of Japan",
+    "consensus": "established",
+    "tags": [
+      "world war ii",
+      "japan",
+      "pacific war"
+    ]
+  },
+  {
+    "id": "modern2-bikini-atoll-nuclear-tests",
+    "title": "US nuclear tests at Bikini Atoll",
+    "year": 1946.501,
+    "endYear": 1958.558,
+    "dateLabel": "1946–1958",
+    "lat": 11.6,
+    "lon": 165.38,
+    "category": "technology",
+    "importance": 2,
+    "summary": "The United States detonates 23 nuclear devices at Bikini Atoll in the Marshall Islands, displacing its people and contaminating the region.",
+    "description": "The islanders of Bikini were relocated in 1946 so that the US could test atomic bombs on a fleet of target warships in Operation Crossroads. On 1 March 1954 the hydrogen bomb test Castle Bravo yielded 15 megatons, far more than expected, and its fallout contaminated inhabited atolls such as Rongelap and the crew of the Japanese fishing boat Daigo Fukuryū Maru, fuelling a worldwide movement against atmospheric testing. Attempts to resettle Bikini in the 1970s were abandoned when residents absorbed high levels of radiation, and the atoll remains largely uninhabited. Britain and later France also tested nuclear weapons in the Pacific. The Partial Test Ban Treaty of 1963 ended atmospheric tests by its signatories, but France, which did not sign it, continued atmospheric testing at Moruroa until 1974, and China until 1980.",
+    "wikipedia": "Nuclear testing at Bikini Atoll",
+    "consensus": "established",
+    "tags": [
+      "nuclear weapons",
+      "pacific",
+      "marshall islands"
+    ]
+  },
+  {
+    "id": "modern2-cold-war",
+    "title": "Cold War",
+    "year": 1947.193,
+    "endYear": 1991.985,
+    "dateLabel": "1947–1991",
+    "lat": 52.5075,
+    "lon": 13.3904,
+    "global": true,
+    "category": "politics",
+    "importance": 5,
+    "summary": "The US and the Soviet Union, with their allies, wage a decades-long rivalry of ideology, arms races and proxy wars without fighting each other directly.",
+    "description": "After World War II the wartime alliance broke down as the Soviet Union imposed communist governments in Eastern Europe and the United States, announcing the Truman Doctrine in March 1947, committed itself to containing communism. Europe was divided by an 'Iron Curtain' between NATO and the Warsaw Pact, and the two superpowers built nuclear arsenals large enough to destroy each other, a standoff of 'mutually assured destruction' that came closest to open war in the Cuban Missile Crisis of 1962. The rivalry was fought indirectly through proxy wars and interventions in Korea, Vietnam, Afghanistan, Angola, Central America and elsewhere, and through competition in propaganda, espionage and the Space Race. Periods of tension alternated with détente, and the conflict wound down after Mikhail Gorbachev's reforms, the revolutions of 1989 in Eastern Europe and the dissolution of the Soviet Union in December 1991. Historians date its start anywhere from 1945 to 1947 and still debate its causes; it is marked here at Checkpoint Charlie in Berlin, the divided city that symbolised it.",
+    "wikipedia": "Cold War",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "united states",
+      "soviet union",
+      "nuclear weapons"
+    ]
+  },
+  {
+    "id": "modern2-roswell-ufo-claim",
+    "title": "Roswell UFO crash and cover-up (fringe claim)",
+    "year": 1947.52,
+    "dateLabel": "Claimed early July 1947",
+    "lat": 33.3943,
+    "lon": -104.523,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "UFO believers claim an alien spacecraft crashed near Roswell, New Mexico, and that the US government recovered it and its crew and hid the evidence.",
+    "description": "In early July 1947 a rancher, Mac Brazel, reported debris of foil, rubber, tape and sticks found on his land, and on 8 July Roswell Army Air Field issued a press release saying it had recovered a 'flying disc', retracted within a day in favour of a weather balloon. The incident was largely forgotten until 1978, when the ufologist Stanton Friedman interviewed Jesse Marcel, the officer who had collected the debris, and books in the 1980s and 1990s expanded the story to include alien bodies, autopsies and a decades-long government cover-up. Roswell became the best-known UFO story in the world, and a tourist industry grew up around it.",
+    "wikipedia": "Roswell incident",
+    "consensus": "fringe",
+    "mainstreamView": "Declassified investigations show the debris came from Project Mogul, a secret US Army Air Forces programme flying long trains of balloons and radar reflectors to detect Soviet nuclear tests, which explains both the materials described in 1947 and the military secrecy. A 1995 congressional audit by the General Accounting Office and US Air Force reports in 1994 and 1997 found no evidence of an alien craft; the Air Force attributed later accounts of 'alien bodies' to conflated memories of anthropomorphic test dummies dropped in the 1950s and of military aircraft accidents. No physical evidence of extraterrestrial material has ever been produced.",
+    "tags": [
+      "fringe",
+      "ufo",
+      "conspiracy theory"
+    ]
+  },
+  {
+    "id": "modern2-partition-of-india",
+    "title": "Independence and Partition of India",
+    "year": 1947.622,
+    "dateLabel": "14–15 August 1947",
+    "lat": 31.6047,
+    "lon": 74.5729,
+    "category": "empire",
+    "importance": 4,
+    "summary": "British India gains independence as two states, India and Pakistan; partition triggers mass migration and communal violence.",
+    "description": "After decades of nationalist struggle led by the Indian National Congress, including Mahatma Gandhi's campaigns of nonviolent civil disobedience, Britain transferred power on 14–15 August 1947, partitioning the subcontinent largely along religious lines into Hindu-majority India and Muslim-majority Pakistan, which included East Bengal (later Bangladesh). The new borders, drawn hastily by the British lawyer Cyril Radcliffe, split the provinces of Punjab and Bengal. Between 10 and 20 million people crossed the new borders, and estimates of those killed in communal violence range from several hundred thousand to two million. The dispute over Kashmir led to the first of several India–Pakistan wars, and Gandhi was assassinated by a Hindu nationalist in January 1948.",
+    "wikipedia": "Partition of India",
+    "consensus": "established",
+    "tags": [
+      "decolonisation",
+      "india",
+      "pakistan",
+      "south asia"
+    ]
+  },
+  {
+    "id": "modern2-transistor",
+    "title": "Invention of the transistor",
+    "year": 1947.958,
+    "dateLabel": "16–23 December 1947",
+    "lat": 40.6837,
+    "lon": -74.4011,
+    "category": "technology",
+    "importance": 3,
+    "summary": "John Bardeen and Walter Brattain, in William Shockley's group at Bell Labs, build the first working transistor, the foundation of modern electronics.",
+    "description": "The point-contact transistor, made from a slab of germanium with gold contacts, amplified electrical signals without the bulky, power-hungry vacuum tubes then used in radios, telephones and early computers. Shockley conceived the more practical junction transistor in 1948 (first built in 1950–51), and the three men shared the 1956 Nobel Prize in Physics. Transistors made electronics small, cheap and reliable, leading to the integrated circuit (1958–59), the microprocessor (1971) and, in turn, personal computers and mobile phones; by the end of the century a single chip could hold millions of transistors.",
+    "wikipedia": "Transistor",
+    "consensus": "established",
+    "tags": [
+      "electronics",
+      "bell labs",
+      "computing"
+    ]
+  },
+  {
+    "id": "modern2-israel-and-the-nakba",
+    "title": "Israel founded; the 1948 war and the Nakba",
+    "year": 1948.37,
+    "endYear": 1949.552,
+    "dateLabel": "14 May 1948 – July 1949 (fighting from November 1947)",
+    "lat": 32.0636,
+    "lon": 34.7706,
+    "category": "war",
+    "importance": 4,
+    "summary": "Israel declares independence as the British Mandate ends; in the ensuing war about 700,000 Palestinian Arabs flee or are expelled.",
+    "description": "Following the UN General Assembly's partition plan of November 1947, civil war broke out in Mandatory Palestine, and on 14 May 1948 David Ben-Gurion proclaimed the State of Israel in Tel Aviv. Egypt, Transjordan, Syria, Iraq and Lebanon intervened the next day, and by the armistice agreements of 1949 Israel controlled about 78 percent of the former mandate, with Jordan holding the West Bank and East Jerusalem and Egypt the Gaza Strip. Around 700,000 Palestinian Arabs fled or were expelled from their homes, an event Palestinians call the Nakba ('catastrophe'), and Israel barred their return; the causes of the exodus were long contested, but archival research since the 1980s has documented both expulsions and flight. Over the following decades roughly 800,000 to 900,000 Jews left or were driven from Arab and other Muslim-majority countries, most of them settling in Israel. The war's outcome shaped the Arab–Israeli conflict for the rest of the century.",
+    "wikipedia": "1948 Palestine war",
+    "consensus": "established",
+    "tags": [
+      "israel",
+      "palestine",
+      "middle east",
+      "refugees"
+    ]
+  },
+  {
+    "id": "modern2-apartheid",
+    "title": "Apartheid in South Africa",
+    "year": 1948.402,
+    "endYear": 1994.321,
+    "dateLabel": "1948–1994",
+    "lat": -33.9258,
+    "lon": 18.4232,
+    "category": "politics",
+    "importance": 3,
+    "summary": "South Africa's National Party government imposes apartheid, a legal system of racial segregation and white minority rule that lasts until 1994.",
+    "description": "After the National Party won the whites-only general election of May 1948, it built on earlier segregation with laws classifying every person by race, banning mixed marriages, segregating residential areas, public facilities and education, and stripping Black South Africans of citizenship through nominally independent 'homelands'. Resistance by the African National Congress and others met with bans and repression, including the Sharpeville massacre of 1960, the imprisonment of Nelson Mandela from 1962, and the killing of students during the Soweto uprising of 1976. International sanctions, economic decline and sustained internal resistance led President F. W. de Klerk to lift the ban on the ANC and release Mandela in February 1990, opening negotiations that ended apartheid with the 1994 elections.",
+    "wikipedia": "Apartheid",
+    "consensus": "established",
+    "tags": [
+      "south africa",
+      "segregation",
+      "civil rights"
+    ]
+  },
+  {
+    "id": "modern2-berlin-blockade-and-airlift",
+    "title": "Berlin Blockade and Airlift",
+    "year": 1948.48,
+    "endYear": 1949.364,
+    "dateLabel": "24 June 1948 – 12 May 1949",
+    "lat": 52.4731,
+    "lon": 13.4039,
+    "category": "politics",
+    "importance": 2,
+    "summary": "When the Soviet Union blocks land access to West Berlin, Western allies supply the city's two million people by air for nearly a year.",
+    "description": "The Soviet Union cut road, rail and canal links to the western sectors of Berlin in response to the introduction of a new currency, the Deutsche Mark, in the western occupation zones. The United States, Britain and their allies responded with the Berlin Airlift, flying in food, coal and other supplies; at its peak an aircraft landed roughly every minute, and around 2.3 million tons of cargo were delivered in about 278,000 flights. Moscow lifted the blockade in May 1949, but the crisis hardened the division of Germany, leading to the founding of West Germany and East Germany later that year, and helped spur the creation of NATO.",
+    "wikipedia": "Berlin Blockade",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "germany"
+    ]
+  },
+  {
+    "id": "modern2-lysenkoism-claim",
+    "title": "Lysenkoism imposed on Soviet biology (fringe claim)",
+    "year": 1948.581,
+    "dateLabel": "31 July – 7 August 1948 (influential c. 1935–1964)",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "category": "fringe",
+    "importance": 2,
+    "summary": "Trofim Lysenko's rejection of Mendelian genetics is declared Soviet scientific doctrine, and genetics is effectively banned in the USSR.",
+    "description": "Trofim Lysenko, an agronomist who rose to prominence in the late 1920s by promoting 'vernalisation', chilling seed to speed up crop development, claimed that heredity is not carried by genes but can be reshaped by the environment, that acquired characteristics are passed to offspring, and that one plant species could be turned into another. Presented as a peasant scientist in tune with Marxist dialectics, he won Stalin's backing while his critics were purged; the geneticist Nikolai Vavilov, who had built one of the world's great seed collections, was arrested in 1940 and died in prison in 1943. At the August 1948 session of the Lenin All-Union Academy of Agricultural Sciences in Moscow, Lysenko announced that his views had the approval of the Party's Central Committee, after which genetics was denounced as 'bourgeois' pseudoscience, thousands of biologists lost their posts and research and teaching in the field were suppressed. His methods were applied to Soviet agriculture and influenced farming practices in China's Great Leap Forward, and he kept his influence under Khrushchev until he was discredited in 1964–65.",
+    "wikipedia": "Lysenkoism",
+    "consensus": "fringe",
+    "mainstreamView": "Lysenko's claims were rejected by geneticists at the time and have been thoroughly refuted: heredity is carried by genes made of DNA, as the discovery of the double helix in 1953 and all of modern molecular biology confirm, and his experiments lacked proper controls and statistics. Vernalisation is a real plant response, but his promised gains in harvests never materialised. Historians regard Lysenkoism as a classic case of pseudoscience imposed by political authority, which set back Soviet biology and agriculture by a generation; mainstream genetics was rehabilitated in the USSR after 1964. Modern research on epigenetics, the heritable regulation of gene activity, does not vindicate him, because such effects are limited, work through genes and cannot remould species as he claimed.",
+    "tags": [
+      "fringe",
+      "pseudoscience",
+      "soviet union",
+      "genetics"
+    ]
+  },
+  {
+    "id": "modern2-nato-founded",
+    "title": "NATO founded",
+    "year": 1949.259,
+    "dateLabel": "4 April 1949",
+    "lat": 38.893,
+    "lon": -77.029,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Twelve Western nations sign the North Atlantic Treaty in Washington, a collective-defence alliance against the Soviet Union.",
+    "description": "The United States, Canada and ten Western European countries (Belgium, Denmark, France, Iceland, Italy, Luxembourg, the Netherlands, Norway, Portugal and the United Kingdom) pledged under Article 5 that an armed attack on one member would be considered an attack on all. It was the first peacetime military alliance the United States had joined outside the Western Hemisphere. Greece and Turkey joined in 1952 and West Germany in 1955, prompting the Soviet bloc to form the Warsaw Pact. NATO outlasted the Cold War, admitting Poland, Hungary and the Czech Republic in 1999 and conducting its first major combat operations in the Balkans in the 1990s.",
+    "wikipedia": "NATO",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "alliance"
+    ]
+  },
+  {
+    "id": "modern2-peoples-republic-of-china",
+    "title": "People's Republic of China proclaimed",
+    "year": 1949.751,
+    "dateLabel": "1 October 1949",
+    "lat": 39.9087,
+    "lon": 116.3975,
+    "category": "politics",
+    "importance": 5,
+    "summary": "Mao Zedong proclaims the People's Republic of China in Beijing after the Communists win the civil war; the Nationalists retreat to Taiwan.",
+    "description": "The Chinese Civil War between the Communist Party and Chiang Kai-shek's Nationalist Kuomintang, interrupted by the war against Japan, resumed in 1946, and Communist victories in Manchuria and northern China in 1948–49 led to the collapse of Nationalist rule on the mainland. From the Gate of Heavenly Peace (Tiananmen), Mao announced the founding of the new state, and Chiang's government withdrew to Taiwan, where the Republic of China continued. The revolution brought the world's most populous country under communist rule, transforming its land ownership, economy and society, and the unresolved status of Taiwan remained a lasting source of tension.",
+    "wikipedia": "Chinese Communist Revolution",
+    "consensus": "established",
+    "tags": [
+      "china",
+      "communism",
+      "revolution"
+    ]
+  },
+  {
+    "id": "modern2-korean-war",
+    "title": "Korean War",
+    "year": 1950.483,
+    "endYear": 1953.571,
+    "dateLabel": "25 June 1950 – 27 July 1953",
+    "lat": 37.9561,
+    "lon": 126.6772,
+    "category": "war",
+    "importance": 4,
+    "summary": "North Korea invades the South; UN forces led by the US and Chinese troops join the fighting, which ends in an armistice near the 38th parallel.",
+    "description": "Backed by Stalin, Kim Il Sung's North Korea invaded South Korea and nearly overran it before a United Nations force led by the United States landed at Inchon in September 1950 and drove north toward the Chinese border. China's entry with hundreds of thousands of 'volunteers' in late 1950 pushed the UN forces back, and the front stabilised near the 38th parallel by mid-1951 while armistice talks dragged on for two years. The war killed an estimated 2.5 to 3 million people, most of them Korean civilians. No peace treaty was ever signed, and the Demilitarised Zone, with the truce village of Panmunjom marked here, still divides the peninsula.",
+    "wikipedia": "Korean War",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "korea"
+    ]
+  },
+  {
+    "id": "modern2-dna-double-helix",
+    "title": "Structure of DNA identified as a double helix",
+    "year": 1953.316,
+    "dateLabel": "25 April 1953 (published in Nature)",
+    "lat": 52.2037,
+    "lon": 0.1182,
+    "category": "science",
+    "importance": 4,
+    "summary": "James Watson and Francis Crick publish the double-helix structure of DNA, drawing on X-ray data from Rosalind Franklin and Maurice Wilkins.",
+    "description": "Working at the Cavendish Laboratory in Cambridge, Watson and Crick built a model in which two complementary strands of nucleotides wind around each other, held together by base pairs (adenine with thymine, guanine with cytosine). The model relied critically on X-ray diffraction images and measurements from King's College London, notably 'Photo 51' from Rosalind Franklin's group, which was shown to Watson without her knowledge. The structure immediately suggested how genetic information is copied, launching molecular biology, the cracking of the genetic code in the 1960s and, later, genetic engineering and genome sequencing. Watson, Crick and Wilkins received the 1962 Nobel Prize; Franklin had died in 1958, and her contribution has since been widely recognised.",
+    "wikipedia": "Nucleic acid double helix",
+    "consensus": "established",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "modern2-first-ascent-of-everest",
+    "title": "First ascent of Mount Everest",
+    "year": 1953.41,
+    "dateLabel": "29 May 1953",
+    "lat": 27.9881,
+    "lon": 86.925,
+    "category": "exploration",
+    "importance": 2,
+    "summary": "New Zealander Edmund Hillary and Sherpa Tenzing Norgay become the first climbers confirmed to have reached the summit of Mount Everest.",
+    "description": "The British expedition led by John Hunt followed the South Col route from Nepal, which had opened to foreigners only in 1949, after earlier British attempts from the Tibetan side in the 1920s and 1930s had failed. Hillary and Tenzing reached the top at about 11:30 a.m. and spent around 15 minutes there. News reached London on the morning of Queen Elizabeth II's coronation on 2 June. Whether George Mallory and Andrew Irvine, who vanished high on the mountain in 1924, reached the summit first remains unresolved, though most mountaineering historians consider it unlikely; Mallory's body was found in 1999.",
+    "wikipedia": "1953 British Mount Everest expedition",
+    "consensus": "established",
+    "tags": [
+      "mountaineering",
+      "himalaya",
+      "nepal"
+    ]
+  },
+  {
+    "id": "modern2-algerian-war",
+    "title": "Algerian War of Independence",
+    "year": 1954.835,
+    "endYear": 1962.512,
+    "dateLabel": "1 November 1954 – 5 July 1962",
+    "lat": 36.7538,
+    "lon": 3.0588,
+    "category": "war",
+    "importance": 3,
+    "summary": "Algeria's National Liberation Front wages an eight-year war against French rule, winning independence in 1962.",
+    "description": "Algeria had been ruled by France since 1830 and was legally part of France, with about a million European settlers known as pieds-noirs. The National Liberation Front (FLN) launched coordinated attacks on 1 November 1954, and the conflict became notorious for guerrilla warfare, bombings of civilians and the French army's systematic use of torture, as in the Battle of Algiers of 1957. The crisis brought down France's Fourth Republic and returned Charles de Gaulle to power in 1958, and he eventually negotiated the Évian Accords of March 1962. Deaths are disputed, with estimates from about 400,000 to Algeria's official figure of 1.5 million, and nearly all the pieds-noirs left for France after independence.",
+    "wikipedia": "Algerian War",
+    "consensus": "established",
+    "tags": [
+      "decolonisation",
+      "africa",
+      "france"
+    ]
+  },
+  {
+    "id": "modern2-vietnam-war",
+    "title": "Vietnam War",
+    "year": 1955.835,
+    "endYear": 1975.329,
+    "dateLabel": "1 November 1955 – 30 April 1975",
+    "lat": 16.0544,
+    "lon": 108.2022,
+    "category": "war",
+    "importance": 4,
+    "summary": "Communist North Vietnam and the Viet Cong fight South Vietnam and the United States, ending with the fall of Saigon and Vietnam's reunification.",
+    "description": "After the French defeat at Dien Bien Phu in 1954, the Geneva Accords temporarily divided Vietnam, and the communist North under Ho Chi Minh backed an insurgency against the US-supported government in the South. The United States escalated after the Gulf of Tonkin incident of 1964, landing combat troops at Da Nang in 1965, deploying more than 500,000 troops at the peak in 1968, and bombing North Vietnam, Laos and Cambodia heavily. The Tet Offensive of 1968 and mounting casualties turned American opinion against the war, and US forces withdrew after the Paris Peace Accords of 1973. North Vietnamese forces captured Saigon on 30 April 1975. Estimates of the total dead range from about 1 million to over 3 million, overwhelmingly Vietnamese, along with around 58,000 Americans.",
+    "wikipedia": "Vietnam War",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "vietnam",
+      "southeast asia"
+    ]
+  },
+  {
+    "id": "modern2-suez-crisis",
+    "title": "Suez Crisis",
+    "year": 1956.827,
+    "endYear": 1956.851,
+    "dateLabel": "29 October – 7 November 1956",
+    "lat": 31.2653,
+    "lon": 32.3019,
+    "category": "war",
+    "importance": 3,
+    "summary": "Israel, Britain and France invade Egypt after Nasser nationalises the Suez Canal, but US and Soviet pressure forces them to withdraw.",
+    "description": "Egyptian President Gamal Abdel Nasser nationalised the British- and French-controlled Suez Canal Company in July 1956 to help fund the Aswan High Dam. In a secretly coordinated plan, Israel invaded the Sinai on 29 October, and Britain and France then landed troops at Port Said on the pretext of separating the combatants. The United States, angered at not being consulted, applied financial pressure on Britain, while the Soviet Union threatened intervention, and a UN ceasefire and the first large UN peacekeeping force followed. The humiliation marked the end of Britain and France as independent great powers in the Middle East, led to the resignation of British Prime Minister Anthony Eden, and made Nasser a hero of Arab nationalism.",
+    "wikipedia": "Suez Crisis",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "egypt",
+      "decolonisation"
+    ]
+  },
+  {
+    "id": "modern2-ghana-independence",
+    "title": "Ghana becomes independent",
+    "year": 1957.181,
+    "dateLabel": "6 March 1957",
+    "lat": 5.55,
+    "lon": -0.2,
+    "category": "empire",
+    "importance": 3,
+    "summary": "The Gold Coast becomes Ghana under Kwame Nkrumah, one of the first sub-Saharan African colonies to win independence from European rule.",
+    "description": "Kwame Nkrumah's Convention People's Party had won elections under British rule from 1951 by campaigning for 'self-government now' through strikes and nonviolent 'positive action'. At midnight on 6 March 1957 Nkrumah proclaimed the country free, and the new state took its name from a medieval West African empire. Ghana's independence inspired anti-colonial movements across the continent, and Nkrumah became a leading advocate of Pan-Africanism, helping to found the Organisation of African Unity in 1963. Seventeen African countries became independent in 1960 alone, which became known as the 'Year of Africa'.",
+    "wikipedia": "Kwame Nkrumah",
+    "consensus": "established",
+    "tags": [
+      "decolonisation",
+      "africa",
+      "independence"
+    ]
+  },
+  {
+    "id": "modern2-sputnik-1",
+    "title": "Sputnik 1, the first artificial satellite",
+    "year": 1957.759,
+    "dateLabel": "4 October 1957",
+    "lat": 45.92,
+    "lon": 63.342,
+    "category": "exploration",
+    "importance": 4,
+    "summary": "The Soviet Union launches Sputnik 1 into Earth orbit, beginning the Space Age and the space race with the United States.",
+    "description": "Launched on an R-7 rocket from the Baikonur Cosmodrome in Soviet Kazakhstan, the 58 cm, 83.6 kg sphere circled the Earth about every 96 minutes, its radio beeps picked up by amateurs around the world. Because the R-7 was also the first intercontinental ballistic missile, the launch shocked the United States, prompting the creation of NASA and ARPA (later DARPA) in 1958 and a surge in science-education funding. A month later Sputnik 2 carried the dog Laika into orbit. Sputnik 1 burned up on re-entry in January 1958.",
+    "wikipedia": "Sputnik 1",
+    "consensus": "established",
+    "tags": [
+      "space race",
+      "soviet union",
+      "satellites"
+    ]
+  },
+  {
+    "id": "modern2-great-chinese-famine",
+    "title": "Great Chinese Famine",
+    "year": 1959,
+    "endYear": 1962,
+    "dateLabel": "1959–1961",
+    "lat": 32.1285,
+    "lon": 114.0913,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "Policies of Mao's Great Leap Forward cause the deadliest famine in recorded history, with estimates of 15 to 55 million deaths in China.",
+    "description": "Launched in 1958, the Great Leap Forward sought to overtake Britain's industrial output through mass mobilisation, herding peasants into vast people's communes, diverting labour to backyard steel furnaces and imposing pseudo-scientific farming methods. Local officials, fearing punishment, reported inflated harvests, and the state requisitioned grain on the basis of those figures, even exporting it, while critics such as Defence Minister Peng Dehuai were purged in 1959. Famine was worst in provinces such as Anhui, Sichuan and Henan, where the Xinyang prefecture marked here lost about a million people. Drought and floods contributed, but most historians attribute the catastrophe primarily to policy, and death-toll estimates vary widely with demographic method, from about 15 million to more than 45 million, and in some studies higher still.",
+    "wikipedia": "Great Chinese Famine",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "china",
+      "great leap forward"
+    ]
+  },
+  {
+    "id": "modern2-cuban-revolution",
+    "title": "Cuban Revolution triumphs",
+    "year": 1959.001,
+    "dateLabel": "1 January 1959 (insurgency from 1953)",
+    "lat": 23.1352,
+    "lon": -82.359,
+    "category": "war",
+    "importance": 3,
+    "summary": "Dictator Fulgencio Batista flees Cuba as Fidel Castro's guerrillas take power, later establishing the Western Hemisphere's first communist state.",
+    "description": "Fidel Castro's 26th of July Movement, named after a failed attack on the Moncada Barracks in 1953, waged a guerrilla war from the Sierra Maestra mountains from late 1956 alongside Che Guevara and Raúl Castro. Batista's army collapsed and he fled on New Year's Day 1959. The new government nationalised land and US-owned businesses, executed opponents and aligned with the Soviet Union; Castro proclaimed the revolution socialist on 16 April 1961, on the eve of the failed US-backed Bay of Pigs invasion. Cuba became a Cold War flashpoint and an inspiration for leftist movements across Latin America, and Castro ruled until 2008.",
+    "wikipedia": "Cuban Revolution",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "latin america",
+      "revolution"
+    ]
+  },
+  {
+    "id": "modern2-valdivia-earthquake",
+    "title": "1960 Valdivia earthquake",
+    "year": 1960.391,
+    "dateLabel": "22 May 1960",
+    "lat": -38.24,
+    "lon": -73.05,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "A magnitude 9.4–9.6 earthquake in southern Chile, the most powerful ever recorded, sends a destructive tsunami across the Pacific.",
+    "description": "The rupture extended roughly 1,000 km along the boundary where the Nazca Plate dives beneath South America, and the shaking and a local tsunami devastated Valdivia and other towns in southern Chile. Estimates of deaths range from about 1,000 to 6,000. The resulting Pacific-wide tsunami killed 61 people in Hilo, Hawaii, and about 140 in Japan roughly a day after the quake, and two days later the Cordón Caulle volcano erupted. The disaster, together with the 1964 Alaska earthquake, spurred the creation of an international Pacific tsunami warning system.",
+    "wikipedia": "1960 Valdivia earthquake",
+    "consensus": "established",
+    "tags": [
+      "earthquake",
+      "tsunami",
+      "chile",
+      "latin america"
+    ]
+  },
+  {
+    "id": "modern2-congo-independence",
+    "title": "Congo independence and the Congo Crisis",
+    "year": 1960.496,
+    "endYear": 1965.9,
+    "dateLabel": "30 June 1960 (crisis until November 1965)",
+    "lat": -4.3217,
+    "lon": 15.3125,
+    "category": "empire",
+    "importance": 2,
+    "summary": "The Belgian Congo becomes independent under Prime Minister Patrice Lumumba, but mutiny, secession and Cold War intervention plunge it into crisis.",
+    "description": "Belgium granted independence after only a brief transition, leaving few Congolese trained for senior posts. Within days the army mutinied and the mineral-rich province of Katanga seceded with Belgian backing, prompting a large UN intervention. Lumumba, who had sought Soviet assistance, was deposed and in January 1961 was executed by Katangan forces with Belgian complicity, while the United States had also plotted against him. UN Secretary-General Dag Hammarskjöld died in a plane crash in 1961 while trying to broker peace. The crisis ended when Joseph-Désiré Mobutu seized power in November 1965 and ruled the country, later renamed Zaire, until 1997.",
+    "wikipedia": "Congo Crisis",
+    "consensus": "established",
+    "tags": [
+      "decolonisation",
+      "africa",
+      "cold war"
+    ]
+  },
+  {
+    "id": "modern2-vostok-1-gagarin",
+    "title": "Yuri Gagarin, first human in space",
+    "year": 1961.281,
+    "dateLabel": "12 April 1961",
+    "lat": 45.92,
+    "lon": 63.342,
+    "category": "exploration",
+    "importance": 4,
+    "summary": "Soviet cosmonaut Yuri Gagarin orbits the Earth once aboard Vostok 1 in a 108-minute flight, becoming the first person in space.",
+    "description": "Launched from Baikonur, Gagarin completed a single orbit and ejected from the descending capsule at an altitude of about 7 km, parachuting to land near the city of Engels on the Volga. The flight was a major propaganda triumph for the Soviet Union and a further shock to the United States, which sent Alan Shepard on a suborbital flight three weeks later. In May 1961 President John F. Kennedy committed the United States to landing a man on the Moon before the end of the decade. Gagarin became a worldwide celebrity but died in a training jet crash in 1968.",
+    "wikipedia": "Vostok 1",
+    "consensus": "established",
+    "tags": [
+      "space race",
+      "soviet union",
+      "human spaceflight"
+    ]
+  },
+  {
+    "id": "modern2-berlin-wall-built",
+    "title": "Construction of the Berlin Wall",
+    "year": 1961.617,
+    "dateLabel": "13 August 1961",
+    "lat": 52.5352,
+    "lon": 13.3903,
+    "category": "politics",
+    "importance": 3,
+    "summary": "East Germany seals the border around West Berlin overnight, beginning the wall that would divide the city for 28 years.",
+    "description": "By 1961 some 3.5 million East Germans had left for the West since 1945, many via the open sector border in Berlin, draining the country of skilled workers. With Soviet approval, East German troops and police strung barbed wire across the city in the early hours of 13 August, soon replaced by a concrete wall with watchtowers and a guarded 'death strip'. The East German government called it the 'Anti-Fascist Protection Rampart'. At least 140 people were killed at the wall during its existence, and it became the defining symbol of the Cold War's Iron Curtain.",
+    "wikipedia": "Berlin Wall",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "germany"
+    ]
+  },
+  {
+    "id": "modern2-plate-tectonics-revolution",
+    "title": "Plate tectonics revolution in the Earth sciences",
+    "year": 1962,
+    "endYear": 1968.9,
+    "dateLabel": "1962–1968 (continental drift proposed 1912)",
+    "lat": 64.2559,
+    "lon": -21.1299,
+    "category": "science",
+    "importance": 4,
+    "summary": "Evidence from the ocean floor shows that continents move, and plate tectonics becomes the unifying theory of the Earth sciences.",
+    "description": "Alfred Wegener had proposed continental drift in 1912 and in his book The Origin of Continents and Oceans (1915), but most geologists rejected it because he could offer no convincing mechanism. Post-war mapping of the ocean floor, notably by Marie Tharp and Bruce Heezen, revealed a globe-encircling system of mid-ocean ridges with a central rift, and in 1962 Harry Hess proposed that new crust forms at the ridges and spreads outward, an idea Robert Dietz had independently named seafloor spreading. In 1963 Fred Vine and Drummond Matthews, and independently Lawrence Morley, explained the symmetrical magnetic stripes on either side of the ridges as a record of reversals of Earth's magnetic field frozen into the spreading crust, a prediction confirmed by ocean surveys over the next few years. Tuzo Wilson's transform faults (1965) and studies of earthquakes then led to the full theory of plate tectonics in 1967–68, in which Earth's rigid outer shell is divided into plates that move a few centimetres a year. The theory explains the distribution of earthquakes, volcanoes, mountain ranges and fossils, and it is marked here at Þingvellir in Iceland, where the Mid-Atlantic Ridge rises above sea level.",
+    "wikipedia": "Plate tectonics",
+    "consensus": "established",
+    "tags": [
+      "geology",
+      "plate tectonics",
+      "earth science"
+    ]
+  },
+  {
+    "id": "modern2-cuban-missile-crisis",
+    "title": "Cuban Missile Crisis",
+    "year": 1962.792,
+    "endYear": 1962.824,
+    "dateLabel": "16–28 October 1962",
+    "lat": 22.72,
+    "lon": -83.05,
+    "category": "politics",
+    "importance": 4,
+    "summary": "A 13-day confrontation over Soviet nuclear missiles in Cuba brings the United States and the Soviet Union closer to nuclear war than at any other time.",
+    "description": "US U-2 reconnaissance photographs revealed Soviet medium-range ballistic missile sites under construction in western Cuba, deployed by Nikita Khrushchev partly to deter another US invasion and to counter American missiles in Turkey. President John F. Kennedy imposed a naval 'quarantine' of the island, and tension peaked on 27 October, when a U-2 was shot down over Cuba and a Soviet submarine came close to firing a nuclear torpedo. Khrushchev agreed to remove the missiles in return for a public US pledge not to invade Cuba and a secret undertaking to withdraw the Jupiter missiles from Turkey. The crisis led to the Moscow–Washington hotline and the Partial Test Ban Treaty of 1963.",
+    "wikipedia": "Cuban Missile Crisis",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "nuclear weapons",
+      "cuba"
+    ]
+  },
+  {
+    "id": "modern2-assassination-of-jfk",
+    "title": "Assassination of John F. Kennedy",
+    "year": 1963.891,
+    "dateLabel": "22 November 1963",
+    "lat": 32.7788,
+    "lon": -96.8084,
+    "category": "politics",
+    "importance": 3,
+    "summary": "US President John F. Kennedy is shot dead while riding in a motorcade through Dealey Plaza in Dallas, Texas.",
+    "description": "Kennedy was struck by rifle fire at 12:30 p.m. and pronounced dead at Parkland Hospital; Texas Governor John Connally was wounded. Lee Harvey Oswald, a former Marine who had defected to the Soviet Union and returned, was arrested that afternoon and was himself shot dead two days later by nightclub owner Jack Ruby. Vice President Lyndon B. Johnson was sworn in aboard Air Force One, and the Warren Commission concluded in 1964 that Oswald had acted alone, firing from the sixth floor of the Texas School Book Depository. The killing was a national trauma, and questions that many people felt remained unanswered gave rise to persistent conspiracy theories.",
+    "wikipedia": "Assassination of John F. Kennedy",
+    "consensus": "established",
+    "tags": [
+      "united states",
+      "assassination"
+    ]
+  },
+  {
+    "id": "modern2-jfk-conspiracy-theories",
+    "title": "JFK assassination conspiracy theories (fringe)",
+    "year": 1963.891,
+    "dateLabel": "Claims about 22 November 1963",
+    "lat": 32.7794,
+    "lon": -96.809,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Many theories claim Kennedy's killing was a conspiracy, alleging a second gunman on the 'grassy knoll' or plots by the CIA, the Mafia, Cuba or the KGB.",
+    "description": "Doubts about the Warren Commission's findings spread in the 1960s through books such as Mark Lane's 'Rush to Judgment' (1966) and New Orleans District Attorney Jim Garrison's unsuccessful 1969 prosecution of businessman Clay Shaw, and later through Oliver Stone's 1991 film 'JFK'. Theories variously blame the CIA, organised crime, anti-Castro Cubans, Fidel Castro, the Soviet Union or Lyndon Johnson, and often dispute the 'single-bullet theory' that one shot wounded both Kennedy and Governor Connally. In 1979 the House Select Committee on Assassinations concluded that Kennedy was 'probably assassinated as a result of a conspiracy', relying mainly on acoustic analysis of a police radio recording. Opinion polls have long shown that a majority of Americans doubt that Oswald acted alone.",
+    "wikipedia": "John F. Kennedy assassination conspiracy theories",
+    "consensus": "fringe",
+    "mainstreamView": "The Warren Commission and every later official review, including the House committee itself, concluded that Oswald fired the shots that killed Kennedy, using a rifle traced to him and found in the Book Depository. The House committee's conspiracy finding rested on a police dictabelt recording that a 1982 National Academy of Sciences panel concluded contained no gunshots, having been recorded about a minute after the shooting. Ballistic and trajectory reconstructions support the single-bullet explanation, and millions of pages released under the 1992 JFK Records Act have produced no credible evidence of a second gunman or an organised plot.",
+    "tags": [
+      "fringe",
+      "conspiracy theory",
+      "united states"
+    ]
+  },
+  {
+    "id": "modern2-civil-rights-act-1964",
+    "title": "Civil Rights Act of 1964",
+    "year": 1964.504,
+    "dateLabel": "2 July 1964",
+    "lat": 38.8977,
+    "lon": -77.0365,
+    "category": "politics",
+    "importance": 3,
+    "summary": "President Lyndon B. Johnson signs a landmark US law outlawing discrimination based on race, colour, religion, sex or national origin.",
+    "description": "The act was the legislative culmination of the civil rights movement, whose milestones included the Supreme Court's 1954 Brown v. Board of Education ruling against school segregation, the Montgomery bus boycott of 1955–56 sparked by Rosa Parks, and the 1963 March on Washington, where Martin Luther King Jr. gave his 'I Have a Dream' speech. Proposed by John F. Kennedy, the bill passed after a 60-day Senate filibuster by Southern senators. It banned segregation in public accommodations and discrimination in employment, and was followed by the Voting Rights Act of 1965. King was assassinated in Memphis in April 1968.",
+    "wikipedia": "Civil Rights Act of 1964",
+    "consensus": "established",
+    "tags": [
+      "civil rights",
+      "united states"
+    ]
+  },
+  {
+    "id": "modern2-cultural-revolution",
+    "title": "Cultural Revolution in China",
+    "year": 1966.375,
+    "endYear": 1976.765,
+    "dateLabel": "16 May 1966 – October 1976",
+    "lat": 39.9925,
+    "lon": 116.3055,
+    "category": "politics",
+    "importance": 4,
+    "summary": "Mao Zedong mobilises young Red Guards against supposed bourgeois and traditional elements, unleashing a decade of political violence in China.",
+    "description": "Seeking to reassert his authority after the failure of the Great Leap Forward, Mao launched the movement with a Communist Party directive in May 1966, and students at universities such as Peking University, marked here, formed Red Guard units that attacked teachers, officials and intellectuals. Temples, books and historic artefacts were destroyed in the campaign against the 'Four Olds', senior leaders including Liu Shaoqi were purged, and some 17 million urban youths were sent to the countryside. Estimates of deaths range from several hundred thousand to around two million. The movement ended with Mao's death in September 1976 and the arrest of the Gang of Four, and the party later condemned it as a catastrophe.",
+    "wikipedia": "Cultural Revolution",
+    "consensus": "established",
+    "tags": [
+      "china",
+      "mao zedong",
+      "communism"
+    ]
+  },
+  {
+    "id": "modern2-six-day-war",
+    "title": "Six-Day War",
+    "year": 1967.429,
+    "endYear": 1967.442,
+    "dateLabel": "5–10 June 1967",
+    "lat": 31.778,
+    "lon": 35.2354,
+    "category": "war",
+    "importance": 3,
+    "summary": "Israel defeats Egypt, Jordan and Syria, capturing the Sinai, Gaza Strip, West Bank, East Jerusalem and Golan Heights in six days.",
+    "description": "Amid rising tension, including Egypt's closure of the Straits of Tiran to Israeli shipping and its massing of troops in Sinai, Israel launched pre-emptive air strikes on 5 June that destroyed most of the Egyptian air force on the ground. In six days Israeli forces took territory roughly three times the size of pre-war Israel. Hundreds of thousands of Palestinians were displaced, and the occupation of the West Bank, Gaza and East Jerusalem became central to the Arab–Israeli conflict. UN Security Council Resolution 242 called for Israeli withdrawal from occupied territories in exchange for peace, the formula behind later negotiations.",
+    "wikipedia": "Six-Day War",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "israel",
+      "arab–israeli conflict"
+    ]
+  },
+  {
+    "id": "modern2-nigerian-civil-war",
+    "title": "Nigerian Civil War (Biafran War)",
+    "year": 1967.515,
+    "endYear": 1970.039,
+    "dateLabel": "6 July 1967 – 15 January 1970",
+    "lat": 6.4413,
+    "lon": 7.4988,
+    "category": "war",
+    "importance": 2,
+    "summary": "Nigeria's federal government defeats the secessionist Republic of Biafra; a blockade-induced famine kills an estimated 500,000 to 2 million civilians.",
+    "description": "Ethnic and political tensions after independence, including coups in 1966 and massacres of Igbo people in northern Nigeria, led the Eastern Region under Lieutenant Colonel Odumegwu Ojukwu to declare independence as Biafra in May 1967, with Enugu as its first capital. Federal forces, supplied by Britain and the Soviet Union, gradually encircled and blockaded the secessionist state. Images of starving Biafran children made it one of the first humanitarian disasters broadcast worldwide, prompting a major airlift by churches and relief groups and inspiring the founding of Médecins Sans Frontières in 1971. Biafra surrendered in January 1970, and the federal government pursued a policy of 'no victor, no vanquished' reconciliation.",
+    "wikipedia": "Nigerian Civil War",
+    "consensus": "established",
+    "tags": [
+      "africa",
+      "famine",
+      "civil war"
+    ]
+  },
+  {
+    "id": "modern2-protests-of-1968",
+    "title": "Protests of 1968 and May '68 in France",
+    "year": 1968.34,
+    "dateLabel": "1968 (France: May–June 1968)",
+    "lat": 48.8462,
+    "lon": 2.3441,
+    "category": "politics",
+    "importance": 2,
+    "summary": "A worldwide wave of student and worker protests peaks in France, where demonstrations and a general strike paralyse the country in May 1968.",
+    "description": "Protest movements of 1968 drew on opposition to the Vietnam War, the civil rights movement, anti-authoritarian student politics and a youthful counterculture. In Paris, student occupations of the Sorbonne and street battles in the Latin Quarter were followed by a general strike of some 10 million workers that brought France to a standstill. The same year saw the Prague Spring in Czechoslovakia, crushed by a Warsaw Pact invasion in August; the assassinations of Martin Luther King Jr. and Robert F. Kennedy and riots in the United States; and the Tlatelolco massacre of student protesters in Mexico City days before the Olympics. Though few governments fell, 1968 reshaped attitudes toward authority, gender and sexuality in many societies.",
+    "wikipedia": "Protests of 1968",
+    "consensus": "established",
+    "tags": [
+      "protest",
+      "1968",
+      "counterculture"
+    ]
+  },
+  {
+    "id": "modern2-apollo-11",
+    "title": "Apollo 11: first humans on the Moon",
+    "year": 1969.552,
+    "dateLabel": "20 July 1969 (mission 16–24 July)",
+    "lat": 28.6084,
+    "lon": -80.6043,
+    "category": "exploration",
+    "importance": 5,
+    "summary": "Neil Armstrong and Buzz Aldrin land on the Moon's Sea of Tranquillity, the first humans to walk on another world, while Michael Collins orbits above.",
+    "description": "Launched on a Saturn V rocket from Kennedy Space Center in Florida, the lunar module Eagle landed on 20 July, and Armstrong stepped onto the surface hours later, watched live on television by an estimated 600 million people. The astronauts collected about 21.5 kg of lunar samples, deployed experiments including a laser retroreflector still in use, and splashed down safely in the Pacific on 24 July. The landing fulfilled Kennedy's 1961 goal and effectively ended the space race. Ten more Americans walked on the Moon in five further missions up to December 1972.",
+    "wikipedia": "Apollo 11",
+    "consensus": "established",
+    "tags": [
+      "space race",
+      "moon",
+      "nasa",
+      "human spaceflight"
+    ]
+  },
+  {
+    "id": "modern2-moon-landing-hoax-claim",
+    "title": "Moon landing hoax (fringe claim)",
+    "year": 1969.552,
+    "dateLabel": "Claims about 20 July 1969",
+    "lat": 37.2431,
+    "lon": -115.793,
+    "category": "fringe",
+    "importance": 1,
+    "summary": "Conspiracy theorists claim the Apollo Moon landings were staged on Earth, often alleging a film set at a secret site such as Area 51.",
+    "description": "The idea was popularised by Bill Kaysing's self-published 1976 book 'We Never Went to the Moon' and reached a mass audience through a 2001 Fox television special. Proponents argue that NASA lacked the technology to reach the Moon and cite supposed anomalies in photographs and film: the absence of stars, a flag that appears to wave, non-parallel shadows and the lack of a blast crater beneath the lunar module. Some claim the radiation of the Van Allen belts could not have been survived. The marker is placed at Area 51 in Nevada, sometimes named as the location of the supposed film set; polls have found that a minority of people in the United States and elsewhere believe the landings were faked.",
+    "wikipedia": "Moon landing conspiracy theories",
+    "consensus": "fringe",
+    "mainstreamView": "The Apollo missions returned 382 kg of lunar rock and soil, studied by scientists in many countries, whose great ages, distinctive chemistry and micrometeorite pitting could not have been faked. The flights were tracked independently, including by the Soviet Union, which had every incentive to expose a hoax and never disputed them, and retroreflectors left by Apollo 11, 14 and 15 are still used to bounce lasers off the Moon. Lunar Reconnaissance Orbiter images from 2009 onward show the descent stages, equipment and astronauts' tracks at the landing sites. The alleged anomalies have simple explanations: stars do not show in short exposures of a sunlit surface, the flag hung from a horizontal rod and swung freely in vacuum, uneven terrain bends shadows, the engine was throttled down for landing, and the crews crossed the radiation belts quickly enough to receive only modest doses.",
+    "tags": [
+      "fringe",
+      "conspiracy theory",
+      "space"
+    ]
+  },
+  {
+    "id": "modern2-bangladesh-liberation-war",
+    "title": "Bangladesh Liberation War",
+    "year": 1971.235,
+    "endYear": 1971.958,
+    "dateLabel": "26 March – 16 December 1971",
+    "lat": 23.8103,
+    "lon": 90.4125,
+    "category": "war",
+    "importance": 3,
+    "summary": "East Pakistan wins independence as Bangladesh after a nine-month war marked by mass atrocities and ending in an Indian military intervention.",
+    "description": "After the Awami League led by Sheikh Mujibur Rahman won a majority in Pakistan's 1970 elections but was denied power, the Pakistani army launched Operation Searchlight, a crackdown in Dhaka on the night of 25–26 March 1971. Independence was declared, and Bengali Mukti Bahini guerrillas fought the army, which with allied militias carried out mass killings and rape; estimates of the dead range from about 300,000 to the official Bangladeshi figure of 3 million, and around 10 million refugees fled to India. India entered the war in December, and Pakistani forces surrendered in Dhaka on 16 December. Bengali anger had been deepened by the central government's response to the Bhola cyclone of November 1970, which killed up to half a million people.",
+    "wikipedia": "Bangladesh Liberation War",
+    "consensus": "established",
+    "tags": [
+      "south asia",
+      "independence",
+      "genocide"
+    ]
+  },
+  {
+    "id": "modern2-watergate-scandal",
+    "title": "Watergate scandal",
+    "year": 1972.461,
+    "endYear": 1974.606,
+    "dateLabel": "17 June 1972 – 9 August 1974",
+    "lat": 38.8997,
+    "lon": -77.0555,
+    "category": "politics",
+    "importance": 2,
+    "summary": "A break-in at Democratic headquarters and its cover-up lead to the resignation of Richard Nixon, the only US president to resign.",
+    "description": "Five men linked to President Nixon's re-election committee were arrested inside the Democratic National Committee offices at the Watergate complex in Washington. Reporting by Bob Woodward and Carl Bernstein of the Washington Post, a Senate investigation and the revelation of a secret White House taping system exposed a wide pattern of abuses and Nixon's role in obstructing the investigation. After the Supreme Court ordered the release of the tapes and the House Judiciary Committee approved articles of impeachment, Nixon resigned on 9 August 1974. The scandal deepened public distrust of government and led to reforms of campaign-finance and government-ethics laws.",
+    "wikipedia": "Watergate scandal",
+    "consensus": "established",
+    "tags": [
+      "united states",
+      "politics",
+      "scandal"
+    ]
+  },
+  {
+    "id": "modern2-chilean-coup-1973",
+    "title": "Pinochet's coup in Chile",
+    "year": 1973.695,
+    "dateLabel": "11 September 1973",
+    "lat": -33.4429,
+    "lon": -70.6539,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Chile's armed forces overthrow the elected socialist government of Salvador Allende, beginning General Augusto Pinochet's 17-year dictatorship.",
+    "description": "Allende's Popular Unity government, elected in 1970, nationalised the copper industry and banks amid economic crisis, inflation and political polarisation, while the United States worked covertly to undermine it. On 11 September 1973 the military bombed La Moneda presidential palace, where Allende died by suicide as troops closed in. Under the junta led by Pinochet, more than 3,000 people were killed or disappeared and tens of thousands were tortured or imprisoned. The regime imposed free-market reforms designed by the 'Chicago Boys' economists, and Pinochet left power in 1990 after losing a 1988 plebiscite.",
+    "wikipedia": "1973 Chilean coup d'état",
+    "consensus": "established",
+    "tags": [
+      "latin america",
+      "cold war",
+      "dictatorship"
+    ]
+  },
+  {
+    "id": "modern2-yom-kippur-war",
+    "title": "Yom Kippur War",
+    "year": 1973.765,
+    "endYear": 1973.816,
+    "dateLabel": "6–25 October 1973",
+    "lat": 30.45,
+    "lon": 32.35,
+    "category": "war",
+    "importance": 2,
+    "summary": "Egypt and Syria launch a surprise attack on Israeli positions in the Sinai and Golan Heights on the Jewish holy day of Yom Kippur.",
+    "description": "Egyptian forces crossed the Suez Canal and breached the Bar Lev Line while Syria attacked on the Golan Heights, inflicting heavy early losses on Israel. Israeli counter-attacks, aided by a large US airlift of arms, pushed back the Syrians and crossed the canal to encircle the Egyptian Third Army before a UN-brokered ceasefire. US and Soviet forces were put on alert during the crisis, and Arab oil producers used the war to impose an oil embargo on Israel's supporters. Egypt's early success restored Arab confidence and opened the way to the Egypt–Israel peace process.",
+    "wikipedia": "Yom Kippur War",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "israel",
+      "egypt",
+      "arab–israeli conflict"
+    ]
+  },
+  {
+    "id": "modern2-1973-oil-crisis",
+    "title": "1973 oil crisis",
+    "year": 1973.794,
+    "endYear": 1974.214,
+    "dateLabel": "October 1973 – March 1974",
+    "lat": 29.3759,
+    "lon": 47.9774,
+    "category": "economy",
+    "importance": 3,
+    "summary": "Arab oil producers embargo the United States and other supporters of Israel, quadrupling oil prices and shaking the world economy.",
+    "description": "Meeting in Kuwait on 17 October 1973, members of the Organization of Arab Petroleum Exporting Countries announced production cuts and an embargo against the United States, the Netherlands and other countries that backed Israel in the Yom Kippur War. The posted price of oil rose from about 3 to nearly 12 dollars a barrel by early 1974. Western economies suffered fuel shortages, rationing, inflation and recession, ending the long postwar boom and ushering in an era of 'stagflation'. The shock spurred energy conservation, fuel-efficiency standards, North Sea and Alaskan oil development, and the founding of the International Energy Agency in 1974.",
+    "wikipedia": "1973 oil crisis",
+    "consensus": "established",
+    "tags": [
+      "oil",
+      "economy",
+      "middle east"
+    ]
+  },
+  {
+    "id": "modern2-khmer-rouge-cambodian-genocide",
+    "title": "Khmer Rouge rule and the Cambodian genocide",
+    "year": 1975.294,
+    "endYear": 1979.017,
+    "dateLabel": "17 April 1975 – 7 January 1979",
+    "lat": 11.5494,
+    "lon": 104.9175,
+    "category": "war",
+    "importance": 3,
+    "summary": "The Khmer Rouge under Pol Pot empty Cambodia's cities and kill or starve an estimated 1.5 to 2 million people, about a quarter of the population.",
+    "description": "After capturing Phnom Penh, the communist Khmer Rouge forced the entire urban population into the countryside, abolished money, markets, schools and religion, and set out to build an agrarian society from 'Year Zero'. Former officials, intellectuals, ethnic minorities such as the Vietnamese and Cham, and suspected enemies within the party were executed, many after torture at the Tuol Sleng (S-21) prison, while others died of starvation, overwork and disease. Vietnam invaded in December 1978 and captured Phnom Penh in January 1979, driving the Khmer Rouge to the Thai border. A UN-backed tribunal later convicted surviving leaders of genocide and crimes against humanity.",
+    "wikipedia": "Cambodian genocide",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "cambodia",
+      "communism",
+      "southeast asia"
+    ]
+  },
+  {
+    "id": "modern2-voyager-program",
+    "title": "Voyager probes launched",
+    "year": 1977.636,
+    "dateLabel": "20 August and 5 September 1977",
+    "lat": 28.5833,
+    "lon": -80.5833,
+    "category": "exploration",
+    "importance": 3,
+    "summary": "NASA launches Voyager 1 and 2 on a 'grand tour' of the outer planets; both later become the first spacecraft to reach interstellar space.",
+    "description": "Taking advantage of a planetary alignment that recurs about every 175 years, the twin probes flew past Jupiter (1979) and Saturn (1980–81), and Voyager 2 went on to make the only visits yet to Uranus (1986) and Neptune (1989). They discovered active volcanoes on Jupiter's moon Io, revealed the structure of Saturn's rings and found new moons, and returned the first close-up images of the ice giants. In 1990 Voyager 1 took the 'Pale Blue Dot' photograph of Earth from about 6 billion km away. Each carries a gold-plated record of sounds and images from Earth, and Voyager 1 crossed the heliopause into interstellar space in 2012, followed by Voyager 2 in 2018.",
+    "wikipedia": "Voyager program",
+    "consensus": "established",
+    "tags": [
+      "space",
+      "planets",
+      "nasa"
+    ]
+  },
+  {
+    "id": "modern2-iranian-revolution",
+    "title": "Iranian Revolution",
+    "year": 1978.017,
+    "endYear": 1979.112,
+    "dateLabel": "January 1978 – 11 February 1979",
+    "lat": 35.6997,
+    "lon": 51.3381,
+    "category": "politics",
+    "importance": 4,
+    "summary": "Mass protests overthrow Shah Mohammad Reza Pahlavi, and Ayatollah Ruhollah Khomeini establishes an Islamic Republic in Iran.",
+    "description": "Opposition to the Shah's autocratic rule, his secret police SAVAK, rapid Westernisation and economic inequality united clerics, leftists, liberals and students in strikes and demonstrations that grew to millions through 1978. The Shah left Iran in January 1979, and Khomeini returned from exile in Paris on 1 February; the army declared its neutrality on 11 February, and after a referendum on 30–31 March an Islamic Republic was proclaimed on 1 April. In November 1979 militant students seized the US embassy in Tehran and held 52 Americans hostage for 444 days. The revolution reshaped Middle Eastern politics and created the first modern state governed by Shia clergy.",
+    "wikipedia": "Iranian Revolution",
+    "consensus": "established",
+    "tags": [
+      "iran",
+      "islam",
+      "revolution",
+      "middle east"
+    ]
+  },
+  {
+    "id": "modern2-camp-david-accords",
+    "title": "Camp David Accords",
+    "year": 1978.711,
+    "dateLabel": "17 September 1978",
+    "lat": 39.6483,
+    "lon": -77.465,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Egypt's Anwar Sadat and Israel's Menachem Begin, mediated by Jimmy Carter, agree the framework for the first peace treaty between Israel and an Arab state.",
+    "description": "After Sadat's historic visit to Jerusalem in November 1977, Carter hosted the two leaders for 13 days of secret negotiations at the presidential retreat in Maryland. The accords led to the Egypt–Israel peace treaty of March 1979, under which Israel returned the Sinai Peninsula by 1982 in exchange for peace and diplomatic recognition. A second framework on Palestinian autonomy was never implemented. Sadat and Begin shared the 1978 Nobel Peace Prize, but Egypt was suspended from the Arab League and Sadat was assassinated by Islamist army officers in 1981.",
+    "wikipedia": "Camp David Accords",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "peace",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "modern2-chinese-economic-reform",
+    "title": "Deng Xiaoping launches China's economic reforms",
+    "year": 1978.964,
+    "dateLabel": "December 1978 (Third Plenum)",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "category": "economy",
+    "importance": 4,
+    "summary": "China's Communist Party adopts Deng Xiaoping's policy of 'reform and opening up', beginning the country's transition to a market economy.",
+    "description": "At the Third Plenum of the 11th Central Committee in December 1978, two years after Mao's death, the party shifted its focus from class struggle to economic modernisation under Deng Xiaoping. Rural reforms let farm households sell surplus produce on the market, sharply raising harvests and incomes, and from 1980 Special Economic Zones such as Shenzhen, then a small town bordering Hong Kong and marked here, attracted foreign investment and export industries. Over the following decades China's economy grew at around 10 percent a year, lifting hundreds of millions of people out of extreme poverty and making the country a manufacturing centre of the world. Political liberalisation did not follow, as the suppression of the 1989 Tiananmen protests showed.",
+    "wikipedia": "Chinese economic reform",
+    "consensus": "established",
+    "tags": [
+      "china",
+      "economy",
+      "reform"
+    ]
+  },
+  {
+    "id": "modern2-soviet-afghan-war",
+    "title": "Soviet–Afghan War",
+    "year": 1979.98,
+    "endYear": 1989.122,
+    "dateLabel": "24 December 1979 – 15 February 1989",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "category": "war",
+    "importance": 3,
+    "summary": "Soviet troops invade Afghanistan to prop up a communist government and fight US-backed mujahideen insurgents for nearly a decade.",
+    "description": "Soviet forces entered Afghanistan, killed President Hafizullah Amin and installed Babrak Karmal, aiming to stabilise the communist regime that had seized power in 1978. Islamist mujahideen groups, armed and funded by the United States, Pakistan, Saudi Arabia and others, waged a guerrilla war from the mountains and from bases in Pakistan. Around 15,000 Soviet soldiers and, by most estimates, between 500,000 and 2 million Afghans died, and some 5 million refugees fled to Pakistan and Iran. Mikhail Gorbachev withdrew the last Soviet troops in February 1989; the war strained the Soviet Union, while the ensuing Afghan civil war led to the rise of the Taliban in the 1990s.",
+    "wikipedia": "Soviet–Afghan War",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "afghanistan",
+      "soviet union"
+    ]
+  },
+  {
+    "id": "modern2-smallpox-eradicated",
+    "title": "Smallpox declared eradicated",
+    "year": 1980.353,
+    "dateLabel": "8 May 1980 (last natural case October 1977)",
+    "lat": 1.7154,
+    "lon": 44.7727,
+    "global": true,
+    "category": "science",
+    "importance": 4,
+    "summary": "The World Health Assembly declares smallpox eradicated, the first human disease ever wiped out, after a global vaccination campaign.",
+    "description": "Smallpox had killed an estimated 300 million people in the twentieth century alone. The World Health Organization's Intensified Eradication Programme, launched in 1967, combined mass vaccination with surveillance and 'ring vaccination' of the contacts of each case, cooperation that bridged the Cold War divide. The last naturally occurring case was Ali Maow Maalin, a hospital cook in Merca, Somalia (marked here), who fell ill in October 1977 and recovered; a fatal laboratory-acquired infection occurred in Birmingham, England, in 1978. Stocks of the virus are officially kept only at two high-security laboratories in the United States and Russia.",
+    "wikipedia": "Smallpox",
+    "consensus": "established",
+    "tags": [
+      "medicine",
+      "public health",
+      "vaccination"
+    ]
+  },
+  {
+    "id": "modern2-mount-st-helens",
+    "title": "Eruption of Mount St. Helens",
+    "year": 1980.38,
+    "dateLabel": "18 May 1980",
+    "lat": 46.1912,
+    "lon": -122.1944,
+    "category": "disaster",
+    "importance": 1,
+    "summary": "A massive landslide and lateral blast blow out the north flank of Mount St. Helens in Washington State, killing 57 people.",
+    "description": "After two months of earthquakes and a growing bulge on its north face, the volcano's flank collapsed in the largest landslide in recorded history, releasing a sideways blast that flattened about 600 square kilometres of forest. An ash column rose more than 24 km, and ash fell across eleven US states. The eruption lowered the summit by about 400 m, and the intensive monitoring before and after it greatly advanced the science of volcano forecasting.",
+    "wikipedia": "1980 eruption of Mount St. Helens",
+    "consensus": "established",
+    "tags": [
+      "volcano",
+      "united states"
+    ]
+  },
+  {
+    "id": "modern2-solidarity",
+    "title": "Gdańsk Agreement gives rise to Solidarity",
+    "year": 1980.665,
+    "dateLabel": "31 August 1980",
+    "lat": 54.3603,
+    "lon": 18.6493,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Strikes at the Gdańsk shipyard win the right to form Solidarity, the first independent trade union in the Soviet bloc, led by electrician Lech Wałęsa.",
+    "description": "Strikes over food price rises spread across Poland in summer 1980, and the Gdańsk Agreement of 31 August granted workers the right to form free trade unions; Solidarity was founded the following month. It grew to about 10 million members, roughly a third of Poland's working-age population, supported by the Catholic Church and inspired in part by the election of the Polish Pope John Paul II in 1978. General Wojciech Jaruzelski declared martial law in December 1981 and banned the union, but it survived underground. Round-table talks in 1989 led to partly free elections that Solidarity won overwhelmingly, starting the collapse of communist rule across Eastern Europe.",
+    "wikipedia": "Solidarity (Polish trade union)",
+    "consensus": "established",
+    "tags": [
+      "poland",
+      "cold war",
+      "labour"
+    ]
+  },
+  {
+    "id": "modern2-iran-iraq-war",
+    "title": "Iran–Iraq War",
+    "year": 1980.725,
+    "endYear": 1988.635,
+    "dateLabel": "22 September 1980 – 20 August 1988",
+    "lat": 30.4397,
+    "lon": 48.1664,
+    "category": "war",
+    "importance": 3,
+    "summary": "Iraq under Saddam Hussein invades revolutionary Iran, starting an eight-year war of trenches, chemical weapons and attacks on cities that ends in stalemate.",
+    "description": "Saddam Hussein hoped to exploit the turmoil after the Iranian Revolution to take control of the Shatt al-Arab waterway and Iran's oil-rich Khuzestan province, and to contain Ayatollah Khomeini's call for Islamic revolution across the region. After early Iraqi gains, Iran recaptured the port city of Khorramshahr in May 1982 and carried the war into Iraq, and the front settled into trench warfare reminiscent of World War I, with Iran launching massed infantry assaults that included many young volunteers. Iraq used chemical weapons extensively against Iranian troops and, in 1988, against Kurdish civilians at Halabja, while both sides fired missiles at each other's cities and attacked oil tankers in the Persian Gulf. Iran accepted a UN-brokered ceasefire in July 1988, which took effect on 20 August with the borders essentially unchanged. Estimates of the total dead range from several hundred thousand to around a million.",
+    "wikipedia": "Iran–Iraq War",
+    "consensus": "established",
+    "tags": [
+      "iran",
+      "iraq",
+      "middle east",
+      "chemical weapons"
+    ]
+  },
+  {
+    "id": "modern2-hiv-aids-pandemic",
+    "title": "AIDS first recognised; the HIV pandemic",
+    "year": 1981.429,
+    "dateLabel": "5 June 1981 (first report)",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "global": true,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "US doctors report a cluster of rare pneumonia cases in Los Angeles, the first recognition of AIDS, which would kill tens of millions worldwide.",
+    "description": "The US Centers for Disease Control reported five cases of Pneumocystis pneumonia among previously healthy young gay men in Los Angeles, and the syndrome was named AIDS in 1982. Scientists at the Pasteur Institute identified the causative virus, later named HIV, in 1983. Genetic studies indicate that the pandemic strain crossed from chimpanzees to humans in Central Africa early in the twentieth century and spread from Kinshasa from around the 1920s. By the 1990s sub-Saharan Africa bore the great majority of infections, and combination antiretroviral therapy introduced in 1996 turned HIV into a manageable chronic condition for those with access to it. More than 40 million people have died of AIDS-related illnesses.",
+    "wikipedia": "HIV/AIDS",
+    "consensus": "established",
+    "tags": [
+      "pandemic",
+      "medicine",
+      "public health"
+    ]
+  },
+  {
+    "id": "modern2-ibm-personal-computer",
+    "title": "IBM Personal Computer launched",
+    "year": 1981.614,
+    "dateLabel": "12 August 1981",
+    "lat": 26.3683,
+    "lon": -80.1289,
+    "category": "technology",
+    "importance": 3,
+    "summary": "IBM introduces its Personal Computer, whose open design and Microsoft operating system become the standard for the PC industry.",
+    "description": "Developed in about a year by a small team at IBM's facility in Boca Raton, Florida, the IBM 5150 used an Intel 8088 microprocessor and off-the-shelf parts, and ran PC DOS, licensed from Microsoft, which kept the right to sell it to others as MS-DOS. Its business credibility drove rapid adoption in offices, and because its architecture was easily copied, manufacturers such as Compaq soon produced 'IBM-compatible' clones. The resulting standard made Microsoft and Intel the dominant firms of the personal computing era. Earlier machines such as the Apple II (1977) had already created a hobby and home market, and Apple's Macintosh popularised the graphical interface in 1984.",
+    "wikipedia": "IBM Personal Computer",
+    "consensus": "established",
+    "tags": [
+      "computing",
+      "technology"
+    ]
+  },
+  {
+    "id": "modern2-falklands-war",
+    "title": "Falklands War",
+    "year": 1982.254,
+    "endYear": 1982.453,
+    "dateLabel": "2 April – 14 June 1982",
+    "lat": -51.6921,
+    "lon": -57.8589,
+    "category": "war",
+    "importance": 2,
+    "summary": "Argentina invades the British-ruled Falkland Islands; a British task force recaptures them after a ten-week war.",
+    "description": "Argentina's military junta, facing economic crisis, seized the islands, which Argentina calls the Malvinas and had long claimed. Britain under Margaret Thatcher dispatched a naval task force some 13,000 km to the South Atlantic, and the war saw the sinking of the Argentine cruiser General Belgrano and of several British ships by aircraft and Exocet missiles. Argentine forces at Stanley surrendered on 14 June; about 650 Argentine and 255 British servicemen and three islanders were killed. Defeat brought down the junta and helped restore democracy in Argentina in 1983, while victory boosted Thatcher's government; Argentina still claims sovereignty.",
+    "wikipedia": "Falklands War",
+    "consensus": "established",
+    "tags": [
+      "latin america",
+      "argentina",
+      "united kingdom"
+    ]
+  },
+  {
+    "id": "modern2-ethiopian-famine-live-aid",
+    "title": "Ethiopian famine and Live Aid",
+    "year": 1983.418,
+    "endYear": 1985.999,
+    "dateLabel": "1983–1985 (Live Aid: 13 July 1985)",
+    "lat": 12.5049,
+    "lon": 39.5233,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "Drought, civil war and government policy cause a famine in Ethiopia that kills hundreds of thousands and prompts the Live Aid benefit concerts.",
+    "description": "Severe drought struck northern Ethiopia, but scholars emphasise that the famine's scale owed much to the civil wars in Tigray and Eritrea and to the policies of Mengistu Haile Mariam's Derg regime, including forced resettlement and restrictions on aid to rebel-held areas. A BBC report by Michael Buerk from the relief camp at Korem, marked here, shocked viewers worldwide in October 1984, leading to the charity single 'Do They Know It's Christmas?' and the Live Aid concerts in London and Philadelphia on 13 July 1985, broadcast to an audience estimated at well over a billion. Estimates of the death toll range from about 300,000 to over a million.",
+    "wikipedia": "1983–1985 famine in Ethiopia",
+    "consensus": "established",
+    "tags": [
+      "famine",
+      "africa",
+      "ethiopia",
+      "humanitarian aid"
+    ]
+  },
+  {
+    "id": "modern2-bhopal-disaster",
+    "title": "Bhopal gas disaster",
+    "year": 1984.923,
+    "dateLabel": "2–3 December 1984",
+    "lat": 23.2815,
+    "lon": 77.4098,
+    "category": "disaster",
+    "importance": 2,
+    "summary": "A leak of methyl isocyanate gas from a Union Carbide pesticide plant in Bhopal, India, kills thousands in the world's worst industrial disaster.",
+    "description": "Water entering a storage tank triggered a runaway reaction that released some 40 tonnes of toxic methyl isocyanate over the sleeping city, and the plant's safety systems proved inadequate or were not working. The official immediate death toll was 2,259, and estimates of total deaths from exposure range from about 3,800 to more than 15,000, with hundreds of thousands injured. Union Carbide paid a settlement of 470 million dollars to the Indian government in 1989, widely criticised as inadequate. Contamination of soil and groundwater around the abandoned site persists.",
+    "wikipedia": "Bhopal disaster",
+    "consensus": "established",
+    "tags": [
+      "industrial accident",
+      "india"
+    ]
+  },
+  {
+    "id": "modern2-chernobyl-disaster",
+    "title": "Chernobyl nuclear disaster",
+    "year": 1986.319,
+    "dateLabel": "26 April 1986",
+    "lat": 51.3892,
+    "lon": 30.0992,
+    "category": "disaster",
+    "importance": 4,
+    "summary": "Reactor No. 4 at the Chernobyl plant in Soviet Ukraine explodes during a safety test, the worst nuclear accident in history.",
+    "description": "A flawed reactor design combined with operator errors during a test caused a power surge that blew apart the RBMK reactor and started a graphite fire, spreading radioactive fallout across Ukraine, Belarus, Russia and much of Europe. Two workers died in the explosion and 28 emergency workers died of acute radiation sickness within months, while about 350,000 people were eventually resettled and a 30 km exclusion zone was created. The long-term toll from radiation-related cancers is debated, with estimates ranging from about 4,000 to tens of thousands of deaths, though thousands of thyroid cancers in people exposed as children are clearly linked to the accident. The Soviet government's initial secrecy damaged its credibility and fed into Gorbachev's policy of glasnost.",
+    "wikipedia": "Chernobyl disaster",
+    "consensus": "established",
+    "tags": [
+      "nuclear",
+      "soviet union",
+      "ukraine"
+    ]
+  },
+  {
+    "id": "modern2-montreal-protocol",
+    "title": "Montreal Protocol on the ozone layer",
+    "year": 1987.708,
+    "dateLabel": "16 September 1987",
+    "lat": 45.5017,
+    "lon": -73.5673,
+    "category": "climate",
+    "importance": 3,
+    "summary": "Nations agree to phase out chlorofluorocarbons and other ozone-depleting chemicals after scientists discover a hole in the ozone layer over Antarctica.",
+    "description": "In 1974 the chemists Mario Molina and F. Sherwood Rowland warned that CFCs used in aerosols and refrigeration could destroy stratospheric ozone, which shields life from ultraviolet radiation. In 1985 Joseph Farman and colleagues of the British Antarctic Survey reported a dramatic springtime ozone loss over Halley station, soon confirmed by satellite data, prompting rapid international action. The protocol, strengthened by later amendments, became the first UN treaty ratified by every member state and has cut production of the controlled substances by about 99 percent. The ozone layer is projected to recover to 1980 levels around the middle of the twenty-first century, and Molina, Rowland and Paul Crutzen shared the 1995 Nobel Prize in Chemistry.",
+    "wikipedia": "Montreal Protocol",
+    "consensus": "established",
+    "tags": [
+      "ozone",
+      "environment",
+      "treaty",
+      "antarctica"
+    ]
+  },
+  {
+    "id": "modern2-pan-am-flight-103",
+    "title": "Bombing of Pan Am Flight 103 over Lockerbie",
+    "year": 1988.972,
+    "dateLabel": "21 December 1988",
+    "lat": 55.1206,
+    "lon": -3.354,
+    "category": "war",
+    "importance": 1,
+    "summary": "A bomb destroys a Pan Am Boeing 747 over Lockerbie, Scotland, killing all 259 people aboard and 11 residents on the ground.",
+    "description": "The bomb, hidden in a radio-cassette player inside a suitcase, exploded about 38 minutes after the London-to-New York flight took off from Heathrow. It remains the deadliest terrorist attack in the history of the United Kingdom. After a joint British and American investigation, Libya handed over two suspects, and in 2001 a Scottish court sitting in the Netherlands convicted the Libyan intelligence officer Abdelbaset al-Megrahi of murder, a verdict some victims' relatives continue to question. Libya formally accepted responsibility in 2003 and paid compensation to the victims' families.",
+    "wikipedia": "Pan Am Flight 103",
+    "consensus": "established",
+    "tags": [
+      "terrorism",
+      "aviation",
+      "scotland"
+    ]
+  },
+  {
+    "id": "modern2-tiananmen-square",
+    "title": "Tiananmen Square protests and massacre",
+    "year": 1989.426,
+    "dateLabel": "April–June 1989 (crackdown 3–4 June)",
+    "lat": 39.9055,
+    "lon": 116.3976,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Chinese troops and tanks crush weeks of student-led pro-democracy protests in Beijing, killing hundreds or possibly thousands of people.",
+    "description": "Mourning for the reformist leader Hu Yaobang in April 1989 grew into protests by students and workers demanding political reform, press freedom and an end to corruption, with up to a million people gathering in Tiananmen Square and demonstrations in cities across China. After declaring martial law, the government ordered the army into central Beijing on the night of 3–4 June, and soldiers opened fire on crowds in the surrounding streets. The death toll remains unknown, with estimates from several hundred to several thousand. The image of a lone man blocking a column of tanks became world-famous, while discussion of the events remains censored in China.",
+    "wikipedia": "1989 Tiananmen Square protests and massacre",
+    "consensus": "established",
+    "tags": [
+      "china",
+      "democracy",
+      "protest"
+    ]
+  },
+  {
+    "id": "modern2-fall-of-the-berlin-wall",
+    "title": "Fall of the Berlin Wall",
+    "year": 1989.856,
+    "dateLabel": "9 November 1989",
+    "lat": 52.5163,
+    "lon": 13.3777,
+    "category": "politics",
+    "importance": 5,
+    "summary": "East Germany opens its border crossings and jubilant crowds pour through the Berlin Wall, symbolising the end of the Cold War division of Europe.",
+    "description": "Amid mass emigration through Hungary and growing demonstrations in Leipzig and other cities, the East German government planned to ease travel rules, but spokesman Günter Schabowski mistakenly announced at a press conference that the change took effect immediately. Crowds gathered at the checkpoints, and late that night border guards at Bornholmer Straße opened the gates, followed by the other crossings. The fall of the wall came in a year of largely peaceful revolutions across Eastern Europe, as Mikhail Gorbachev declined to intervene militarily. Germany was reunified on 3 October 1990, when East Germany joined the Federal Republic.",
+    "wikipedia": "Fall of the Berlin Wall",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "germany",
+      "revolutions of 1989"
+    ]
+  },
+  {
+    "id": "modern2-hubble-space-telescope",
+    "title": "Hubble Space Telescope launched",
+    "year": 1990.313,
+    "dateLabel": "24 April 1990",
+    "lat": 28.6272,
+    "lon": -80.6208,
+    "category": "science",
+    "importance": 3,
+    "summary": "Space Shuttle Discovery carries the Hubble Space Telescope into orbit, beginning decades of observations above Earth's distorting atmosphere.",
+    "description": "The telescope is named after Edwin Hubble, who in the 1920s showed that other galaxies lie beyond the Milky Way and that their recession speeds grow with distance, key evidence for the expanding universe proposed by Georges Lemaître in 1927. Soon after launch its primary mirror was found to be flawed, and a shuttle servicing mission in December 1993 installed corrective optics. Hubble went on to refine the universe's expansion rate, observe galaxies in the early universe and help confirm the 1998 discovery that the expansion is accelerating. Its images, such as the 1995 'Pillars of Creation', became some of the most widely known scientific pictures ever made.",
+    "wikipedia": "Hubble Space Telescope",
+    "consensus": "established",
+    "tags": [
+      "astronomy",
+      "space",
+      "nasa"
+    ]
+  },
+  {
+    "id": "modern2-gulf-war",
+    "title": "Gulf War",
+    "year": 1990.587,
+    "endYear": 1991.157,
+    "dateLabel": "2 August 1990 – 28 February 1991",
+    "lat": 29.3759,
+    "lon": 47.9774,
+    "category": "war",
+    "importance": 3,
+    "summary": "Iraq invades and annexes Kuwait; a US-led coalition of 35 nations expels Iraqi forces after a six-week air campaign and a 100-hour ground war.",
+    "description": "Saddam Hussein's Iraq, heavily indebted after its 1980–88 war with Iran and accusing Kuwait of overproducing oil, overran its neighbour in two days. Acting under UN Security Council authority, a coalition of 35 countries led by the United States assembled forces in Saudi Arabia and launched Operation Desert Storm on 17 January 1991 with a massive air campaign, followed by a ground offensive that liberated Kuwait within about 100 hours. Retreating Iraqi troops set more than 600 Kuwaiti oil wells on fire, causing a major environmental disaster. Saddam remained in power and crushed uprisings by Shia and Kurds, and Iraq faced UN sanctions and weapons inspections for the rest of the decade.",
+    "wikipedia": "Gulf War",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "iraq",
+      "kuwait"
+    ]
+  },
+  {
+    "id": "modern2-world-wide-web",
+    "title": "World Wide Web invented at CERN",
+    "year": 1990.969,
+    "dateLabel": "Proposed March 1989; first website December 1990",
+    "lat": 46.2338,
+    "lon": 6.047,
+    "category": "technology",
+    "importance": 5,
+    "summary": "Tim Berners-Lee creates the World Wide Web at CERN, linking documents across the internet with hypertext, web addresses and HTTP.",
+    "description": "Working at the European particle-physics laboratory near Geneva, the British computer scientist Tim Berners-Lee proposed an information-sharing system in March 1989 and by the end of 1990, with help from Robert Cailliau, had written the first web browser, web server and website. The web was opened to the public in August 1991, and CERN placed the software in the public domain in April 1993, the same year the graphical browser Mosaic made it easy to use. Built on the internet, which grew from the US ARPANET network first switched on in 1969, the web expanded from a handful of sites to millions by the end of the decade, transforming commerce, media and communication.",
+    "wikipedia": "World Wide Web",
+    "consensus": "established",
+    "tags": [
+      "internet",
+      "computing",
+      "technology"
+    ]
+  },
+  {
+    "id": "modern2-dissolution-of-the-soviet-union",
+    "title": "Dissolution of the Soviet Union",
+    "year": 1991.985,
+    "dateLabel": "26 December 1991",
+    "lat": 55.752,
+    "lon": 37.6175,
+    "category": "empire",
+    "importance": 5,
+    "summary": "The Soviet Union formally dissolves into 15 independent states the day after Mikhail Gorbachev resigns, ending the Cold War.",
+    "description": "Gorbachev's reforms of glasnost (openness) and perestroika (restructuring) from 1985 loosened central control, and nationalist movements in the Baltic states and other republics pressed for independence. A failed coup by communist hardliners in August 1991, defeated by popular resistance led by Russian President Boris Yeltsin, fatally weakened the central government. In December the leaders of Russia, Ukraine and Belarus declared the union dissolved in the Belovezha Accords, Gorbachev resigned on 25 December, and the Soviet flag was lowered over the Kremlin. Russia took over the Soviet seat on the UN Security Council and its nuclear arsenal, and the end of the superpower rivalry reshaped international politics.",
+    "wikipedia": "Dissolution of the Soviet Union",
+    "consensus": "established",
+    "tags": [
+      "cold war",
+      "soviet union",
+      "russia"
+    ]
+  },
+  {
+    "id": "modern2-maastricht-treaty",
+    "title": "Maastricht Treaty creates the European Union",
+    "year": 1992.101,
+    "dateLabel": "Signed 7 February 1992; in force 1 November 1993",
+    "lat": 50.8514,
+    "lon": 5.691,
+    "category": "politics",
+    "importance": 2,
+    "summary": "Twelve European countries sign the Treaty on European Union in Maastricht, establishing the EU, European citizenship and the path to a single currency.",
+    "description": "The treaty built on the European Economic Community, founded by the Treaty of Rome in 1957, adding cooperation on foreign and security policy and on justice and home affairs to economic integration. It created citizenship of the Union and set criteria and a timetable for economic and monetary union, leading to the euro. Ratification proved contentious: Danish voters initially rejected it in 1992 and French voters approved it only narrowly. The EU expanded to 15 members in 1995 and, after the end of the Cold War, prepared to admit countries of the former Eastern bloc.",
+    "wikipedia": "Maastricht Treaty",
+    "consensus": "established",
+    "tags": [
+      "europe",
+      "european union"
+    ]
+  },
+  {
+    "id": "modern2-oslo-accords",
+    "title": "Oslo Accords",
+    "year": 1993.7,
+    "dateLabel": "13 September 1993",
+    "lat": 59.9139,
+    "lon": 10.7522,
+    "category": "politics",
+    "importance": 3,
+    "summary": "Israel and the Palestine Liberation Organization recognise each other and agree on interim Palestinian self-government, sealed by a famous handshake.",
+    "description": "Secret negotiations hosted by Norway in Oslo led to mutual recognition between Israel and the PLO and to the Declaration of Principles, signed on the White House lawn in Washington, where Israeli Prime Minister Yitzhak Rabin and PLO chairman Yasser Arafat shook hands in the presence of US President Bill Clinton. The agreement led in 1994 to the creation of the Palestinian Authority with limited self-rule in Gaza and parts of the West Bank, deferring issues such as borders, Jerusalem, refugees and settlements to final-status talks within five years. Rabin, Arafat and Israeli Foreign Minister Shimon Peres shared the 1994 Nobel Peace Prize, but Rabin was assassinated by an Israeli extremist in 1995, and the process stalled amid continued violence and settlement expansion.",
+    "wikipedia": "Oslo Accords",
+    "consensus": "established",
+    "tags": [
+      "middle east",
+      "peace",
+      "israel",
+      "palestine"
+    ]
+  },
+  {
+    "id": "modern2-rwandan-genocide",
+    "title": "Rwandan genocide",
+    "year": 1994.267,
+    "endYear": 1994.539,
+    "dateLabel": "7 April – 15 July 1994",
+    "lat": -1.9441,
+    "lon": 30.0619,
+    "category": "war",
+    "importance": 4,
+    "summary": "Hutu extremists in Rwanda kill an estimated 500,000 to 800,000 people, mostly Tutsi, in about 100 days.",
+    "description": "After a plane carrying President Juvénal Habyarimana was shot down over Kigali on 6 April 1994, Hutu Power militias such as the Interahamwe, the army and many ordinary civilians, incited by radio broadcasts, began systematically killing Tutsi as well as moderate Hutu. A small UN peacekeeping force was reduced rather than reinforced, and the wider international community failed to intervene. The killing ended when the Tutsi-led Rwandan Patriotic Front under Paul Kagame took control of the country in July. Some two million Hutu fled to neighbouring countries, more than a million of them to Zaire, contributing to the First and Second Congo Wars, among the deadliest conflicts since World War II.",
+    "wikipedia": "Rwandan genocide",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "africa"
+    ]
+  },
+  {
+    "id": "modern2-south-africa-1994-election",
+    "title": "Mandela elected in South Africa's first free election",
+    "year": 1994.321,
+    "dateLabel": "27 April 1994 (inaugurated 10 May)",
+    "lat": -25.7402,
+    "lon": 28.2121,
+    "category": "politics",
+    "importance": 4,
+    "summary": "South Africa holds its first election open to all races; the ANC wins and Nelson Mandela becomes the country's first Black president.",
+    "description": "Released on 11 February 1990 after 27 years in prison, Mandela led the African National Congress in negotiations with President F. W. de Klerk's government to dismantle apartheid, a process threatened by political violence that killed thousands. Nearly 20 million people voted over several days, many queuing for hours, and the ANC won about 62 percent of the vote. Mandela was inaugurated at the Union Buildings in Pretoria on 10 May, heading a government of national unity, and the country adopted a new constitution in 1996. The Truth and Reconciliation Commission, chaired by Archbishop Desmond Tutu, went on to investigate human-rights abuses of the apartheid era.",
+    "wikipedia": "1994 South African general election",
+    "consensus": "established",
+    "tags": [
+      "south africa",
+      "democracy",
+      "apartheid"
+    ]
+  },
+  {
+    "id": "modern2-srebrenica-massacre",
+    "title": "Srebrenica massacre",
+    "year": 1995.528,
+    "endYear": 1995.558,
+    "dateLabel": "11–22 July 1995",
+    "lat": 44.1064,
+    "lon": 19.2967,
+    "category": "war",
+    "importance": 3,
+    "summary": "Bosnian Serb forces overrun the UN 'safe area' of Srebrenica and kill more than 8,000 Bosniak men and boys.",
+    "description": "The Yugoslav Wars broke out as Yugoslavia disintegrated from 1991, and in Bosnia and Herzegovina (1992–95) Bosnian Serb forces carried out campaigns of 'ethnic cleansing' against Bosniaks and Croats, including the nearly four-year siege of Sarajevo. When troops under General Ratko Mladić captured Srebrenica, lightly armed Dutch UN peacekeepers did not resist; women and children were bused away while men and boys were systematically executed and buried in mass graves. The International Criminal Tribunal for the former Yugoslavia and the International Court of Justice ruled the massacre a genocide, the worst mass killing in Europe since World War II. NATO air strikes and the Dayton Agreement of December 1995 ended the Bosnian war.",
+    "wikipedia": "Srebrenica massacre",
+    "consensus": "established",
+    "tags": [
+      "genocide",
+      "yugoslav wars",
+      "bosnia"
+    ]
+  },
+  {
+    "id": "modern2-dolly-the-sheep",
+    "title": "Dolly the sheep, first cloned mammal",
+    "year": 1996.512,
+    "dateLabel": "Born 5 July 1996; announced 22 February 1997",
+    "lat": 55.86,
+    "lon": -3.19,
+    "category": "science",
+    "importance": 2,
+    "summary": "Scientists at the Roslin Institute in Scotland clone a sheep from an adult cell, the first mammal cloned from a specialised adult cell.",
+    "description": "Ian Wilmut, Keith Campbell and colleagues produced Dolly by somatic cell nuclear transfer, inserting the nucleus of a mammary-gland cell from a six-year-old ewe into an egg cell whose own nucleus had been removed; she was the only lamb born from 277 attempts. Her existence showed that the DNA of a specialised adult cell could be reprogrammed to produce an entire organism, overturning a long-held assumption. The announcement in 1997 sparked worldwide debate about human cloning, and many countries moved to ban it. Dolly lived until 2003, and the research fed into later work on stem cells and regenerative medicine.",
+    "wikipedia": "Dolly (sheep)",
+    "consensus": "established",
+    "tags": [
+      "genetics",
+      "cloning",
+      "biology"
+    ]
+  },
+  {
+    "id": "modern2-hong-kong-handover",
+    "title": "Handover of Hong Kong",
+    "year": 1997.501,
+    "dateLabel": "1 July 1997",
+    "lat": 22.2832,
+    "lon": 114.1733,
+    "category": "empire",
+    "importance": 2,
+    "summary": "Britain transfers sovereignty over Hong Kong to China, ending 156 years of colonial rule under the 'one country, two systems' principle.",
+    "description": "Hong Kong Island was ceded to Britain after the First Opium War, and the New Territories were leased for 99 years in 1898, a deadline that prompted negotiations in the 1980s. Under the Sino-British Joint Declaration of 1984, China promised that Hong Kong would keep its capitalist system, legal system and freedoms for 50 years as a Special Administrative Region. The handover ceremony took place at midnight at the Hong Kong Convention and Exhibition Centre, attended by Prince Charles and Chinese President Jiang Zemin. Portugal returned nearby Macau to China in December 1999.",
+    "wikipedia": "Handover of Hong Kong",
+    "consensus": "established",
+    "tags": [
+      "china",
+      "decolonisation",
+      "united kingdom"
+    ]
+  },
+  {
+    "id": "modern2-kyoto-protocol",
+    "title": "Kyoto Protocol adopted",
+    "year": 1997.945,
+    "dateLabel": "11 December 1997",
+    "lat": 35.0581,
+    "lon": 135.7854,
+    "category": "climate",
+    "importance": 3,
+    "summary": "Nations adopt the Kyoto Protocol, the first treaty setting binding greenhouse-gas emission targets for industrialised countries.",
+    "description": "Building on the UN Framework Convention on Climate Change agreed at the 1992 Earth Summit in Rio de Janeiro, the protocol committed developed countries to cut emissions by an average of about 5 percent below 1990 levels over 2008–2012. Scientific concern had grown since Charles David Keeling's measurements at Mauna Loa from 1958 showed rising atmospheric carbon dioxide, and the Intergovernmental Panel on Climate Change, founded in 1988, concluded in 1995 that human influence on the climate was discernible. The United States signed but never ratified the protocol, and it placed no binding targets on developing countries such as China and India, whose emissions grew rapidly. It entered into force in 2005.",
+    "wikipedia": "Kyoto Protocol",
+    "consensus": "established",
+    "tags": [
+      "climate change",
+      "treaty",
+      "environment"
+    ]
+  },
+  {
+    "id": "modern2-good-friday-agreement",
+    "title": "Good Friday Agreement",
+    "year": 1998.276,
+    "dateLabel": "10 April 1998",
+    "lat": 54.6046,
+    "lon": -5.8318,
+    "category": "politics",
+    "importance": 2,
+    "summary": "The British and Irish governments and most Northern Ireland parties sign a peace deal largely ending three decades of conflict known as the Troubles.",
+    "description": "The Troubles, which began in the late 1960s, pitted mainly Catholic nationalists and republicans seeking a united Ireland against mainly Protestant unionists and loyalists, with the British Army deployed from 1969; some 3,500 people were killed. Negotiations chaired by former US Senator George Mitchell produced an agreement for power-sharing devolved government, cross-border bodies, the release of paramilitary prisoners and the decommissioning of weapons, and recognised that Northern Ireland's status could change only with the consent of a majority of its people. It was approved by referendums in both parts of Ireland in May 1998. John Hume and David Trimble received the Nobel Peace Prize for their roles.",
+    "wikipedia": "Good Friday Agreement",
+    "consensus": "established",
+    "tags": [
+      "ireland",
+      "united kingdom",
+      "peace"
+    ]
+  },
+  {
+    "id": "modern2-international-space-station",
+    "title": "First module of the International Space Station",
+    "year": 1998.886,
+    "dateLabel": "20 November 1998",
+    "lat": 45.96,
+    "lon": 63.31,
+    "category": "exploration",
+    "importance": 1,
+    "summary": "A Russian Proton rocket launches Zarya, the first module of the International Space Station, built by the US, Russia, Europe, Japan and Canada.",
+    "description": "The station merged the US Space Station Freedom project with Russia's planned Mir-2 after the end of the Cold War. The US-built Unity node was attached in December 1998, and the first resident crew arrived in November 2000, beginning continuous human occupation. Assembled over more than a decade from modules launched by Russian rockets and the Space Shuttle, it became the largest structure humans have put in space. It succeeded the Soviet and Russian station Mir, launched in 1986, continuously crewed from 1989 to 1999 and deorbited in 2001.",
+    "wikipedia": "International Space Station",
+    "consensus": "established",
+    "tags": [
+      "space",
+      "international cooperation",
+      "human spaceflight"
+    ]
+  },
+  {
+    "id": "modern2-euro-introduced",
+    "title": "Euro introduced",
+    "year": 1999.001,
+    "dateLabel": "1 January 1999 (notes and coins from 2002)",
+    "lat": 50.1109,
+    "lon": 8.6821,
+    "category": "economy",
+    "importance": 2,
+    "summary": "Eleven EU countries adopt the euro as a common currency, managed by the European Central Bank in Frankfurt.",
+    "description": "Launched under the terms of the Maastricht Treaty, the euro replaced currencies such as the Deutsche Mark, French franc and Italian lira at fixed conversion rates, initially as an electronic currency for banking and financial markets. Monetary policy for the eurozone passed to the European Central Bank, established in 1998. Greece joined in 2001, and euro banknotes and coins entered circulation on 1 January 2002. It was the most ambitious monetary union of modern times, though critics warned that sharing a currency without a common fiscal policy carried risks, as the eurozone crisis after 2009 would show.",
+    "wikipedia": "Euro",
+    "consensus": "established",
+    "tags": [
+      "europe",
+      "currency",
+      "economy"
+    ]
+  },
+  {
+    "id": "modern2-kosovo-war",
+    "title": "Kosovo War and NATO bombing of Yugoslavia",
+    "year": 1999.23,
+    "endYear": 1999.442,
+    "dateLabel": "24 March – 10 June 1999 (NATO air campaign)",
+    "lat": 42.6629,
+    "lon": 21.1655,
+    "category": "war",
+    "importance": 2,
+    "summary": "NATO bombs Yugoslavia for 78 days to halt Serbian repression of Kosovo Albanians, leading to Serbian withdrawal and UN administration.",
+    "description": "Fighting between the Kosovo Liberation Army and Yugoslav and Serbian forces under Slobodan Milošević escalated in 1998, with massacres of ethnic Albanian civilians. After peace talks failed, NATO launched air strikes without UN Security Council authorisation, while Serbian forces expelled ethnic Albanians on a massive scale; around 800,000 fled to neighbouring countries. Yugoslavia agreed to withdraw in June, and Kosovo came under UN administration with a NATO-led peacekeeping force. Milošević was later tried for war crimes at The Hague but died in 2006 before a verdict, and Kosovo declared independence in 2008.",
+    "wikipedia": "Kosovo War",
+    "consensus": "established",
+    "tags": [
+      "yugoslav wars",
+      "nato",
+      "balkans"
+    ]
+  },
+  {
+    "id": "modern2-green-revolution",
+    "title": "Green Revolution",
+    "year": 1965,
+    "endYear": 1985,
+    "dateLabel": "Mid-1960s to 1980s (research from the 1940s)",
+    "lat": 30.901,
+    "lon": 75.8573,
+    "category": "technology",
+    "importance": 3,
+    "summary": "High-yielding wheat and rice varieties, fertilisers and irrigation dramatically raise grain harvests across Asia and Latin America.",
+    "description": "The agronomist Norman Borlaug, working in Mexico from 1944 under a Rockefeller Foundation programme, bred disease-resistant, semi-dwarf wheat that produced far more grain when given fertiliser and water, and the International Rice Research Institute in the Philippines released the high-yielding rice IR8 in 1966. Introduced to India and Pakistan amid fears of famine in the mid-1960s, the new varieties helped India's wheat harvest roughly double within six years, with Punjab, marked here, at the forefront. Borlaug received the 1970 Nobel Peace Prize, and the Green Revolution is credited with averting widespread famine as Asia's population grew. Critics point to its heavy use of water, fertilisers and pesticides, soil degradation and benefits that favoured wealthier farmers, and its gains largely bypassed sub-Saharan Africa.",
+    "wikipedia": "Green Revolution",
+    "consensus": "established",
+    "tags": [
+      "agriculture",
+      "food",
+      "asia",
+      "latin america"
+    ]
+  }
+]

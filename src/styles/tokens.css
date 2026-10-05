@@ -1,0 +1,40 @@
+/* Design tokens for the UI overlay (dark glass over the globe). */
+:root {
+  /* Opaque enough that dim and faint text keep ≥ 3.8:1 contrast over bright ice or desert imagery. */
+  --hoe-glass: rgba(10, 14, 22, 0.86);
+  --hoe-glass-strong: rgba(10, 14, 22, 0.9);
+  --hoe-hairline: rgba(255, 255, 255, 0.08);
+  --hoe-hairline-strong: rgba(255, 255, 255, 0.16);
+  --hoe-hover: rgba(255, 255, 255, 0.08);
+  --hoe-text: #e9eef5;
+  --hoe-text-dim: #a7b2c1;
+  --hoe-text-faint: #95a0b1;
+  --hoe-accent: #4fc3f7;
+  --hoe-accent-ink: #03141c;
+  --hoe-accent-soft: rgba(79, 195, 247, 0.14);
+  --hoe-accent-line: rgba(79, 195, 247, 0.45);
+  --hoe-amber: #ffb300;
+  --hoe-fringe: #9e9e9e;
+
+  --hoe-font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --hoe-radius: 12px;
+  --hoe-radius-sm: 8px;
+  --hoe-blur: 14px;
+  --hoe-shadow: 0 8px 28px rgba(0, 0, 0, 0.38);
+  --hoe-t: 150ms ease;
+
+  --hoe-panel-w: 360px;
+  --hoe-toc-w: 320px;
+  /* Phone bottom-sheet height; BottomSheet.ts writes it on :root so the globe's credit strip can follow it too. */
+  --sheet-h: 150px;
+  /* Lane kept free under the playback controls for the map attribution (src/app/shell.css). */
+  --hoe-credits-h: 14px;
+}
+
+@media (max-width: 1099px) {
+  :root { --hoe-panel-w: 320px; }
+}
+/* Below this width the Esri credit (~620 px of text) wraps onto a second line. */
+@media (max-width: 979px) {
+  :root { --hoe-credits-h: 28px; }
+}

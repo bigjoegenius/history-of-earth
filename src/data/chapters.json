@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "hadean",
+    "title": "Hadean",
+    "subtitle": "Birth of a planet",
+    "level": 1,
+    "start": -4567000000,
+    "end": -4031000000,
+    "timelineWeight": 6,
+    "playbackYearsPerSecond": 15000000,
+    "description": "Earth assembles from dust and rubble around the young Sun, and a collision with a Mars-sized body is thought to blast out the debris that becomes the Moon. For millions of years the surface is a magma ocean under a scalding atmosphere of rock vapour and steam. As the planet cools, a thin crust and the first oceans form while impacts continue to scar it. Almost no rocks survive from this eon, so most of what is known comes from tiny zircon crystals, meteorites and lunar samples.",
+    "planet": {
+      "o2": "~0%",
+      "co2": "rock vapour, then steam & CO₂",
+      "temperature": "molten, then cooling",
+      "dayLength": "~5 h → ~12 h? (very uncertain)",
+      "life": "none confirmed",
+      "continents": "none; small crustal fragments at most"
+    },
+    "globeStyle": { "mode": "schematic", "schematic": "magma", "atmosphere": "orange", "iceCapLatitude": 90 },
+    "fringeTheories": [
+      {
+        "title": "Young-Earth creationism",
+        "consensus": "fringe",
+        "claim": "Some religious groups hold that Earth and the universe were created within the last 6,000–10,000 years, and read the geological record accordingly.",
+        "mainstreamView": "Independent radiometric methods agree on an age of about 4.57 billion years for the oldest meteorites and about 4.4 billion years for the oldest terrestrial zircons, consistent with lunar samples and models of the Sun. Annual layers in ice cores, lake sediments and tree-ring sequences alone extend well beyond 10,000 years.",
+        "wikipedia": "Young Earth creationism"
+      }
+    ],
+    "children": [
+      {
+        "id": "hadean-accretion",
+        "title": "Accretion & the Moon-forming impact",
+        "subtitle": "From dust to a planet and its Moon",
+        "level": 2,
+        "start": -4567000000,
+        "end": -4450000000,
+        "playbackYearsPerSecond": 5000000,
+        "description": "The oldest solids in the Solar System, calcium–aluminium-rich inclusions in meteorites, formed about 4,567 million years ago and start the clock. Dust clumps into planetesimals and planetary embryos, and Earth grows through violent collisions over a few tens of millions of years while its iron sinks to form the core. Late in this growth a Mars-sized body, often called Theia, is thought to strike the proto-Earth, and the debris it throws into orbit gathers into the Moon around 4.5 billion years ago (estimates range from about 4.51 to 4.42 billion years). The newborn Moon orbits far closer than today, raising enormous tides on a molten planet that spins once every few hours.",
+        "planet": {
+          "o2": "~0%",
+          "co2": "rock vapour, then steam & CO₂",
+          "temperature": "surface molten (>1,000 °C)",
+          "dayLength": "~5 h after impact (uncertain)",
+          "life": "none",
+          "continents": "none; global magma ocean"
+        },
+        "globeStyle": { "schematic": "magma" },
+        "fringeTheories": [
+          {
+            "title": "The Moon is a hollow spacecraft",
+            "consensus": "fringe",
+            "claim": "In 1970 two Soviet writers, Mikhail Vasin and Alexander Shcherbakov, proposed that the Moon is a hollowed-out alien spacecraft, an idea later taken up in ancient-astronaut literature.",
+            "mainstreamView": "Measurements of the Moon's gravity field and moment of inertia, and moonquakes recorded by Apollo seismometers, show a solid body with a crust, mantle and small dense core. Its isotopic composition, closely matching Earth's mantle, points to formation from material shared with Earth, most likely in a giant impact.",
+            "wikipedia": "Hollow Moon"
+          }
+        ]
+      },
+      {
+        "id": "hadean-magma-ocean",
+        "title": "Magma ocean & first crust",
+        "subtitle": "A molten world freezes over",
+        "level": 2,
+        "start": -4450000000,
+        "end": -4300000000,
+        "description": "The magma ocean left by the giant impact crystallises from the bottom up, probably within a few million years, sealing the planet under a dark basaltic crust that is repeatedly broken and recycled. A thick atmosphere of steam and carbon dioxide blankets the surface, and as it cools the water can rain out. Zircon crystals from the Jack Hills of Western Australia, some about 4.4 billion years old, are the oldest known fragments of Earth, and their chemistry hints that liquid water and evolved crust already existed. Meanwhile the Moon spirals outward and the day slowly lengthens.",
+        "planet": {
+          "o2": "~0%",
+          "co2": "dense steam & CO₂ atmosphere",
+          "temperature": "cooling; first rain possible",
+          "dayLength": "~6–10 h? (very uncertain)",
+          "life": "none known",
+          "continents": "thin crust; oldest zircons 4.4 Ga"
+        },
+        "globeStyle": { "schematic": "cooling" },
+        "fringeTheories": [
+          {
+            "title": "Hollow Earth",
+            "consensus": "fringe",
+            "claim": "Edmond Halley suggested in 1692 that Earth contains concentric hollow shells, and in 1818 John Cleves Symmes Jr. claimed that openings at the poles lead to a habitable interior; versions of the idea persist in esoteric and conspiracy circles.",
+            "mainstreamView": "Earth's average density, about 5.5 grams per cubic centimetre, is far higher than that of surface rocks and requires a dense interior. Seismic waves crossing the planet reveal a solid crust and mantle, a liquid outer core and a solid inner core, and polar expeditions and satellite images show no polar openings.",
+            "wikipedia": "Hollow Earth"
+          }
+        ]
+      },
+      {
+        "id": "hadean-first-oceans",
+        "title": "First oceans",
+        "subtitle": "A water world under a faint Sun",
+        "level": 2,
+        "start": -4300000000,
+        "end": -4031000000,
+        "description": "By about 4.3 billion years ago Earth probably has oceans, though how deep and how warm they are is uncertain. The surface is likely a water world dotted with volcanic islands, with little emergent continental crust, under a sky rich in carbon dioxide. Asteroid impacts remain frequent; an intense 'Late Heavy Bombardment' around 4.1–3.8 billion years ago was long accepted but is now debated, as re-analysis of lunar samples suggests a more gradual decline. Some researchers argue that life may already have emerged, citing 4.1-billion-year-old graphite inside a zircon, but this evidence is contested.",
+        "planet": {
+          "o2": "~0%",
+          "co2": "very high, declining (uncertain)",
+          "temperature": "unknown; possibly temperate",
+          "dayLength": "~10–12 h? (very uncertain)",
+          "life": "none confirmed; origins debated",
+          "continents": "little emergent land"
+        },
+        "globeStyle": { "schematic": "waterworld" }
+      }
+    ]
+  },
+  {
+    "id": "archean",
+    "title": "Archean",
+    "subtitle": "First life, first continents",
+    "level": 1,
+    "start": -4031000000,
+    "end": -2500000000,
+    "timelineWeight": 7,
+    "playbackYearsPerSecond": 25000000,
+    "description": "The oldest surviving rocks, the first microbial ecosystems and the first stable continental cores all date from this eon. The atmosphere is nearly free of oxygen and rich in carbon dioxide and probably methane, giving a hazy sky, while the Sun shines roughly 20–30% more faintly than today. Microbial mats build stromatolites in shallow seas, continents slowly grow and rise above the waves, and some form of plate tectonics gets under way, though when it began is still debated. By the end of the eon, cyanobacteria are producing oxygen, setting the stage for the Great Oxidation.",
+    "planet": {
+      "o2": "~0% (<0.001% of today's level)",
+      "co2": "~10,000–100,000+ ppm? (uncertain)",
+      "temperature": "debated: temperate to hot",
+      "dayLength": "~12 → ~17 h (uncertain)",
+      "life": "microbes only (bacteria, archaea)",
+      "continents": "small cratons; crust grows"
+    },
+    "globeStyle": { "mode": "schematic", "schematic": "waterworld", "atmosphere": "hazy", "iceCapLatitude": 90 },
+    "children": [
+      {
+        "id": "archean-eoarchean",
+        "title": "Eoarchean",
+        "subtitle": "The oldest rocks and the first signs of life",
+        "level": 2,
+        "start": -4031000000,
+        "end": -3600000000,
+        "description": "The oldest surviving rocks date from this era: the Acasta Gneiss of northern Canada, about 4.0 billion years old, and the Isua Greenstone Belt of Greenland, about 3.8–3.7 billion years old. At Isua, carbon depleted in heavy isotopes and possible 3.7-billion-year-old stromatolites hint at early life, though both claims are debated. The planet is still largely ocean, the young Sun is dim, and the atmosphere is dominated by nitrogen and carbon dioxide with essentially no free oxygen. Impacts are becoming rarer but still strike far more often than today.",
+        "planet": {
+          "o2": "~0%",
+          "co2": "very high (uncertain)",
+          "temperature": "debated; faint young Sun",
+          "dayLength": "~12 h? (poorly constrained)",
+          "life": "possible first microbes (debated)",
+          "continents": "small proto-continents"
+        },
+        "fringeTheories": [
+          {
+            "title": "Strong panspermia: life and diseases from space",
+            "consensus": "fringe",
+            "claim": "Astronomers Fred Hoyle and Chandra Wickramasinghe argued that life did not originate on Earth but arrived from space, and that microbes and viruses, including the causes of epidemics, still rain down from comets.",
+            "mainstreamView": "Meteorites do deliver organic molecules such as amino acids, and the exchange of rocks between planets makes some transfer of microbes conceivable, so weak forms of panspermia remain legitimate hypotheses. But there is no evidence that Earth's life began elsewhere, the strong version only relocates the origin-of-life problem, and the idea that epidemics arrive from space is rejected by virology and epidemiology.",
+            "wikipedia": "Panspermia"
+          }
+        ]
+      },
+      {
+        "id": "archean-paleoarchean",
+        "title": "Paleoarchean",
+        "subtitle": "Microbial mats and the first stromatolite reefs",
+        "level": 2,
+        "start": -3600000000,
+        "end": -3200000000,
+        "description": "Well-preserved rocks in the Pilbara of Western Australia and the Barberton belt of South Africa record a world of volcanic islands, hot springs and shallow seas. Stromatolites in the 3.48-billion-year-old Dresser Formation and the 3.43-billion-year-old Strelley Pool Formation are widely accepted as some of the oldest evidence of life, built by microbial mats that probably harvested sunlight without producing oxygen. Layers of glassy spherules show that giant asteroids still strike every few tens of millions of years. Late in the era, continental crust may begin to rise above sea level in larger amounts.",
+        "planet": {
+          "o2": "~0%",
+          "co2": "high (uncertain)",
+          "temperature": "debated: temperate to hot",
+          "dayLength": "~12–13 h? (uncertain)",
+          "life": "microbial mats, stromatolites",
+          "continents": "Pilbara & Kaapvaal cratons"
+        }
+      },
+      {
+        "id": "archean-mesoarchean",
+        "title": "Mesoarchean",
+        "subtitle": "Continents rise and plate tectonics stirs",
+        "level": 2,
+        "start": -3200000000,
+        "end": -2800000000,
+        "description": "Continental crust grows and increasingly emerges above the sea, and many geologists think that some form of plate tectonics was operating by around 3.2–3.0 billion years ago, although the timing remains debated. The Pongola glaciation in southern Africa, about 2.9 billion years ago, is the oldest known glaciation. Chemical traces in some rocks suggest brief, local 'whiffs' of oxygen, consistent with early oxygen-producing photosynthesis but not proof of it. Microbial life is diverse and widespread in shallow seas.",
+        "planet": {
+          "o2": "~0% (brief local whiffs?)",
+          "co2": "high (uncertain)",
+          "temperature": "first known glaciation (Pongola)",
+          "dayLength": "~13–15 h? (uncertain)",
+          "life": "diverse microbes; cyanobacteria?",
+          "continents": "cratons emerge above sea level"
+        },
+        "globeStyle": { "schematic": "cratons" }
+      },
+      {
+        "id": "archean-neoarchean",
+        "title": "Neoarchean",
+        "subtitle": "Cyanobacteria and the iron seas",
+        "level": 2,
+        "start": -2800000000,
+        "end": -2500000000,
+        "description": "Blocks of continental crust gather into large landmasses, either a single supercontinent called Kenorland or several supercratons such as Superia and Sclavia, and a surge of crust formation produces many of today's continental cores. Oxygen-producing cyanobacteria are probably at work by now, but their oxygen is consumed by dissolved iron and volcanic gases. The iron precipitates as vast banded iron formations, such as those of the Hamersley Basin in Western Australia, the source of much of the world's iron ore today. A 'whiff of oxygen' recorded in 2.5-billion-year-old shales hints at the change to come.",
+        "planet": {
+          "o2": "~0% (transient whiffs)",
+          "co2": "high (uncertain)",
+          "dayLength": "~15–17 h (uncertain)",
+          "life": "cyanobacteria; microbial mats",
+          "continents": "supercratons (Superia, Sclavia)"
+        },
+        "globeStyle": { "schematic": "cratons" }
+      }
+    ]
+  },
+  {
+    "id": "proterozoic",
+    "title": "Proterozoic",
+    "subtitle": "Oxygen, supercontinents, snowball Earth",
+    "level": 1,
+    "start": -2500000000,
+    "end": -538800000,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 25000000,
+    "description": "Oxygen accumulates in the atmosphere for the first time, transforming the chemistry of the oceans, the rocks and life itself. The eon sees the assembly and break-up of the supercontinents Columbia (Nuna) and Rodinia, a long stretch of stability nicknamed the 'Boring Billion', and the most severe ice ages in Earth's history. Complex cells with nuclei (eukaryotes) appear and diversify, sex and multicellularity evolve, and by the end the first large animals populate the sea floor.",
+    "planet": {
+      "o2": "rises in steps; mostly low",
+      "co2": "falling, still well above today",
+      "temperature": "ice ages at start and near end",
+      "dayLength": "~17 → ~22 h",
+      "life": "microbes → eukaryotes → animals",
+      "continents": "Columbia, then Rodinia, then Gondwana"
+    },
+    "globeStyle": { "mode": "schematic", "schematic": "cratons", "atmosphere": "thin", "iceCapLatitude": 90 },
+    "children": [
+      {
+        "id": "proterozoic-paleoproterozoic",
+        "title": "Paleoproterozoic",
+        "subtitle": "The Great Oxidation",
+        "level": 2,
+        "start": -2500000000,
+        "end": -1600000000,
+        "description": "Between about 2.43 and 2.2 billion years ago oxygen becomes a permanent part of the atmosphere in the Great Oxidation Event, arguably the most important chemical change in Earth's history. The loss of the methane greenhouse may have helped trigger the Huronian glaciations, some of which may have reached the tropics. Two of the largest known impact structures, Vredefort and Sudbury, form, and mountain-building collisions weld older cratons into the supercontinent Columbia (Nuna). Toward the end of the era, the first fossils widely accepted as eukaryotes appear.",
+        "planet": {
+          "o2": "rises to ~0.2–2%? (1–10% of today)",
+          "co2": "falling; still far above today",
+          "dayLength": "~17–19 h",
+          "life": "bacteria, archaea; first eukaryotes",
+          "continents": "Columbia (Nuna) assembles"
+        },
+        "children": [
+          {
+            "id": "proterozoic-great-oxidation",
+            "title": "Great Oxidation & Huronian glaciations",
+            "subtitle": "Oxygen arrives and the planet freezes",
+            "level": 3,
+            "start": -2500000000,
+            "end": -2220000000,
+            "description": "Oxygen from cyanobacteria finally outpaces the processes that consume it, and between about 2.43 and 2.3 billion years ago the sulfur-isotope signals that require oxygen-free air disappear from the rock record. Oxygen destroys atmospheric methane, a potent greenhouse gas, and the resulting cooling is thought to have helped trigger the Huronian glaciations, recorded in glacial deposits in Canada, South Africa and elsewhere. Oxygen levels may have flickered up and down for some 200 million years before stabilising. For many anaerobic microbes oxygen is a poison, and they retreat to oxygen-free refuges.",
+            "planet": {
+              "o2": "~0% → ~0.2–2% (fluctuating)",
+              "temperature": "repeated glaciations, maybe global",
+              "dayLength": "~17 h",
+              "life": "microbes adapt to oxygen",
+              "continents": "Archean supercratons rift apart"
+            },
+            "globeStyle": { "iceCapLatitude": 35 }
+          },
+          {
+            "id": "proterozoic-lomagundi",
+            "title": "Oxygen overshoot: the Lomagundi event",
+            "subtitle": "A carbon-isotope spike and rusting continents",
+            "level": 3,
+            "start": -2220000000,
+            "end": -2050000000,
+            "description": "After the ice ages, carbonate rocks worldwide record the largest positive carbon-isotope excursion in Earth's history, the Lomagundi–Jatuli event, from about 2.22 to 2.06 billion years ago. It is usually interpreted as a time of massive burial of organic carbon and therefore unusually high oxygen production, perhaps an oxygen 'overshoot'. Red beds and thick sulfate-bearing evaporites become widespread as the land surface and oceans oxidise. In Gabon, the roughly 2.1-billion-year-old Francevillian fossils include centimetre-scale structures that some researchers interpret as early multicellular life, though this is debated.",
+            "planet": {
+              "o2": "elevated, then falls (uncertain)",
+              "temperature": "warm; no glaciation known",
+              "dayLength": "~18 h",
+              "life": "microbes; Francevillian biota?",
+              "continents": "cratons begin to collide"
+            }
+          },
+          {
+            "id": "proterozoic-columbia",
+            "title": "Columbia (Nuna) & the first eukaryotes",
+            "subtitle": "Giant impacts, a supercontinent, cells with nuclei",
+            "level": 3,
+            "start": -2050000000,
+            "end": -1600000000,
+            "description": "The Vredefort impact in South Africa, about 2.02 billion years ago, leaves the largest confirmed impact structure on Earth, and the Sudbury impact in Canada follows about 1.85 billion years ago. Across the globe, mountain-building events such as the Trans-Hudson orogeny weld older cratons into the supercontinent Columbia, also called Nuna, by about 1.8 billion years ago. Coiled ribbons called Grypania, about 1.87 billion years old, may be early algae, and by around 1.65 billion years ago unambiguous eukaryotic microfossils appear. Oxygen settles at low levels, and the deep oceans remain largely without oxygen.",
+            "planet": {
+              "o2": "low (~0.2–2%?)",
+              "co2": "~10–100× pre-industrial? (uncertain)",
+              "dayLength": "~18–19 h",
+              "life": "first unambiguous eukaryotes",
+              "continents": "supercontinent Columbia (Nuna)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "proterozoic-mesoproterozoic",
+        "title": "Mesoproterozoic",
+        "subtitle": "The 'Boring Billion'",
+        "level": 2,
+        "start": -1600000000,
+        "end": -1000000000,
+        "description": "Earth settles into a long interval of environmental stability, nicknamed the 'Boring Billion', with low oxygen, no well-established glaciations and muted swings in carbon isotopes. Columbia slowly breaks apart and, toward the end of the era, the Grenville mountain-building event helps assemble a new supercontinent, Rodinia. Beneath the calm, biology innovates: eukaryotes diversify, and the red alga Bangiomorpha, about 1.05 billion years old, is the oldest known organism with evidence of sexual reproduction. Tidal and astronomical evidence suggests that the day length stalled at around 19 hours for much of this time.",
+        "planet": {
+          "o2": "low (~0.2–2%?; debated)",
+          "co2": "~10–100× pre-industrial? (uncertain)",
+          "temperature": "mild; no known ice ages",
+          "dayLength": "~19 h (possibly stalled)",
+          "life": "eukaryotes diversify; red algae",
+          "continents": "Columbia rifts; Rodinia forms"
+        }
+      },
+      {
+        "id": "proterozoic-neoproterozoic",
+        "title": "Neoproterozoic",
+        "subtitle": "Rodinia, Snowball Earth and the first animals",
+        "level": 2,
+        "start": -1000000000,
+        "end": -538800000,
+        "focus": { "lat": -16, "lon": 117, "heightKm": 20000 },
+        "playbackYearsPerSecond": 10000000,
+        "description": "The full-plate reconstruction shown on the globe (Merdith et al. 2021) begins in this era, showing the supercontinent Rodinia and its break-up. The planet plunges into the Cryogenian 'Snowball Earth' glaciations, when ice probably reached the equator, then emerges into a warmer world with rising oxygen. In the aftermath, the first large, complex organisms, the Ediacaran biota, spread across the sea floor and set the stage for the Cambrian explosion.",
+        "planet": {
+          "o2": "low, rising late (~1–15%?; debated)",
+          "co2": "swings: low before ice, huge after",
+          "temperature": "warm → snowball → temperate",
+          "dayLength": "~20 → ~22 h",
+          "life": "algae, protists, first animals",
+          "continents": "Rodinia rifts; Gondwana forms"
+        },
+        "globeStyle": { "mode": "paleo", "landColor": "#9b8466", "oceanColor": "#1d3a56", "iceCapLatitude": 90 },
+        "children": [
+          {
+            "id": "proterozoic-tonian",
+            "title": "Tonian",
+            "subtitle": "Rodinia and the rise of algae",
+            "level": 3,
+            "start": -1000000000,
+            "end": -720000000,
+            "focus": { "lat": -16, "lon": 117, "heightKm": 20000 },
+            "description": "Rodinia, a supercontinent probably centred near the equator, dominates the globe and begins to rift apart from about 800–750 million years ago. Eukaryotic life diversifies markedly: green and red algae spread, and microfossils of vase-shaped amoebae record some of the earliest predation on other cells. Molecular clocks suggest the animal lineage originated around this time, but there are no widely accepted animal fossils yet. A major swing in carbon isotopes, the Bitter Springs anomaly, hints at large changes in the carbon cycle.",
+            "planet": {
+              "o2": "low (~1–2%?)",
+              "co2": "~1,000s of ppm? (uncertain)",
+              "temperature": "warm; largely ice-free",
+              "dayLength": "~20 h",
+              "life": "algae, protists; early animals?",
+              "continents": "Rodinia; rifting from ~800 Ma"
+            }
+          },
+          {
+            "id": "proterozoic-cryogenian",
+            "title": "Cryogenian",
+            "subtitle": "Snowball Earth",
+            "level": 3,
+            "start": -720000000,
+            "end": -635000000,
+            "description": "Twice the planet freezes over in the most extreme ice ages known: the Sturtian glaciation, from about 717 to 660 million years ago, and the shorter Marinoan, which ends about 635 million years ago. Glacial deposits formed at near-equatorial latitudes support the 'Snowball Earth' hypothesis that ice covered the oceans to the tropics, though some researchers favour a 'slushball' with open water near the equator. Volcanic carbon dioxide accumulates in the air, no longer removed by rock weathering, until an extreme greenhouse melts the ice rapidly, leaving distinctive 'cap carbonate' rocks. Between the glaciations, chemical fossils suggest that sponges or other early animals may have appeared, though this is debated.",
+            "planet": {
+              "o2": "low (~1–5%?)",
+              "co2": "builds up to very high levels",
+              "temperature": "far below 0 °C during glaciations",
+              "dayLength": "~21 h",
+              "life": "microbes & algae in refuges",
+              "continents": "Rodinia fragments"
+            },
+            "globeStyle": { "mode": "paleo", "iceCapLatitude": 0, "landColor": "#c3ccd3", "oceanColor": "#6f879b" }
+          },
+          {
+            "id": "proterozoic-ediacaran",
+            "title": "Ediacaran",
+            "subtitle": "The first large animals",
+            "level": 3,
+            "start": -635000000,
+            "end": -538800000,
+            "description": "As the ice melts, oxygen levels rise and the oceans become more hospitable to complex life. A brief glaciation, the Gaskiers, strikes about 580 million years ago, and soon afterwards the Ediacaran biota appears: frond-like Charnia, quilted Dickinsonia, identified as an animal from preserved cholesterol molecules, and the mollusc-like Kimberella. Late in the period the first mineralised skeletons and burrows appear, while the fragments of Rodinia gather into Gondwana. The period ends 538.8 million years ago with the decline of the Ediacaran biota and the start of the Cambrian.",
+            "planet": {
+              "o2": "rising (~5–15%?; debated)",
+              "co2": "~1,000s of ppm? (uncertain)",
+              "temperature": "temperate; brief ice ~580 Ma",
+              "dayLength": "~21–22 h",
+              "life": "Ediacaran biota; first animals",
+              "continents": "Gondwana assembles"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paleozoic",
+    "title": "Paleozoic",
+    "subtitle": "Explosion of animal life",
+    "level": 1,
+    "start": -538800000,
+    "end": -251902000,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 5000000,
+    "description": "Animals diversify explosively in the sea, then plants, arthropods and vertebrates colonise the land. The era is bracketed by two great biological watersheds: the Cambrian explosion at its start and, at its close, the end-Permian mass extinction, the deadliest in Earth's history. Over these 287 million years, scattered continents converge into the supercontinent Pangaea.",
+    "planet": {
+      "o2": "~10–15% → ~25–30%? (debated)",
+      "co2": "~4,000+ → ~300 ppm, then rising",
+      "temperature": "hothouse ↔ ice ages",
+      "life": "marine animals → forests, reptiles",
+      "continents": "scattered → Pangaea"
+    },
+    "globeStyle": {
+      "mode": "paleo",
+      "atmosphere": "normal",
+      "iceCapLatitude": 80,
+      "landColor": "#9b8466",
+      "oceanColor": "#1b4a6b"
+    },
+    "children": [
+      {
+        "id": "paleozoic-cambrian",
+        "title": "Cambrian",
+        "subtitle": "The Cambrian explosion",
+        "level": 2,
+        "start": -538800000,
+        "end": -485400000,
+        "description": "Within some 20–25 million years, most major animal groups appear in the fossil record, many armed with shells, spines and eyes, in an evolutionary burst known as the Cambrian explosion. Trilobites spread across the sea floor from about 521 million years ago, and exceptional fossil sites such as Chengjiang in China and the Burgess Shale in Canada preserve soft-bodied creatures like the predator Anomalocaris and the early chordate Pikaia. The land is still barren apart from microbial crusts, while warm, shallow seas flood the margins of Gondwana and the smaller continents Laurentia, Baltica and Siberia.",
+        "planet": {
+          "o2": "~10–15%? (uncertain)",
+          "co2": "~4,000+ ppm? (uncertain)",
+          "temperature": "~+7–10 °C vs today?",
+          "seaLevel": "high; rising to ~+100 m or more",
+          "dayLength": "~21 h",
+          "life": "most animal phyla appear",
+          "continents": "Gondwana, Laurentia, Baltica, Siberia"
+        },
+        "globeStyle": { "iceCapLatitude": 90 },
+        "fringeTheories": [
+          {
+            "title": "Flood geology",
+            "consensus": "fringe",
+            "claim": "Young-Earth creationist 'flood geology', popularised by Whitcomb and Morris's The Genesis Flood (1961), holds that most fossil-bearing rock layers from the Cambrian upward were laid down by a single global flood a few thousand years ago.",
+            "mainstreamView": "The rock record contains features that cannot form in one year-long flood, such as fossil soils, desert dune deposits, thick salt beds, coral reefs and repeated glacial deposits stacked on top of one another. Fossils occur in a consistent evolutionary order worldwide, and radiometric dating spreads these rocks over hundreds of millions of years.",
+            "wikipedia": "Flood geology"
+          }
+        ]
+      },
+      {
+        "id": "paleozoic-ordovician",
+        "title": "Ordovician",
+        "subtitle": "Great biodiversification and the first land plants",
+        "level": 2,
+        "start": -485400000,
+        "end": -443800000,
+        "description": "Marine life diversifies dramatically in the Great Ordovician Biodiversification Event: reefs, brachiopods, nautiloids, graptolites and early jawless fishes flourish in warm, shallow seas, and sea levels reach some of their highest levels of the past 540 million years. Fossil spores show that the first simple land plants, related to liverworts, are colonising damp ground. At the end of the period an ice age on Gondwana, then lying over the South Pole, helps trigger the Late Ordovician mass extinction, which eliminates roughly 85% of marine species.",
+        "planet": {
+          "o2": "~15–20%? (uncertain)",
+          "co2": "~3,000–5,000 ppm?, falling late",
+          "temperature": "warm, cooling to an ice age",
+          "seaLevel": "very high (~+150–200 m?)",
+          "dayLength": "~21 h",
+          "life": "marine radiation; first land plants",
+          "continents": "Gondwana over the South Pole"
+        },
+        "globeStyle": { "iceCapLatitude": 75 }
+      },
+      {
+        "id": "paleozoic-silurian",
+        "title": "Silurian",
+        "subtitle": "Reefs, jawed fish and plants on land",
+        "level": 2,
+        "start": -443800000,
+        "end": -419200000,
+        "description": "Life rebounds after the end-Ordovician extinction in warm seas with extensive coral and sponge reefs. Jawed fishes diversify, giant eurypterids ('sea scorpions') hunt in coastal waters, and Cooksonia, one of the earliest vascular plants, appears on land along with the first land-dwelling arthropods such as millipedes. Laurentia and Baltica collide in the Caledonian orogeny, raising mountains from Scandinavia to Scotland and Newfoundland.",
+        "planet": {
+          "o2": "~15–20%? (uncertain)",
+          "co2": "~2,000–4,000 ppm? (uncertain)",
+          "temperature": "warm greenhouse",
+          "seaLevel": "high (~+100–150 m?)",
+          "dayLength": "~21.5 h",
+          "life": "reefs, jawed fish, vascular plants",
+          "continents": "Laurentia and Baltica collide"
+        },
+        "globeStyle": { "landColor": "#8f8763", "iceCapLatitude": 85 }
+      },
+      {
+        "id": "paleozoic-devonian",
+        "title": "Devonian",
+        "subtitle": "The age of fishes and the first forests",
+        "level": 2,
+        "start": -419200000,
+        "end": -358900000,
+        "description": "Fishes reach a peak of diversity, from armoured placoderms such as the giant Dunkleosteus to lobe-finned fishes, a group that includes limb-finned forms like Tiktaalik and gives rise to the first four-limbed vertebrates. On land, plants evolve roots, wood and seeds, and the first forests spread across the continents, deepening soils and drawing down atmospheric carbon dioxide. A series of crises in the Late Devonian, linked to ocean anoxia and possibly to the spread of land plants, wipes out many reef-builders and other marine species.",
+        "planet": {
+          "o2": "rising to ~20%? (uncertain)",
+          "co2": "~2,000 → ~1,000 ppm? (falling)",
+          "temperature": "warm; cooling late",
+          "seaLevel": "high (~+100 m?)",
+          "dayLength": "~22 h (~400 days a year)",
+          "life": "fishes, first forests, tetrapods",
+          "continents": "Euramerica and Gondwana"
+        },
+        "globeStyle": { "landColor": "#5f8a4f", "iceCapLatitude": 85 }
+      },
+      {
+        "id": "paleozoic-carboniferous",
+        "title": "Carboniferous",
+        "subtitle": "Coal swamps and giant insects",
+        "level": 2,
+        "start": -358900000,
+        "end": -298900000,
+        "description": "Vast swamp forests of giant lycopsid trees, tree ferns and horsetails cover the tropical lowlands of Euramerica, and their buried remains become the great coal seams of Europe and North America. Atmospheric oxygen climbs to perhaps its highest level ever, possibly helping giant arthropods such as the dragonfly-like Meganeura and the millipede Arthropleura to thrive. The first reptiles appear, laying shelled eggs that free vertebrates from the water, while ice sheets spread across southern Gondwana in the Late Paleozoic Ice Age. Toward the end of the period the rainforests collapse as the climate dries and Pangaea assembles.",
+        "planet": {
+          "o2": "~25–30%? (all-time peak; debated)",
+          "co2": "~300–600 ppm? (low)",
+          "temperature": "ice age; ~0 to +4 °C vs today?",
+          "seaLevel": "swinging with glacial cycles",
+          "dayLength": "~22.4 h",
+          "life": "coal forests, giant insects, reptiles",
+          "continents": "Pangaea assembling"
+        },
+        "globeStyle": { "landColor": "#3f7a3a", "iceCapLatitude": 55 }
+      },
+      {
+        "id": "paleozoic-permian",
+        "title": "Permian",
+        "subtitle": "Pangaea and the Great Dying",
+        "level": 2,
+        "start": -298900000,
+        "end": -251902000,
+        "focus": { "lat": -25, "lon": 14, "heightKm": 20000 },
+        "description": "The supercontinent Pangaea stretches from pole to pole, its interior increasingly arid as the ice of the Late Paleozoic Ice Age retreats. Synapsids, the lineage that will eventually lead to mammals, dominate the land, from the sail-backed Dimetrodon to later therapsids such as the sabre-toothed gorgonopsians. The period ends about 251.9 million years ago with the end-Permian mass extinction, the largest in Earth's history, which wipes out an estimated 80–90% or more of marine species. Its probable trigger is the eruption of the Siberian Traps, with the resulting global warming, ocean acidification and loss of oxygen in the seas.",
+        "planet": {
+          "o2": "~25% → falling (uncertain)",
+          "co2": "~300 → 2,000+ ppm at the end?",
+          "temperature": "warming; extreme heat at the end",
+          "seaLevel": "low (~0 to +50 m?)",
+          "dayLength": "~22.5 h",
+          "life": "synapsids & conifers; then Great Dying",
+          "continents": "Pangaea, pole to pole"
+        },
+        "globeStyle": { "landColor": "#8a7d55", "iceCapLatitude": 75 }
+      }
+    ]
+  },
+  {
+    "id": "mesozoic",
+    "title": "Mesozoic",
+    "subtitle": "Age of reptiles",
+    "level": 1,
+    "start": -251902000,
+    "end": -66000000,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 3000000,
+    "description": "Life recovers from the end-Permian catastrophe and reptiles take centre stage: dinosaurs on land, pterosaurs in the air, and ichthyosaurs, plesiosaurs and mosasaurs in the seas. Pangaea splits apart and the Atlantic Ocean opens, while a generally warm greenhouse climate leaves the poles largely free of permanent ice. Mammals, birds and flowering plants all originate during this era. It ends abruptly 66 million years ago when an asteroid strikes what is now Mexico's Yucatán Peninsula.",
+    "planet": {
+      "o2": "~15–25%? (uncertain)",
+      "co2": "~1,000–2,000 ppm? (uncertain)",
+      "temperature": "greenhouse: ~+5–10 °C vs today?",
+      "seaLevel": "low → very high",
+      "life": "dinosaurs, pterosaurs, marine reptiles",
+      "continents": "Pangaea breaks apart"
+    },
+    "globeStyle": { "mode": "paleo", "atmosphere": "normal", "iceCapLatitude": 90, "oceanColor": "#1a5070" },
+    "children": [
+      {
+        "id": "mesozoic-triassic",
+        "title": "Triassic",
+        "subtitle": "Recovery and the first dinosaurs",
+        "level": 2,
+        "start": -251902000,
+        "end": -201400000,
+        "focus": { "lat": -11, "lon": 20, "heightKm": 20000 },
+        "description": "The Early Triassic is a hot, impoverished world in which tropical seas may have been too warm for many animals, and recovery from the end-Permian extinction takes millions of years. Life rebounds with new groups, including the first turtles, crocodile-line archosaurs, ichthyosaurs, pterosaurs and, by about 230 million years ago, the first dinosaurs and early mammal relatives. Pangaea's interior is a vast, seasonally arid expanse, and a humid interval around 233 million years ago, the Carnian Pluvial Episode, coincides with a turnover that may have helped dinosaurs rise. The period ends with the end-Triassic mass extinction, linked to the eruptions of the Central Atlantic Magmatic Province as Pangaea begins to rift.",
+        "planet": {
+          "o2": "~15–20%? (uncertain)",
+          "co2": "~1,000–3,000 ppm? (uncertain)",
+          "temperature": "hot: ~+8–12 °C vs today?",
+          "seaLevel": "low to moderate",
+          "dayLength": "~22.7 h",
+          "life": "first dinosaurs & pterosaurs",
+          "continents": "Pangaea (rifting late)"
+        },
+        "globeStyle": { "landColor": "#9a7b5a" }
+      },
+      {
+        "id": "mesozoic-jurassic",
+        "title": "Jurassic",
+        "subtitle": "Giants on land and the first birds",
+        "level": 2,
+        "start": -201400000,
+        "end": -145000000,
+        "description": "After the end-Triassic extinction, dinosaurs become the dominant large land animals, from long-necked sauropods such as Brachiosaurus to predators like Allosaurus and the plated Stegosaurus. Pangaea splits into Laurasia in the north and Gondwana in the south as the central Atlantic opens. By the Late Jurassic, small feathered theropods have given rise to birds, of which Archaeopteryx, about 150 million years old, is the most famous early example. Warm shallow seas teem with ammonites, ichthyosaurs and plesiosaurs, and forests of conifers, cycads and ferns cover the land.",
+        "planet": {
+          "o2": "~15–25%? (uncertain)",
+          "co2": "~1,000–2,000 ppm? (uncertain)",
+          "temperature": "warm: ~+5–8 °C vs today?",
+          "seaLevel": "rising (~+50–150 m?)",
+          "dayLength": "~23 h",
+          "life": "sauropods, theropods, first birds",
+          "continents": "Laurasia and Gondwana separate"
+        },
+        "globeStyle": { "landColor": "#6f8a52" },
+        "fringeTheories": [
+          {
+            "title": "Expanding Earth",
+            "consensus": "fringe",
+            "claim": "Promoted by Ott Hilgenberg in the 1930s and later by Samuel Warren Carey, the expanding-Earth hypothesis holds that the continents once covered a much smaller globe and separated as the planet swelled, rather than by plate tectonics.",
+            "mainstreamView": "Space-geodetic measurements show that Earth's radius is not changing measurably (by less than about 0.1 mm per year), and palaeomagnetic data indicate a near-constant radius over hundreds of millions of years. Subduction zones consume crust as fast as mid-ocean ridges create it, which plate tectonics explains and expansion cannot.",
+            "wikipedia": "Expanding Earth"
+          }
+        ]
+      },
+      {
+        "id": "mesozoic-cretaceous",
+        "title": "Cretaceous",
+        "subtitle": "Flowering plants and the last dinosaurs",
+        "level": 2,
+        "start": -145000000,
+        "end": -66000000,
+        "description": "Flowering plants appear and spread rapidly, transforming landscapes and co-evolving with pollinating insects. Dinosaurs remain diverse, including Tyrannosaurus, Triceratops and giant titanosaurs, while the South Atlantic opens, India breaks away from Gondwana, and with fast seafloor spreading and no large ice sheets, sea levels rise so high that a shallow seaway splits North America in two. The period ends 66 million years ago when an asteroid roughly 10 kilometres wide strikes Chicxulub on the Yucatán Peninsula. Together with the Deccan Traps eruptions, whose role is debated, the impact wipes out the non-avian dinosaurs and about three-quarters of all species.",
+        "planet": {
+          "o2": "~20–25%? (uncertain)",
+          "co2": "~600–1,500 ppm? (uncertain)",
+          "temperature": "hothouse: ~+8–12 °C vs today?",
+          "seaLevel": "very high (~+100–250 m)",
+          "dayLength": "~23.5 h (~372 days a year)",
+          "life": "flowering plants, T. rex, mosasaurs",
+          "continents": "Atlantic widens; India drifts north"
+        },
+        "globeStyle": { "landColor": "#4f7f45" },
+        "fringeTheories": [
+          {
+            "title": "Humans walked with dinosaurs",
+            "consensus": "fringe",
+            "claim": "Some creationists have cited elongated footprints in Cretaceous limestone along the Paluxy River near Glen Rose, Texas, as human 'man tracks' beside dinosaur prints, alongside objects such as the Ica stones said to depict dinosaurs.",
+            "mainstreamView": "Investigations showed the Paluxy 'man tracks' to be eroded or infilled dinosaur tracks, natural erosional marks or carvings, and several creationist organisations have since abandoned the claim. The fossil record shows a gap of more than 60 million years between the last non-avian dinosaurs and the earliest humans.",
+            "wikipedia": "Paluxy River"
+          },
+          {
+            "title": "Lemuria, the lost continent",
+            "consensus": "fringe",
+            "claim": "In 1864 zoologist Philip Sclater proposed a sunken land, 'Lemuria', linking Madagascar and India to explain the distribution of lemur-like fossils; occultists such as Helena Blavatsky later made it the home of a lost ancient race.",
+            "mainstreamView": "Sclater's land bridge was a reasonable idea before plate tectonics, which now explains the fossils: Madagascar, India and Africa were joined in Gondwana and drifted apart, India separating from Madagascar around 90–85 million years ago. Small continental fragments do lie beneath the Indian Ocean, but nothing resembling a sunken continent, and the lost-race claims have no basis.",
+            "wikipedia": "Lemuria"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cenozoic",
+    "title": "Cenozoic",
+    "subtitle": "Age of mammals",
+    "level": 1,
+    "start": -66000000,
+    "end": -300000,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 1000000,
+    "description": "After the dinosaurs, mammals and birds radiate into the vacant ecological niches, giving rise to whales, bats, primates, horses and grazing herds. The planet gradually cools from a hothouse to an icehouse: Antarctica freezes over about 34 million years ago, and Northern Hemisphere ice sheets grow from about 2.7 million years ago. India collides with Asia to raise the Himalayas, and in Africa the human lineage branches off from the other apes.",
+    "planet": {
+      "o2": "~21%",
+      "co2": "~1,000+ → ~180–300 ppm",
+      "temperature": "hothouse → ice ages",
+      "life": "mammals, birds, grasses, hominins",
+      "continents": "approaching modern positions"
+    },
+    "globeStyle": { "mode": "paleo", "atmosphere": "normal", "iceCapLatitude": 75, "oceanColor": "#1d4f78" },
+    "children": [
+      {
+        "id": "cenozoic-paleogene",
+        "title": "Paleogene",
+        "subtitle": "Mammals inherit the Earth",
+        "level": 2,
+        "start": -66000000,
+        "end": -23030000,
+        "description": "In the aftermath of the extinction mammals diversify rapidly, and within roughly 10–15 million years most modern mammal orders appear in the fossil record. The climate warms to the highest temperatures of the past 66 million years in the early Eocene, then cools markedly until Antarctica becomes glaciated at the Eocene–Oligocene boundary. India collides with Asia, beginning the uplift of the Himalayas and the Tibetan Plateau.",
+        "planet": {
+          "o2": "~21%",
+          "co2": "~500–1,600 → ~600 ppm? (uncertain)",
+          "temperature": "hothouse peak, then cooling",
+          "dayLength": "~23.5–23.8 h",
+          "life": "mammals and birds radiate",
+          "continents": "India hits Asia; Antarctica isolated"
+        },
+        "globeStyle": { "landColor": "#3f7a3a" },
+        "children": [
+          {
+            "id": "cenozoic-paleocene",
+            "title": "Paleocene",
+            "subtitle": "Recovery after the impact",
+            "level": 3,
+            "start": -66000000,
+            "end": -56000000,
+            "description": "Forests regrow after the impact winter, and within a few hundred thousand years mammals begin to grow larger and more varied, though most remain small. Giant flightless birds roam the land, and the snake Titanoboa, about 13 metres long, lives in the warm, wet tropics of South America. The epoch ends with the Paleocene–Eocene Thermal Maximum about 56 million years ago, when a massive release of carbon over a few thousand years warms the planet by roughly 5–8 °C.",
+            "planet": {
+              "co2": "~500–1,000 ppm? (uncertain)",
+              "temperature": "~+7–10 °C vs pre-industrial?",
+              "life": "mammals diversify; Titanoboa",
+              "continents": "North Atlantic opening"
+            },
+            "globeStyle": { "iceCapLatitude": 90 }
+          },
+          {
+            "id": "cenozoic-eocene",
+            "title": "Eocene",
+            "subtitle": "Greenhouse world, then a big chill",
+            "level": 3,
+            "start": -56000000,
+            "end": -33900000,
+            "description": "The Early Eocene Climatic Optimum, around 53–49 million years ago, is the warmest stretch of the Cenozoic: palms grow near the Arctic Ocean, crocodile relatives live on Arctic islands, and there is no permanent polar ice. The first undoubted members of modern mammal orders such as primates, horses and bats appear, and whales evolve from land-dwelling ancestors within about ten million years. From the mid-Eocene the climate cools, and about 34 million years ago an ice sheet spreads across Antarctica as carbon dioxide declines.",
+            "planet": {
+              "co2": "~1,000–1,600 ppm (peak), then falling",
+              "temperature": "~+10–15 °C vs pre-industrial (peak)",
+              "seaLevel": "high; no large ice sheets",
+              "life": "first modern mammal orders; whales",
+              "continents": "Antarctica isolating"
+            },
+            "globeStyle": { "landColor": "#3a7a3c", "iceCapLatitude": 90 },
+            "fringeTheories": [
+              {
+                "title": "The 'Silurian hypothesis'",
+                "consensus": "fringe",
+                "claim": "In 2018 climate scientists Gavin Schmidt and Adam Frank asked whether an industrial civilisation that existed millions of years before humans would be detectable today, using events such as the Paleocene–Eocene Thermal Maximum as test cases; the name comes from reptilian aliens in Doctor Who.",
+                "mainstreamView": "It is a thought experiment, not a claim: the authors state that they do not believe such a civilisation existed. There is no evidence of any pre-human technological civilisation, and past warming events like the PETM are explained by natural releases of carbon.",
+                "wikipedia": "Silurian hypothesis"
+              }
+            ]
+          },
+          {
+            "id": "cenozoic-oligocene",
+            "title": "Oligocene",
+            "subtitle": "An icehouse begins",
+            "level": 3,
+            "start": -33900000,
+            "end": -23030000,
+            "description": "With a permanent ice sheet on Antarctica, Earth enters its present icehouse state, and cooler, drier climates spread open woodlands at the expense of tropical forests. Many archaic mammals disappear in a turnover known in Europe as the 'Grande Coupure', while hornless rhinoceros relatives such as Paraceratherium, among the largest land mammals ever, roam Asia. Deepening ocean gateways around Antarctica help establish the Antarctic Circumpolar Current, which isolates the continent's cold, and grass-dominated habitats begin to spread.",
+            "planet": {
+              "co2": "~500–800 ppm? (uncertain)",
+              "temperature": "~+5–7 °C vs pre-industrial?",
+              "life": "grasslands begin; giant rhinos",
+              "continents": "ocean gateways open around Antarctica"
+            },
+            "globeStyle": { "landColor": "#5c8350", "iceCapLatitude": 75 }
+          }
+        ]
+      },
+      {
+        "id": "cenozoic-neogene",
+        "title": "Neogene",
+        "subtitle": "Grasslands, apes and the first hominins",
+        "level": 2,
+        "start": -23030000,
+        "end": -2580000,
+        "description": "Grasslands spread across the continents as the climate cools and dries, and grazing mammals such as horses and antelope diversify alongside them. Apes thrive in Africa and Eurasia, and in Africa the lineage leading to humans splits from that of chimpanzees roughly 7–5 million years ago. The Isthmus of Panama forms, joining the Americas and reorganising ocean currents; its final closure is usually placed around 3 million years ago, though the timing is debated.",
+        "planet": {
+          "o2": "~21%",
+          "co2": "~300–600 ppm, falling",
+          "temperature": "~+2–7 °C vs pre-industrial?",
+          "dayLength": "~23.9 h",
+          "life": "grasslands, apes, first hominins",
+          "continents": "Panama isthmus forms"
+        },
+        "globeStyle": { "landColor": "#6f8550" },
+        "children": [
+          {
+            "id": "cenozoic-miocene",
+            "title": "Miocene",
+            "subtitle": "Planet of the apes and grasses",
+            "level": 3,
+            "start": -23030000,
+            "end": -5333000,
+            "description": "The Miocene Climatic Optimum, about 17–14.7 million years ago, briefly brings back warmth before cooling resumes and the Antarctic ice sheet grows. Apes reach their peak diversity, grasslands using the efficient C4 photosynthetic pathway expand late in the epoch, and the giant shark Otodus megalodon hunts in the oceans. Between about 6 and 5.3 million years ago the Mediterranean is cut off from the Atlantic and partly dries out in the Messinian salinity crisis. In Africa, possible early hominins such as Sahelanthropus, about 7 million years old, appear.",
+            "planet": {
+              "co2": "~300–600 ppm? (uncertain)",
+              "temperature": "~+3–7 °C vs pre-industrial?",
+              "life": "apes, grasslands, megalodon",
+              "continents": "Mediterranean dries out late"
+            }
+          },
+          {
+            "id": "cenozoic-pliocene",
+            "title": "Pliocene",
+            "subtitle": "Walking upright",
+            "level": 3,
+            "start": -5333000,
+            "end": -2580000,
+            "playbackYearsPerSecond": 250000,
+            "description": "The Pliocene is the most recent time when atmospheric carbon dioxide was comparable to today's, at roughly 350–450 ppm; global temperatures in the mid-Pliocene were roughly 2.5–4 °C above pre-industrial and sea levels perhaps 5–25 metres higher. In East Africa, australopithecines such as 'Lucy' (Australopithecus afarensis, about 3.2 million years old) walk upright, and footprints at Laetoli, about 3.66 million years old, preserve their gait. The oldest known stone tools, from Lomekwi in Kenya, date to about 3.3 million years ago. Toward the end of the epoch, ice sheets begin to grow across the Northern Hemisphere.",
+            "planet": {
+              "co2": "~350–450 ppm (≈ today)",
+              "temperature": "~+2.5–4 °C vs pre-industrial",
+              "seaLevel": "~+5–25 m",
+              "life": "australopithecines; first tools",
+              "continents": "near modern positions"
+            },
+            "globeStyle": { "landColor": "#7a8655", "iceCapLatitude": 68 },
+            "fringeTheories": [
+              {
+                "title": "Aquatic ape hypothesis",
+                "consensus": "fringe",
+                "claim": "Proposed by marine biologist Alister Hardy in 1960 and popularised by Elaine Morgan, the hypothesis holds that human ancestors passed through a semi-aquatic phase that explains traits such as hairlessness, subcutaneous fat and upright walking.",
+                "mainstreamView": "Palaeoanthropologists reject it because fossils and their environments show early hominins living in woodlands and grasslands, the traits it cites evolved at different times and have other explanations, and many aquatic mammals lack them. Human use of shorelines and aquatic foods is well documented but does not imply an aquatic phase of evolution.",
+                "wikipedia": "Aquatic ape hypothesis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cenozoic-quaternary",
+        "title": "Quaternary ice ages",
+        "subtitle": "Glacial cycles and the genus Homo",
+        "level": 2,
+        "start": -2580000,
+        "end": -300000,
+        "playbackYearsPerSecond": 60000,
+        "description": "Ice sheets wax and wane across North America and Eurasia in a rhythm paced by changes in Earth's orbit, sea levels rise and fall by as much as 120 metres, and land bridges repeatedly open and close. The genus Homo, which appeared in Africa around 2.8 million years ago, diversifies, Homo erectus becomes the first hominin known to spread across Eurasia, and later species such as Homo heidelbergensis and early Neanderthals follow. This chapter covers the Quaternary up to about 300,000 years ago, when the earliest known Homo sapiens fossils appear; the story continues in Human Prehistory.",
+        "planet": {
+          "o2": "~21%",
+          "co2": "~180–300 ppm (glacial cycles)",
+          "temperature": "glacial cycles, down to ~−6 °C",
+          "seaLevel": "swings of up to ~120–130 m",
+          "dayLength": "~24 h",
+          "life": "megafauna; Homo erectus",
+          "continents": "modern; land bridges come and go"
+        },
+        "globeStyle": { "landColor": "#7d845e", "iceCapLatitude": 55 },
+        "children": [
+          {
+            "id": "cenozoic-early-pleistocene",
+            "title": "Early Pleistocene",
+            "subtitle": "The 41,000-year world",
+            "level": 3,
+            "start": -2580000,
+            "end": -774000,
+            "description": "Glacial cycles follow the 41,000-year rhythm of changes in Earth's axial tilt, with relatively modest ice sheets. Homo habilis and then Homo erectus appear in Africa, Acheulean hand axes are made from about 1.76 million years ago, and hominins reach Dmanisi in Georgia by about 1.8 million years ago and Java by about 1.5–1.3 million years ago. Between about 1.25 million and 700,000 years ago, the Mid-Pleistocene Transition shifts the climate toward longer and more severe glaciations.",
+            "planet": {
+              "co2": "~200–300 ppm",
+              "temperature": "~−4 to +1 °C vs pre-industrial?",
+              "seaLevel": "swings of ~60–80 m",
+              "life": "Homo erectus; Acheulean tools",
+              "continents": "modern; land bridges in glacials"
+            },
+            "globeStyle": { "iceCapLatitude": 60 }
+          },
+          {
+            "id": "cenozoic-middle-pleistocene",
+            "title": "Middle Pleistocene",
+            "subtitle": "The 100,000-year ice ages",
+            "level": 3,
+            "start": -774000,
+            "end": -300000,
+            "description": "The Middle Pleistocene begins with the last reversal of Earth's magnetic field, about 774,000 years ago, and glacial cycles now last roughly 100,000 years, with far larger ice sheets than before. In Africa and Europe, populations often assigned to Homo heidelbergensis make refined hand axes, and evidence of controlled fire becomes widespread by about 400,000 years ago. Fossils from Sima de los Huesos in Spain, about 430,000 years old, already show Neanderthal features, while in Africa the populations ancestral to modern humans are evolving.",
+            "planet": {
+              "co2": "~180–300 ppm (ice cores)",
+              "temperature": "glacials ~−6 °C vs pre-industrial",
+              "seaLevel": "falls ~120 m in glacials",
+              "life": "H. heidelbergensis, early Neanderthals",
+              "continents": "Beringia exposed in glacials"
+            },
+            "globeStyle": { "iceCapLatitude": 50 }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prehistory",
+    "title": "Human Prehistory",
+    "subtitle": "Homo sapiens spreads across the world",
+    "level": 1,
+    "start": -300000,
+    "end": -3500,
+    "timelineWeight": 7,
+    "playbackYearsPerSecond": 5000,
+    "description": "Homo sapiens appears in Africa by around 300,000 years ago and, after a long coexistence with Neanderthals, Denisovans and other hominins, become the only surviving human species. Through repeated ice ages they spread from Africa to every continent except Antarctica, creating art, ornaments, music and increasingly sophisticated tools. As the last ice age ends, people in several regions independently domesticate plants and animals, and farming villages grow into the first towns.",
+    "planet": {
+      "co2": "~180–280 ppm",
+      "temperature": "ice ages, then the warm Holocene",
+      "seaLevel": "~−130 m (glacial) → ~0 m",
+      "life": "megafauna decline",
+      "humans": "H. sapiens spreads worldwide",
+      "continents": "modern; ice sheets come and go"
+    },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 60, "borders": false },
+    "children": [
+      {
+        "id": "prehistory-middle-palaeolithic",
+        "title": "Middle Palaeolithic",
+        "subtitle": "Homo sapiens emerges",
+        "level": 2,
+        "start": -300000,
+        "end": -50000,
+        "playbackYearsPerSecond": 6000,
+        "focus": { "lat": 5, "lon": 25, "heightKm": 14000 },
+        "description": "The oldest fossils attributed to Homo sapiens, from Jebel Irhoud in Morocco, date to about 300,000 years ago, and modern human features accumulate across Africa over the following millennia. Meanwhile Neanderthals live in western Eurasia and Denisovans in Asia, and small-bodied species such as Homo naledi, Homo floresiensis and Homo luzonensis persist in their own regions. Modern humans make prepared-core stone tools, use pigments and shell beads, and make early forays out of Africa, but the main dispersal across Eurasia comes only after about 60,000–50,000 years ago.",
+        "planet": {
+          "co2": "~180–290 ppm (glacial cycles)",
+          "temperature": "~−6 to +1 °C vs pre-industrial",
+          "seaLevel": "~−130 to +6–9 m (Eemian)",
+          "life": "Pleistocene megafauna",
+          "humans": "H. sapiens, Neanderthals, Denisovans"
+        },
+        "children": [
+          {
+            "id": "prehistory-early-homo-sapiens",
+            "title": "Early Homo sapiens",
+            "subtitle": "Modern humans in a world of many humans",
+            "level": 3,
+            "start": -300000,
+            "end": -128000,
+            "description": "Jebel Irhoud in Morocco and Omo Kibish in Ethiopia, at least 233,000 years old, are among the earliest Homo sapiens sites, and the Middle Stone Age toolkit spreads across Africa. The climate swings through two glacial cycles, ending in the severe penultimate glaciation between about 190,000 and 130,000 years ago. A jaw from Misliya Cave in Israel, roughly 180,000 years old, suggests early excursions out of Africa that apparently left no lasting descendants.",
+            "planet": {
+              "temperature": "two glacial cycles; severe at end",
+              "seaLevel": "down to ~−120 m in glacials",
+              "humans": "small, scattered African groups"
+            },
+            "globeStyle": { "iceCapLatitude": 52 }
+          },
+          {
+            "id": "prehistory-last-interglacial",
+            "title": "Last Interglacial (Eemian)",
+            "subtitle": "A world warmer than pre-industrial",
+            "level": 3,
+            "start": -128000,
+            "end": -113000,
+            "description": "Global temperatures are probably about 0.5–1.5 °C above pre-industrial, with much stronger warming in the Arctic, and sea level stands roughly 6–9 metres higher than today as parts of the Greenland and Antarctic ice sheets melt. Hippopotamuses wallow in the Thames and the Rhine, and Neanderthals occupy Europe through the warm interval. Modern humans in Africa use ochre and shell beads, and some reach the Levant and Arabia.",
+            "planet": {
+              "co2": "~270–290 ppm",
+              "temperature": "~+0.5–1.5 °C vs pre-industrial",
+              "seaLevel": "~+6–9 m",
+              "life": "hippos in the Thames",
+              "humans": "sapiens reach the Levant & Arabia"
+            },
+            "globeStyle": { "iceCapLatitude": 72 }
+          },
+          {
+            "id": "prehistory-into-the-last-glacial",
+            "title": "Into the last glacial",
+            "subtitle": "Toba, cold snaps and the great dispersal",
+            "level": 3,
+            "start": -113000,
+            "end": -50000,
+            "description": "Ice sheets grow again as the last glacial period sets in, with severe cold between about 70,000 and 60,000 years ago. Around 74,000 years ago the Toba supereruption in Sumatra, the largest volcanic eruption of the past two million years, spreads ash across South Asia, though most evidence now suggests it did not cause the human population bottleneck once attributed to it. Genetic evidence indicates that the ancestors of all present-day non-Africans left Africa around 60,000–50,000 years ago and soon interbred with Neanderthals.",
+            "planet": {
+              "co2": "~190–270 ppm",
+              "temperature": "~−1 to −5 °C vs pre-industrial",
+              "seaLevel": "falling to ~−80 m",
+              "humans": "main Out-of-Africa dispersal"
+            },
+            "globeStyle": { "iceCapLatitude": 55 }
+          }
+        ]
+      },
+      {
+        "id": "prehistory-upper-palaeolithic",
+        "title": "Upper Palaeolithic",
+        "subtitle": "Art, music and a planet-wide species",
+        "level": 2,
+        "start": -50000,
+        "end": -9700,
+        "playbackYearsPerSecond": 800,
+        "focus": { "lat": 40, "lon": 60, "heightKm": 16000 },
+        "description": "Modern humans spread across Eurasia and Australia, Neanderthals vanish around 40,000 years ago, and Homo sapiens becomes the last surviving human species. Cave paintings, carved figurines and bone flutes, from Sulawesi to Chauvet and Lascaux in France, reveal rich symbolic lives. Hunter-gatherers endure the Last Glacial Maximum, then spread throughout the Americas as the ice retreats, while many large mammals such as mammoths and giant ground sloths decline toward extinction.",
+        "planet": {
+          "co2": "~185–265 ppm",
+          "temperature": "~−3 to −6 °C (LGM) vs pre-industrial",
+          "seaLevel": "down to ~−125 m at the LGM",
+          "life": "megafauna decline and vanish",
+          "humans": "perhaps 0.5–5 million (very uncertain)"
+        },
+        "children": [
+          {
+            "id": "prehistory-modern-humans-spread",
+            "title": "Modern humans everywhere",
+            "subtitle": "The other humans vanish",
+            "level": 3,
+            "start": -50000,
+            "end": -24000,
+            "description": "Homo sapiens spreads through Europe and Asia and is established in Australia and New Guinea, leaving the world's oldest known figurative art, including a painted scene in Sulawesi dated to at least 51,000 years ago. Neanderthals disappear from Europe around 40,000 years ago, though their genes survive in most living people outside Africa. The climate of this interval is cold and unstable, punctuated by abrupt warmings and surges of icebergs into the North Atlantic.",
+            "planet": {
+              "temperature": "cold, unstable (~−3 to −4 °C)",
+              "seaLevel": "~−60 to −90 m",
+              "humans": "H. sapiens; last Neanderthals"
+            },
+            "globeStyle": { "iceCapLatitude": 52 }
+          },
+          {
+            "id": "prehistory-last-glacial-maximum",
+            "title": "Last Glacial Maximum",
+            "subtitle": "The ice at its greatest",
+            "level": 3,
+            "start": -24000,
+            "end": -17000,
+            "description": "Ice sheets up to 3–4 kilometres thick cover much of North America and northern Europe, global sea level is about 125 metres lower than today, and land bridges join Siberia to Alaska and Britain to the continent. Global average temperature is roughly 6 °C colder than pre-industrial. People retreat to refuges such as southern Europe, where Solutrean craftspeople make finely worked leaf-shaped points, while footprints at White Sands in New Mexico suggest that humans were already in North America about 23,000 years ago, a dating some researchers still question.",
+            "planet": {
+              "co2": "~185 ppm (minimum)",
+              "temperature": "~−6 °C vs pre-industrial",
+              "seaLevel": "~−125 m",
+              "humans": "hunter-gatherers in refugia"
+            },
+            "globeStyle": { "iceCapLatitude": 45 },
+            "fringeTheories": [
+              {
+                "title": "Solutrean hypothesis",
+                "consensus": "fringe",
+                "claim": "Archaeologists Dennis Stanford and Bruce Bradley proposed that Ice Age Europeans of the Solutrean culture crossed the North Atlantic along the edge of the sea ice and founded the Clovis culture of North America.",
+                "mainstreamView": "Ancient and modern DNA shows that Indigenous Americans descend from Northeast Asian populations who came via Beringia, with no Solutrean contribution. The resemblances between the stone tools are generic, and the Solutrean culture ended thousands of years before Clovis appeared.",
+                "wikipedia": "Solutrean hypothesis"
+              }
+            ]
+          },
+          {
+            "id": "prehistory-great-thaw",
+            "title": "The great thaw",
+            "subtitle": "Warming, the Americas and the Younger Dryas",
+            "level": 3,
+            "start": -17000,
+            "end": -9700,
+            "description": "As Earth's orbit shifts, the ice sheets melt, sea level rises by tens of metres and forests reclaim the tundra. People spread through the Americas, where Monte Verde in Chile is occupied by about 14,500 years ago and the Clovis culture flourishes about 13,000 years ago. The warm Bølling–Allerød interval gives way to the Younger Dryas cold snap, from about 12,900 to 11,700 years ago, usually attributed to a disruption of Atlantic Ocean circulation by meltwater; a proposed cosmic impact is highly contested. In the Levant, Natufian foragers build permanent villages and harvest wild cereals.",
+            "planet": {
+              "co2": "~190 → ~265 ppm",
+              "temperature": "warming, with Younger Dryas chill",
+              "seaLevel": "~−120 m → ~−60 m",
+              "humans": "people reach the Americas"
+            },
+            "globeStyle": { "iceCapLatitude": 55 },
+            "fringeTheories": [
+              {
+                "title": "A lost advanced Ice Age civilisation",
+                "consensus": "fringe",
+                "claim": "Writer Graham Hancock argues that an advanced civilisation flourished during the last Ice Age, was destroyed by a comet impact and floods around 12,800 years ago, and passed its knowledge to later cultures.",
+                "mainstreamView": "Archaeologists have found no trace of such a civilisation: no settlements, tools, crops, domestic animals or genetic signatures, despite intensive study of this period worldwide. Early monuments such as Göbekli Tepe were built by hunter-gatherers whose sites, tools and diets are well documented, and the proposed Younger Dryas impact is itself highly contested.",
+                "wikipedia": "Graham Hancock"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "prehistory-neolithic",
+        "title": "Neolithic & Chalcolithic",
+        "subtitle": "Farming changes everything",
+        "level": 2,
+        "start": -9700,
+        "end": -3500,
+        "playbackYearsPerSecond": 120,
+        "focus": { "lat": 33, "lon": 40, "heightKm": 9000 },
+        "description": "The Holocene begins 11,700 years ago with a stable, warmer climate, and people in the Fertile Crescent, China, New Guinea, Mesoamerica, the Andes and elsewhere independently begin to domesticate plants and animals. Monumental sites such as Göbekli Tepe, begun around 9500 BCE, show that complex ritual life arose among hunter-gatherers on the threshold of farming. Farming spreads into Europe, South Asia and Africa, villages grow into towns such as Çatalhöyük, and copper smelting begins by about 5000 BCE. The Sahara is green with lakes and grasslands during the African Humid Period, and sea level rises to near today's by about 7,000 years ago.",
+        "planet": {
+          "co2": "~260–265 ppm",
+          "temperature": "~pre-industrial (±0.5 °C)",
+          "seaLevel": "~−60 m → ~0 m",
+          "life": "crops and livestock domesticated",
+          "humans": "~5 → ~10+ million (rough estimates)"
+        },
+        "globeStyle": { "iceCapLatitude": 72 },
+        "fringeTheories": [
+          {
+            "title": "Atlantis",
+            "consensus": "fringe",
+            "claim": "In the dialogues Timaeus and Critias (about 360 BCE), Plato describes Atlantis, a powerful island empire beyond the Pillars of Heracles that sank in a single day and night some 9,000 years before Solon, around 9600 BCE; since Ignatius Donnelly's 1882 book many writers have treated it as real history.",
+            "mainstreamView": "Classical scholars overwhelmingly regard Atlantis as a fiction Plato invented to illustrate his political philosophy, and no earlier source mentions it. The Atlantic floor is young oceanic crust created by seafloor spreading, with no sunken continent, and no archaeological evidence of such a civilisation exists.",
+            "wikipedia": "Atlantis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ancient",
+    "title": "Ancient World",
+    "subtitle": "First cities, writing and empires",
+    "level": 1,
+    "start": -3500,
+    "end": -500,
+    "timelineWeight": 8,
+    "playbackYearsPerSecond": 33,
+    "description": "The first cities and states arise along the great river valleys of Mesopotamia, Egypt, the Indus and China, and the invention of writing opens the era of recorded history. Bronze metallurgy, the wheel, the sail and the horse-drawn chariot transform warfare, trade and daily life. After the Late Bronze Age collapse around 1200 BCE, iron-using kingdoms and great empires, from Assyria to Achaemenid Persia, reshape western Asia. In the Americas, Caral in Peru and later the Olmec of Mexico build some of the first complex societies.",
+    "planet": {
+      "co2": "~265–280 ppm",
+      "temperature": "~pre-industrial",
+      "seaLevel": "~0 m (near today)",
+      "humans": "~10 → ~100 million (rough)"
+    },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 75, "borders": true },
+    "children": [
+      {
+        "id": "ancient-early-bronze-age",
+        "title": "Early Bronze Age",
+        "subtitle": "Cities, writing and pyramids",
+        "level": 2,
+        "start": -3500,
+        "end": -2000,
+        "focus": { "lat": 30, "lon": 38, "heightKm": 7000 },
+        "description": "In Mesopotamia, cities such as Uruk grow to tens of thousands of people, and cuneiform writing develops around 3300–3200 BCE, with Egyptian hieroglyphs emerging at about the same time. Egypt is unified around 3100 BCE, and the Old Kingdom raises the pyramids of Giza in the 26th century BCE. The Indus Valley civilisation builds planned cities such as Harappa and Mohenjo-daro, Sargon of Akkad forges perhaps the first empire around 2300 BCE, and Caral in Peru becomes one of the oldest cities in the Americas. Around 2200 BCE a severe, prolonged drought, the '4.2-kiloyear event', may have contributed to the decline of Akkad and of Egypt's Old Kingdom, though the link is debated.",
+        "planet": {
+          "co2": "~265–275 ppm",
+          "temperature": "~pre-industrial; drought ~2200 BCE",
+          "humans": "~10 → ~27 million? (rough)"
+        },
+        "fringeTheories": [
+          {
+            "title": "Ancient astronauts built the pyramids",
+            "consensus": "fringe",
+            "claim": "Popularised by Erich von Däniken's Chariots of the Gods? (1968), the ancient-astronaut idea holds that extraterrestrials visited Earth in antiquity and built or inspired monuments such as the pyramids of Giza.",
+            "mainstreamView": "Archaeology documents how Egyptians built the pyramids: quarries, ramps, tools, the workers' town at Giza and papyri such as the Diary of Merer, which records shipping limestone for the Great Pyramid. Critics note that the theory ignores this evidence and underestimates the abilities of ancient peoples.",
+            "wikipedia": "Ancient astronauts"
+          },
+          {
+            "title": "Sphinx water-erosion hypothesis",
+            "consensus": "fringe",
+            "claim": "Geologist Robert Schoch and writer John Anthony West argued that weathering of the Great Sphinx and its enclosure was caused by prolonged rainfall, implying that it was carved thousands of years before Egyptologists accept.",
+            "mainstreamView": "Most geologists and Egyptologists attribute the weathering to other processes acting on poor-quality limestone, such as salt crystallisation and wind, and the Sphinx fits archaeologically into King Khafre's pyramid complex of about 2500 BCE. No trace of an earlier civilisation capable of such a project has been found at Giza.",
+            "wikipedia": "Sphinx water erosion hypothesis"
+          }
+        ]
+      },
+      {
+        "id": "ancient-middle-late-bronze-age",
+        "title": "Middle & Late Bronze Age",
+        "subtitle": "Palaces, chariots and the first international age",
+        "level": 2,
+        "start": -2000,
+        "end": -1200,
+        "focus": { "lat": 34, "lon": 30, "heightKm": 6000 },
+        "description": "Babylon under Hammurabi issues one of the best-known early law codes around 1754 BCE, and the horse-drawn chariot spreads across Eurasia. In the Late Bronze Age, Egypt's New Kingdom, the Hittites, Mitanni, Babylon and Assyria form a network of great powers linked by diplomacy and trade, recorded in the Amarna letters, while Mycenaean palaces flourish in Greece. In China the Shang dynasty leaves the oldest known Chinese writing on oracle bones, and around 1200 BCE many eastern Mediterranean palace states collapse amid drought, migration, warfare and the breakdown of trade.",
+        "planet": { "co2": "~275 ppm", "temperature": "~pre-industrial", "humans": "~27 → ~50 million? (rough)" },
+        "fringeTheories": [
+          {
+            "title": "Worlds in Collision",
+            "consensus": "fringe",
+            "claim": "In Worlds in Collision (1950), Immanuel Velikovsky claimed that Venus was ejected from Jupiter and passed close to Earth around 1500 BCE, causing the plagues of Egypt and other catastrophes remembered in ancient myths.",
+            "mainstreamView": "Celestial mechanics, the age and composition of Venus, and continuous records in ice cores and tree rings all rule out such encounters in historical times. Astronomers and historians rejected the book's reading of myths as literal astronomical records, and it is now a classic case study in pseudoscience.",
+            "wikipedia": "Worlds in Collision"
+          }
+        ]
+      },
+      {
+        "id": "ancient-early-iron-age",
+        "title": "Early Iron Age & first empires",
+        "subtitle": "Iron, alphabets and empires",
+        "level": 2,
+        "start": -1200,
+        "end": -500,
+        "focus": { "lat": 32, "lon": 45, "heightKm": 9000 },
+        "description": "Out of the Bronze Age collapse, iron tools and weapons spread, and Phoenician traders carry their alphabet, ancestor of the Greek and Latin scripts, across the Mediterranean. The Neo-Assyrian and then the Neo-Babylonian empires dominate the Near East until Cyrus the Great founds the Achaemenid Persian Empire from 550 BCE, the largest the world had yet seen. In China the Zhou realm fragments into rival states, in India the late Vedic period produces the early Upanishads, and Greek city-states found colonies around the Mediterranean. In Mesoamerica, the Olmec build ceremonial centres such as La Venta.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~50 → ~100 million? (rough)" },
+        "fringeTheories": [
+          {
+            "title": "African or Old World founders of the Olmec",
+            "consensus": "fringe",
+            "claim": "Writers such as Ivan Van Sertima claimed that the colossal Olmec heads show African features and that African or other Old World voyagers founded or shaped Olmec civilisation.",
+            "mainstreamView": "Archaeologists regard the heads as portraits of Olmec rulers carved by Indigenous Mesoamericans, and no African artefacts, crops, animals or genetic traces have been found at Olmec sites. Olmec culture grew out of earlier local Mesoamerican traditions.",
+            "wikipedia": "Olmec alternative origin speculations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "classical",
+    "title": "Classical Antiquity",
+    "subtitle": "Greece, Rome, Persia, Han, Maurya",
+    "level": 1,
+    "start": -500,
+    "end": 500,
+    "timelineWeight": 8,
+    "playbackYearsPerSecond": 11,
+    "description": "From the Mediterranean to China, large empires such as Achaemenid Persia, the Hellenistic kingdoms, Rome, the Maurya and Gupta in India, and the Qin and Han in China unify vast territories. Philosophical and religious traditions that still shape the world, from Greek philosophy and Confucianism to Buddhism, Christianity and rabbinic Judaism, take shape and spread along growing trade routes such as the Silk Roads. The era closes with the fragmentation of the Han and of the western Roman Empire amid migrations across Eurasia, while the eastern Roman Empire endures.",
+    "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~100 → ~200 million? (rough)" },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 75, "borders": true },
+    "fringeTheories": [
+      {
+        "title": "New Chronology",
+        "consensus": "fringe",
+        "claim": "Mathematician Anatoly Fomenko's New Chronology claims that the history of antiquity was largely fabricated or duplicated from medieval events, so that ancient Rome, Greece and Egypt really belong to roughly the last thousand years.",
+        "mainstreamView": "Historians, archaeologists and astronomers reject it: radiocarbon dating, tree rings, volcanic layers in ice cores, recorded eclipses and countless independent documents and inscriptions consistently support the conventional chronology. Fomenko's statistical 'duplicates' rest on selective and arbitrary comparisons.",
+        "wikipedia": "New chronology (Fomenko)"
+      }
+    ],
+    "children": [
+      {
+        "id": "classical-greece-persia-warring-states",
+        "title": "Classical Greece, Persia & the Warring States",
+        "subtitle": "Philosophers, city-states and rival kingdoms",
+        "level": 2,
+        "start": -500,
+        "end": -323,
+        "focus": { "lat": 35, "lon": 55, "heightKm": 14000 },
+        "description": "The Greek city-states repel the Persian invasions of 490 and 480–479 BCE, and Athens experiments with democracy while Socrates, Plato and Aristotle lay foundations of Western philosophy. In China the Warring States period brings fierce competition between kingdoms alongside a flowering of Confucian, Daoist and Legalist thought. Alexander of Macedon conquers the Persian Empire between 334 and 323 BCE, reaching the Indus before his death in Babylon.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~100–150 million? (rough)" }
+      },
+      {
+        "id": "classical-hellenistic-qin-han",
+        "title": "Hellenistic world, Maurya, Qin–Han & Roman Republic",
+        "subtitle": "Successor kingdoms and new unifications",
+        "level": 2,
+        "start": -323,
+        "end": -27,
+        "focus": { "lat": 32, "lon": 55, "heightKm": 14000 },
+        "description": "Alexander's generals carve his empire into Hellenistic kingdoms, and Alexandria becomes a centre of science and scholarship. In India the Maurya Empire unites most of the subcontinent and Ashoka promotes Buddhism after the Kalinga war, while in China the Qin unify the warring states in 221 BCE and the Han dynasty follows from 202 BCE. Rome conquers Italy, defeats Carthage in the Punic Wars and absorbs the Hellenistic east, but its Republic dissolves in civil war, ending with Octavian's victory and his new title, Augustus, in 27 BCE.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~150 → ~200 million? (rough)" }
+      },
+      {
+        "id": "classical-roman-han",
+        "title": "Roman Empire & Han China",
+        "subtitle": "Two empires at either end of the Silk Roads",
+        "level": 2,
+        "start": -27,
+        "end": 284,
+        "focus": { "lat": 35, "lon": 60, "heightKm": 16000 },
+        "description": "The Roman Empire and Han China together rule perhaps half of humanity, linked indirectly by Silk Road and Indian Ocean trade through Parthia, the Kushan Empire and India. Christianity emerges in Roman Judaea in the first century and spreads through the empire, while Buddhism travels along the trade routes into China. The Han dynasty collapses in 220 into the Three Kingdoms, and the Roman Empire endures half a century of civil war, invasion and plague in the Crisis of the Third Century.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~200–250 million? (rough)" },
+        "fringeTheories": [
+          {
+            "title": "The 'Baghdad Battery' as ancient electricity",
+            "consensus": "fringe",
+            "claim": "A clay jar holding a copper cylinder and an iron rod, found near Baghdad and dated to the Parthian or Sasanian period, has been claimed as an ancient electric battery used for electroplating or other purposes.",
+            "mainstreamView": "No wires, conductors or electroplated objects of the period have been found, and similar jars were used to store sacred scrolls. Archaeologists regard the battery interpretation as speculative at best.",
+            "wikipedia": "Baghdad Battery"
+          }
+        ]
+      },
+      {
+        "id": "classical-late-antiquity",
+        "title": "Late Antiquity",
+        "subtitle": "Christian Rome, migrations and the Gupta golden age",
+        "level": 2,
+        "start": 284,
+        "end": 500,
+        "focus": { "lat": 40, "lon": 30, "heightKm": 10000 },
+        "description": "Diocletian restructures the Roman Empire from 284, Constantine legalises Christianity and founds Constantinople in 330, and under Theodosius Christianity becomes the state religion. Pressure from the Huns and Germanic peoples contributes to the fragmentation of the western empire, conventionally ended in 476 when Odoacer deposes the last western emperor, while the eastern empire endures. In India the Gupta Empire presides over achievements in mathematics, astronomy and literature, and in China rival dynasties divide the north and the south.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "~pre-industrial", "humans": "~200–250 million? (rough)" }
+      }
+    ]
+  },
+  {
+    "id": "postclassical",
+    "title": "Post-classical Era",
+    "subtitle": "Islam, Tang–Song, Vikings, Mongols, Black Death",
+    "level": 1,
+    "start": 500,
+    "end": 1500,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 10,
+    "description": "Islam arises in Arabia and within a century its caliphates stretch from Spain to Central Asia, while Tang and Song China become the world's most populous and technologically advanced states. Europe's kingdoms take shape around the Latin Church, Vikings range from Newfoundland to the Caspian, and trade across the Sahara, the Indian Ocean and the Silk Roads knits Afro-Eurasia together. The Mongol conquests create the largest contiguous land empire in history, and the Black Death kills a third or more of Europe's population. In the Americas, Maya, Aztec and Inca states flourish independently.",
+    "planet": {
+      "co2": "~275–285 ppm",
+      "temperature": "Medieval Climate Anomaly (regional)",
+      "humans": "~200 → ~450 million? (rough)"
+    },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 75, "borders": true },
+    "children": [
+      {
+        "id": "postclassical-early-middle-ages",
+        "title": "Early Middle Ages: Islam & the Tang",
+        "subtitle": "Caliphates, Tang China and the Carolingians",
+        "level": 2,
+        "start": 500,
+        "end": 1000,
+        "focus": { "lat": 30, "lon": 45, "heightKm": 14000 },
+        "description": "The Plague of Justinian strikes the Mediterranean from 541 and returns for two centuries, and volcanic eruptions from 536 bring a cold spell known as the Late Antique Little Ice Age. Muhammad's preaching in Mecca and Medina gives rise to Islam, the Umayyad Caliphate expands from Iberia to the Indus, and under the Abbasids Baghdad becomes a hub of learning. China is reunified under the Sui and Tang, Charlemagne is crowned emperor in 800, and Viking voyages reach from the Caspian Sea to Greenland.",
+        "planet": {
+          "co2": "~277–280 ppm",
+          "temperature": "cool after 536 (volcanic eruptions)",
+          "humans": "~200 → ~275 million? (rough)"
+        },
+        "fringeTheories": [
+          {
+            "title": "Phantom time hypothesis",
+            "consensus": "fringe",
+            "claim": "Heribert Illig proposed in 1991 that the years 614–911 CE never happened and were invented by Emperor Otto III, Pope Sylvester II and others, making Charlemagne a fictional figure.",
+            "mainstreamView": "Dated eclipses, tree rings, radiocarbon dates and the independent chronologies of the Islamic world, China and Byzantium all confirm these centuries. Illig's key argument about the Gregorian calendar fails because the 1582 reform realigned the calendar with the Council of Nicaea (325 CE), not with Julius Caesar's time.",
+            "wikipedia": "Phantom time conspiracy theory"
+          }
+        ]
+      },
+      {
+        "id": "postclassical-high-middle-ages",
+        "title": "High Middle Ages: Song, Crusades & Mongols",
+        "subtitle": "Commerce, crusades and the Mongol storm",
+        "level": 2,
+        "start": 1000,
+        "end": 1300,
+        "focus": { "lat": 42, "lon": 60, "heightKm": 16000 },
+        "description": "Song China develops paper money, movable type and gunpowder weapons, and its economy is among the most commercialised in the world. Europe's population and towns grow during the Medieval Climate Anomaly, Norse voyagers briefly reach Newfoundland, where their presence is dated to 1021, and the Crusades bring Latin Christians into prolonged conflict with Muslim states in the Levant. From 1206 Genghis Khan and his successors build the Mongol Empire, the largest contiguous land empire in history, conquering China, Persia and the lands of the Rus'. In the Americas, Cahokia peaks along the Mississippi and the Chimú kingdom rises in coastal Peru.",
+        "planet": {
+          "co2": "~280 ppm",
+          "temperature": "Medieval Climate Anomaly (regional)",
+          "humans": "~275 → ~400 million? (rough)"
+        },
+        "fringeTheories": [
+          {
+            "title": "Prince Madoc's voyage to America",
+            "consensus": "fringe",
+            "claim": "A Welsh legend, popularised in Elizabethan England, says Prince Madoc ab Owain Gwynedd sailed west around 1170 and settled in America, and later stories claimed his descendants survived as 'Welsh-speaking Indians'.",
+            "mainstreamView": "There is no archaeological, linguistic or genetic evidence of Welsh settlement in pre-Columbian America, and searches for 'Welsh Indians', including John Evans's expedition to the Mandan in the 1790s, found none. Historians link the legend's popularity to English claims against Spain in the New World.",
+            "wikipedia": "Madoc"
+          }
+        ]
+      },
+      {
+        "id": "postclassical-late-middle-ages",
+        "title": "Late Middle Ages: Black Death, Ming & Ottomans",
+        "subtitle": "Plague, recovery and new empires",
+        "level": 2,
+        "start": 1300,
+        "end": 1500,
+        "focus": { "lat": 35, "lon": 20, "heightKm": 18000 },
+        "description": "The Black Death sweeps across Eurasia and North Africa from 1346 to 1353, killing perhaps a third to half of Europe's population and millions more elsewhere. The Ming dynasty expels the Mongols from China in 1368 and sends Zheng He's treasure fleets across the Indian Ocean, while the Ottomans capture Constantinople in 1453. In the Americas the Aztec Empire rules central Mexico from Tenochtitlan, and the Inca build the largest empire of the pre-Columbian Americas along the Andes. The era closes as Portuguese voyages round Africa and Columbus reaches the Caribbean in 1492.",
+        "planet": {
+          "co2": "~280 ppm",
+          "temperature": "cooling into the Little Ice Age",
+          "humans": "~400 → ~350 → ~450 million? (rough)"
+        },
+        "fringeTheories": [
+          {
+            "title": "1421: China discovered the world",
+            "consensus": "fringe",
+            "claim": "In 1421: The Year China Discovered the World (2002), Gavin Menzies claimed that fleets of the Ming admiral Zheng He circumnavigated the globe and reached the Americas, Antarctica and Australia before European explorers.",
+            "mainstreamView": "Historians and sinologists reject the claim: Chinese records describe Zheng He's voyages crossing the Indian Ocean as far as East Africa, and Menzies's supposed evidence from maps, wrecks and artefacts does not withstand scrutiny.",
+            "wikipedia": "Gavin Menzies"
+          },
+          {
+            "title": "Kensington Runestone",
+            "consensus": "fringe",
+            "claim": "A stone reported by a Swedish-American farmer in Minnesota in 1898 bears a runic inscription describing a Norse expedition deep into North America in 1362.",
+            "mainstreamView": "Runologists and linguists consider it a 19th-century creation because its language and runes match late-19th-century Swedish rather than 14th-century Norse. Norse presence in North America is real but is documented only on the Atlantic coast, at L'Anse aux Meadows in Newfoundland around 1021.",
+            "wikipedia": "Kensington Runestone"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "earlymodern",
+    "title": "Early Modern",
+    "subtitle": "Global contact, science and revolutions",
+    "level": 1,
+    "start": 1500,
+    "end": 1800,
+    "timelineWeight": 9,
+    "playbackYearsPerSecond": 5,
+    "description": "European voyages link the Americas, Africa and Asia into a single global network for the first time, bringing an exchange of crops, animals and diseases, the catastrophic depopulation of the Americas and the Atlantic slave trade. Gunpowder empires such as the Ottoman, Safavid, Mughal and Qing dominate much of Asia, while in Europe the Reformation, the Scientific Revolution and the Enlightenment transform religion, knowledge and politics. The era ends with revolutions in America and France and the first stirrings of industrialisation in Britain.",
+    "planet": {
+      "co2": "~272–283 ppm (Little Ice Age dip)",
+      "temperature": "Little Ice Age: modestly cooler",
+      "humans": "~450 million → ~1 billion"
+    },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 75, "borders": true },
+    "children": [
+      {
+        "id": "earlymodern-exploration-reformation",
+        "title": "Age of Exploration & Reformation",
+        "subtitle": "Oceans connected, Christendom divided",
+        "level": 2,
+        "start": 1500,
+        "end": 1600,
+        "focus": { "lat": 20, "lon": -30, "heightKm": 20000 },
+        "description": "Spanish conquerors topple the Aztec and Inca empires, epidemics of smallpox and other Old World diseases devastate Indigenous American populations, and enslaved Africans are shipped across the Atlantic in growing numbers. The Magellan–Elcano expedition completes the first circumnavigation of the globe in 1522, and silver from Potosí and Mexico flows to Europe and China. Martin Luther's protest of 1517 splits Western Christianity, and Copernicus publishes his Sun-centred model in 1543. The Ottoman Empire reaches its height under Suleiman the Magnificent, and the Mughal Empire is founded in India in 1526.",
+        "planet": { "co2": "~275–280 ppm", "temperature": "Little Ice Age", "humans": "~450 → ~550 million? (rough)" },
+        "fringeTheories": [
+          {
+            "title": "Piri Reis map shows ice-free Antarctica",
+            "consensus": "fringe",
+            "claim": "Charles Hapgood and later ancient-astronaut writers claimed that the Ottoman admiral Piri Reis's world map of 1513 shows the coast of Antarctica free of ice, implying it was surveyed by a lost advanced civilisation.",
+            "mainstreamView": "Historians of cartography read the southern coastline as a distorted continuation of South America, typical of the guesswork of the time, and Piri Reis wrote that he compiled the map from earlier charts, including one by Columbus. Antarctica has been largely ice-covered for about 34 million years and was first sighted in 1820.",
+            "wikipedia": "Piri Reis map"
+          },
+          {
+            "title": "Flat Earth",
+            "consensus": "fringe",
+            "claim": "Modern flat-Earth movements, revived in the 19th century by Samuel Rowbotham and spread online since the 2010s, claim that Earth is a flat disc and that evidence of a globe is faked.",
+            "mainstreamView": "Earth's spherical shape has been known since ancient Greece, where Eratosthenes estimated its circumference around 240 BCE, and is confirmed by circumnavigation from 1522, geodesy and images from space. Contrary to a popular myth, educated medieval Europeans also knew the Earth was round.",
+            "wikipedia": "Modern flat Earth beliefs"
+          }
+        ]
+      },
+      {
+        "id": "earlymodern-scientific-revolution",
+        "title": "Scientific Revolution & global empires",
+        "subtitle": "Telescopes, trading companies and the Little Ice Age",
+        "level": 2,
+        "start": 1600,
+        "end": 1700,
+        "focus": { "lat": 48, "lon": 10, "heightKm": 12000 },
+        "description": "Galileo turns a telescope to the sky, Kepler describes the orbits of the planets, and Newton's Principia (1687) unites the physics of Earth and the heavens. European trading companies such as the Dutch and English East India Companies build commercial empires, and colonies spread along the coasts of the Americas, sustained by an expanding slave trade. The Ming dynasty falls to the Qing in 1644, the Thirty Years' War devastates Central Europe, and a 'General Crisis' of war, revolt and famine coincides with one of the coldest phases of the Little Ice Age.",
+        "planet": {
+          "co2": "~272–277 ppm (1610 dip)",
+          "temperature": "coldest phase of the Little Ice Age",
+          "humans": "~550 → ~600 million? (rough)"
+        },
+        "fringeTheories": [
+          {
+            "title": "Someone else wrote Shakespeare",
+            "consensus": "fringe",
+            "claim": "Since the mid-19th century some writers have argued that the works attributed to William Shakespeare of Stratford were really written by someone else, such as Francis Bacon, Christopher Marlowe or Edward de Vere, 17th Earl of Oxford.",
+            "mainstreamView": "Shakespeare scholars overwhelmingly accept his authorship, supported by title pages, contemporary testimony, the First Folio of 1623 compiled by his fellow actors, and stylistic evidence including plays co-written with other dramatists. De Vere died in 1604, before several of the plays were written.",
+            "wikipedia": "Shakespeare authorship question"
+          }
+        ]
+      },
+      {
+        "id": "earlymodern-enlightenment-revolutions",
+        "title": "Enlightenment & Atlantic revolutions",
+        "subtitle": "Reason, steam and revolution",
+        "level": 2,
+        "start": 1700,
+        "end": 1800,
+        "focus": { "lat": 35, "lon": -40, "heightKm": 14000 },
+        "description": "Enlightenment thinkers challenge traditional authority and champion reason, individual rights and religious tolerance. The steam engines of Newcomen and then Watt, and the mechanisation of textile production in Britain, begin the Industrial Revolution. The American Revolution (1775–1783) and the French Revolution from 1789 proclaim popular sovereignty, the Haitian Revolution begins in 1791, and the Atlantic slave trade reaches its peak. James Cook's Pacific voyages chart New Zealand and the east coast of Australia, and Britain expands its rule in India.",
+        "planet": {
+          "co2": "~277–283 ppm",
+          "temperature": "Little Ice Age, slowly easing",
+          "humans": "~600 million → ~1 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "The Illuminati run the world",
+            "consensus": "fringe",
+            "claim": "Following Augustin Barruel and John Robison in the 1790s, conspiracy theorists have claimed that the Bavarian Illuminati secretly survived and engineered the French Revolution and, in later versions, world events to this day.",
+            "mainstreamView": "The Bavarian Illuminati was a real Enlightenment secret society founded in 1776, but it was suppressed by the Bavarian government by 1785 and there is no evidence that it survived or directed later events. Historians explain the French Revolution through fiscal crisis, social tensions and Enlightenment ideas.",
+            "wikipedia": "Illuminati"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "modern",
+    "title": "Modern Era",
+    "subtitle": "Industry, world wars, the information age",
+    "level": 1,
+    "start": 1800,
+    "end": 2026.75,
+    "timelineWeight": 10,
+    "playbackYearsPerSecond": 2,
+    "description": "Fossil-fuelled industrialisation, nation-states and global empires, two world wars, decolonisation and the digital revolution transform human life within a few generations. World population grows from about 1 billion to more than 8 billion, life expectancy more than doubles, and humanity becomes a planetary force, raising atmospheric carbon dioxide by about half and warming the climate. Many scientists describe this as a new, human-dominated phase of Earth's history, although a proposed 'Anthropocene' epoch was rejected as a formal geological unit in 2024.",
+    "planet": {
+      "co2": "~283 → ~430 ppm",
+      "temperature": "~0 → ~+1.3–1.5 °C vs 1850–1900",
+      "seaLevel": "~+0.2 m since 1900, accelerating",
+      "humans": "~1 billion → ~8.2 billion"
+    },
+    "globeStyle": { "mode": "satellite", "atmosphere": "normal", "iceCapLatitude": 75, "borders": true },
+    "children": [
+      {
+        "id": "modern-napoleonic-early-industry",
+        "title": "Napoleonic wars & early industry",
+        "subtitle": "Napoleon, steam and independence",
+        "level": 2,
+        "start": 1800,
+        "end": 1848,
+        "focus": { "lat": 45, "lon": -10, "heightKm": 12000 },
+        "description": "The Napoleonic Wars reshape Europe until Napoleon's final defeat at Waterloo in 1815, and most of Spanish and Portuguese America wins independence by the mid-1820s. Steam power spreads from factories to railways and ships, and Britain abolishes its slave trade in 1807 and slavery in most of its colonies from 1834. The 1815 eruption of Tambora in Indonesia brings the 'Year Without a Summer' in 1816, and the First Opium War (1839–1842) forces China to open to British trade.",
+        "planet": { "co2": "~283–285 ppm", "temperature": "cool 1810s (Tambora, 1815)", "humans": "~1 → ~1.2 billion" }
+      },
+      {
+        "id": "modern-nations-empires",
+        "title": "Nationalism, imperialism & the second industrial revolution",
+        "subtitle": "Railways, telegraphs and the scramble for colonies",
+        "level": 2,
+        "start": 1848,
+        "end": 1914,
+        "focus": { "lat": 30, "lon": 20, "heightKm": 20000 },
+        "description": "The revolutions of 1848 shake Europe, Italy and Germany unify, the United States abolishes slavery after its Civil War (1861–1865), and Japan modernises rapidly after the Meiji Restoration of 1868. Steel, electricity, chemicals, the telephone and the internal-combustion engine drive a second industrial revolution, while railways, steamships and telegraph cables shrink the world. European powers partition almost all of Africa and expand across Asia, and Darwin's theory of evolution by natural selection (1859) transforms biology.",
+        "planet": {
+          "co2": "~285 → ~300 ppm",
+          "temperature": "~0 °C (the 1850–1900 baseline)",
+          "humans": "~1.2 → ~1.8 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "Tunguska: alien craft or death ray",
+            "consensus": "fringe",
+            "claim": "The 1908 Tunguska explosion, which flattened some 2,000 square kilometres of Siberian forest, has been attributed by fringe writers to a crashed alien spacecraft, antimatter, a tiny black hole or Nikola Tesla's 'death ray'.",
+            "mainstreamView": "Scientists attribute it to the airburst of a stony asteroid or comet fragment perhaps 50–60 metres across that exploded several kilometres above the ground. This explains the lack of a crater, the radial pattern of felled trees and the microscopic debris recovered from the area.",
+            "wikipedia": "Tunguska event"
+          }
+        ]
+      },
+      {
+        "id": "modern-world-wars",
+        "title": "The world wars",
+        "subtitle": "Total war, revolution and depression",
+        "level": 2,
+        "start": 1914,
+        "end": 1945,
+        "playbackYearsPerSecond": 1.5,
+        "focus": { "lat": 48, "lon": 15, "heightKm": 12000 },
+        "description": "The First World War (1914–1918) kills around 20 million people and brings down the German, Austro-Hungarian, Russian and Ottoman empires, and the 1918 influenza pandemic kills tens of millions more. The Russian Revolution creates the Soviet Union, the Great Depression from 1929 fuels extremism, and fascist and militarist regimes rise in Italy, Germany and Japan. The Second World War (1939–1945), the deadliest conflict in history, kills some 70–85 million people, including six million Jews murdered in the Holocaust, and ends after the atomic bombings of Hiroshima and Nagasaki.",
+        "planet": {
+          "co2": "~300 → ~310 ppm",
+          "temperature": "~+0.2–0.3 °C vs 1850–1900",
+          "humans": "~1.8 → ~2.3 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "The Philadelphia Experiment",
+            "consensus": "fringe",
+            "claim": "According to a story spread from the mid-1950s by Carl M. Allen, the US Navy made the destroyer escort USS Eldridge invisible and teleported it at Philadelphia in 1943.",
+            "mainstreamView": "The Navy and historians have found no evidence for the experiment, and the ship's records place it elsewhere at the time. The tale appears to grow out of Allen's letters and garbled accounts of real wartime research on degaussing ships to protect them from magnetic mines.",
+            "wikipedia": "Philadelphia Experiment"
+          }
+        ]
+      },
+      {
+        "id": "modern-cold-war",
+        "title": "Cold War & decolonisation",
+        "subtitle": "Superpowers, new nations and the space age",
+        "level": 2,
+        "start": 1945,
+        "end": 1991,
+        "playbackYearsPerSecond": 1.5,
+        "focus": { "lat": 45, "lon": 20, "heightKm": 20000 },
+        "description": "The United States and the Soviet Union face off in a nuclear-armed Cold War, fought through proxy wars in Korea, Vietnam, Afghanistan and elsewhere, while the United Nations is founded in 1945. Dozens of new nations emerge as European empires dissolve in Asia and Africa, and the Chinese Communist Party takes power in 1949. The space age begins with Sputnik in 1957 and humans walk on the Moon in 1969, while the 'Great Acceleration' sees population, energy use and emissions soar. The era ends with the fall of the Berlin Wall in 1989 and the dissolution of the Soviet Union in 1991.",
+        "planet": {
+          "co2": "~310 → ~355 ppm",
+          "temperature": "~+0.3 → ~+0.6 °C vs 1850–1900",
+          "humans": "~2.3 → ~5.4 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "Roswell flying saucer",
+            "consensus": "fringe",
+            "claim": "Since the late 1970s, UFO proponents have claimed that a flying saucer crashed near Roswell, New Mexico, in 1947 and that the US government recovered alien bodies and covered it up.",
+            "mainstreamView": "US Air Force reports in the 1990s concluded that the debris came from Project Mogul, a classified programme of high-altitude balloons designed to detect Soviet nuclear tests, and that 'alien body' stories conflated later events such as tests with crash dummies. No physical evidence of an extraterrestrial craft has ever been produced.",
+            "wikipedia": "Roswell incident"
+          },
+          {
+            "title": "The Moon landings were faked",
+            "consensus": "fringe",
+            "claim": "Conspiracy theorists, beginning with Bill Kaysing's 1976 book, claim that NASA faked the Apollo Moon landings of 1969–1972 in a film studio.",
+            "mainstreamView": "The landings are confirmed by 382 kilograms of lunar samples studied worldwide, laser retroreflectors still in use on the Moon, independent tracking by other countries including the Soviet Union, and photographs of the landing sites from later lunar orbiters. The supposed photographic anomalies all have well-understood explanations.",
+            "wikipedia": "Moon landing conspiracy theories"
+          }
+        ]
+      },
+      {
+        "id": "modern-globalisation",
+        "title": "Globalisation & the web",
+        "subtitle": "One world market, one network",
+        "level": 2,
+        "start": 1991,
+        "end": 2008,
+        "playbackYearsPerSecond": 1.5,
+        "focus": { "lat": 30, "lon": 60, "heightKm": 20000 },
+        "description": "With the Cold War over, market economies and global trade expand rapidly, the European Union deepens, and China's economy grows at a historic pace, especially after it joins the World Trade Organization in 2001. The World Wide Web, opened to the public in 1991, and mobile phones begin to connect billions of people. The attacks of 11 September 2001 lead to US-led wars in Afghanistan and Iraq, and the period ends with the global financial crisis of 2007–2008.",
+        "planet": {
+          "co2": "~355 → ~385 ppm",
+          "temperature": "~+0.6 → ~+0.9 °C vs 1850–1900",
+          "humans": "~5.4 → ~6.8 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "Chemtrails",
+            "consensus": "fringe",
+            "claim": "Since the late 1990s, believers have claimed that long-lasting aircraft trails are 'chemtrails' of chemical or biological agents sprayed deliberately for purposes such as weather or population control.",
+            "mainstreamView": "Persistent contrails are ordinary ice-crystal clouds that form when hot, humid engine exhaust meets cold air at altitude, and how long they last depends on atmospheric humidity. In a 2016 survey, 76 of 77 atmospheric chemists and geochemists reported no evidence of a secret large-scale spraying programme.",
+            "wikipedia": "Chemtrail conspiracy theory"
+          }
+        ]
+      },
+      {
+        "id": "modern-present",
+        "title": "The present",
+        "subtitle": "Smartphones, pandemic and a warming planet",
+        "level": 2,
+        "start": 2008,
+        "end": 2026.75,
+        "playbackYearsPerSecond": 1.5,
+        "focus": { "lat": 20, "lon": 0, "heightKm": 22000 },
+        "description": "Smartphones and social media put the internet in most people's pockets, and artificial intelligence advances rapidly. The COVID-19 pandemic, first identified in late 2019, kills millions and disrupts the global economy, and Russia's full-scale invasion of Ukraine in 2022 brings the largest war in Europe since 1945. Atmospheric carbon dioxide passes 420 ppm, 2024 becomes the first calendar year more than 1.5 °C warmer than pre-industrial times, and world population passes 8 billion in 2022.",
+        "planet": {
+          "co2": "~385 → ~430 ppm",
+          "temperature": "~+0.9 → ~+1.3–1.5 °C vs 1850–1900",
+          "seaLevel": "~+0.2 m since 1900; ~4 mm/yr",
+          "humans": "~6.8 → ~8.2 billion"
+        },
+        "fringeTheories": [
+          {
+            "title": "The world would end in 2012",
+            "consensus": "fringe",
+            "claim": "Many people believed that the end of a cycle of the Maya Long Count calendar on 21 December 2012 would bring global catastrophe or spiritual transformation, such as a collision with a hidden planet called Nibiru.",
+            "mainstreamView": "Maya scholars note that the Classic Maya never predicted the end of the world: the date simply completed a cycle of 13 bak'tuns, and Maya inscriptions mention dates far beyond it. Astronomers found no trace of Nibiru or any other threat, and the date passed without incident.",
+            "wikipedia": "2012 phenomenon"
+          }
+        ]
+      }
+    ]
+  }
+]
